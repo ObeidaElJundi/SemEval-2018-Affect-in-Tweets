@@ -11,7 +11,7 @@ SemEval (Semantic Evaluation) is an ongoing series of evaluations of computation
 * pandas
 * scikit-learn
 * tensorflow
-* kiras
+* keras
 * nltk (3.2.5)
 * matplotlib
 * seaborn
