@@ -1,0 +1,800 @@
+manosim_1=>noun ya_1=>verb li_1=>noun Einoda_1=>noun $ariyT_1=>noun qAl_1=>verb $ugol_1=>noun xal~_1=>noun na_1=>verb ta_1=>verb wa_1=>part rAtib_1=>noun Al_1=>noun_prop
+riDA_1=>noun_prop Al_1=>noun miylAd_1=>noun faroH_1=>noun Eumor_1=>noun tAriyx_1=>noun EAbir_1=>adj
+huduw'_1=>noun Eamorw_1=>noun_prop diyAb_1=>noun_prop mizAj_1=>noun
+<il`h_1=>noun riDaY_1=>noun Al_1=>noun saHar_1=>noun Eajiyb_1=>adj
+<il`h_1=>noun ya_1=>verb badal_1=>noun Eiyd_1=>noun saEiyd_1=>noun_prop quwl_1=>verb qud~Am_1=>noun 6_1=>digit layAliy_1=>noun saEiyd_1=>adj $ad~_1=>noun Hiyal_1=>noun
+maroHab_1=>adv tu_1=>verb bidAy_1=>noun jadiyd_1=>adj wa_1=>noun naZiyf_1=>adj tamAm_1=>noun >a_1=>verb bi_1=>conj_sub bidAy_1=>noun saEiyd_1=>adj wa_1=>adj
+qiS~_1=>noun Hub~_1=>noun bahojat_1=>noun_prop muniyr_1=>adj riyH_1=>noun Al_1=>noun
+rAH_1=>noun taEAdal_1=>verb rAH_1=>noun SalA_1=>noun Al_1=>noun_prop riDA_1=>noun_prop dAxiliy~_1=>adj {ino$irAH_1=>noun Sadoriy~_1=>adj maviyl_1=>noun Al_1=>noun >aEan_1=>verb EalaY_1=>prep qiyAm_1=>noun dawom_1=>noun
+>a_1=>verb Al_1=>noun buTuwl_1=>noun Al_1=>noun li_1=>noun maEAF_1=>adv li_1=>verb Al_1=>noun Al_1=>noun Tariyq_1=>noun Al_1=>noun Al_1=>adj Al_1=>noun
+SadAq_1=>noun tu_1=>verb Hub~_1=>noun Sad~aq_1=>verb $awoq_1=>noun
+Al_1=>noun wa_1=>noun fiy_1=>prep 20_1=>digit <iHosAs_1=>noun Hub~_1=>noun karoh_1=>noun >aforAH_1=>noun Al_1=>noun
+ya_1=>verb Al_1=>noun Al_1=>noun_prop wa_1=>noun <in_1=>conj_sub kun_1=>verb ta_1=>verb Al_1=>noun fa_1=>verb Al_1=>noun <il`h_1=>noun rAjaE_1=>verb qalob_1=>noun Hafol_1=>noun EabodAlmajiyd_1=>noun_prop Al_1=>noun_prop
+mutaHam~is_1=>noun tu_1=>verb ya_1=>verb na_1=>verb HamAs_1=>noun
+
+yA_1=>part_voc Hulow_1=>noun badan_1=>verb na_1=>verb luEob_1=>noun qad~_1=>noun yu_1=>verb Haniyn_1=>noun
+qalob_1=>noun >an~_1=>noun ya_1=>verb min_1=>prep nu_1=>verb
+bakor_1=>noun qAE_1=>noun Al_1=>noun mawAkib_1=>noun Al_1=>noun zawAj_1=>noun saEiyd_1=>noun_prop bi_1=>noun <il`h_1=>noun mawosim_1=>noun Al_1=>noun dAwud_1=>noun_prop
+HAn_1=>verb waqot_1=>noun Al_1=>noun fa_1=>verb <il`h_1=>noun $i}_1=>verb sAE_1=>noun {isotijAb_1=>noun bi_1=>noun <ilaY_1=>prep Al_1=>noun >a*okar_1=>verb bi_1=>noun miEA_1=>noun
+xal~_1=>verb katuwm_1=>adj wa_1=>verb ham~_1=>noun bi_1=>noun <il`h_1=>noun wa_1=>noun wa_1=>noun kariym_1=>noun_prop Al_1=>adj Al_1=>adj sam~_1=>noun Eam~An_1=>noun_prop nuxob_1=>noun mugar~id_1=>adj Eam~An_1=>noun_prop
+taEAlaY_1=>verb qul_1=>verb <in_1=>conj_sub Al_1=>noun kul~_1=>noun rAH_1=>noun
+Al_1=>noun >a_1=>verb saEAd_1=>noun wa_1=>noun bAl_1=>noun wa_1=>verb qalob_1=>noun faraH_1=>noun wa_1=>noun sakiyn_1=>noun wa_1=>noun wa_1=>noun
+Al_1=>noun Al_1=>noun Al_1=>noun sAE_1=>noun Al_1=>noun
+Al_1=>noun bahoj_1=>noun Al_1=>noun wa_1=>noun HarAr_1=>noun na_1=>verb HayA_1=>noun Al_1=>noun bi_1=>noun wa_1=>noun wa_1=>verb Al_1=>noun bi_1=>noun >aEomAr_1=>noun wa_1=>noun wa_1=>verb Al_1=>noun wa_1=>noun bi_1=>noun
+Al_1=>noun qanAE_1=>noun wa_1=>noun bi_1=>pron_rel ta_1=>verb wa_1=>verb fiymA_1=>conj_sub ta_1=>verb SabAH_1=>noun saEAd_1=>noun qanAE_1=>noun
+Al_1=>noun ya_1=>verb >arowAH_1=>noun nAdir_1=>noun bi_1=>noun mutawADiE_1=>adj l`kin~a_1=>conj bi_1=>noun wa_1=>adj ya_1=>verb bi_1=>noun Al_1=>noun li>an~a_1=>conj_sub ya_1=>verb sanAm_1=>noun Al_1=>noun li_1=>noun
+li_1=>adj Al_1=>noun la*~_1=>noun bi_1=>noun fariyd_1=>adj Tay~ib_1=>adj na_1=>verb Haniyn_1=>noun
+xafiyf_1=>adj
+miEA_1=>noun Al_1=>noun dA}im_1=>adj tu_1=>verb bi_1=>noun wa_1=>noun ka>an~a_1=>verb_pseudo malozuwm_1=>noun ta_1=>verb qalob_1=>noun wa_1=>pron miEA_1=>noun
+rAH_1=>noun Al_1=>noun >a_1=>verb
+>aHoyAn_1=>noun <il~A_1=>part DaHok_1=>noun jabor_1=>noun xATir_1=>noun
+SalA_1=>noun Al_1=>noun {ibotisAm_1=>noun Al_1=>adj wa_1=>noun Al_1=>noun wa_1=>verb Al_1=>noun li_1=>noun ya_1=>verb naEiym_1=>noun_prop Al_1=>noun
+Al_1=>noun Ealay_1=>prep Al_1=>noun saEAd_1=>noun Al_1=>noun >a_1=>verb EalaY_1=>prep juhuwd_1=>noun li_1=>noun wa_1=>noun fiy_1=>prep faroH_1=>noun bi_1=>noun
+Al_1=>noun taxal~iy_1=>noun saEiyd_1=>noun_prop
+{iEotaqad_1=>verb ta$aw~af_1=>verb manoZar_1=>noun Al_1=>noun kalim_1=>noun mazobal_1=>noun qaliyl_1=>adj Eurif_1=>verb Eam~_1=>noun tarak_1=>verb
+>u_1=>verb bi_1=>noun >aHas~_1=>verb bi_1=>noun li>an~a_1=>conj_sub maEa_1=>prep
+Al_1=>noun Al_1=>adj qalob_1=>noun tu_1=>verb HAj_1=>noun mugaT~ay_1=>noun HaDan_1=>verb kad~_1=>noun
+qalob_1=>noun yu_1=>verb >ahol_1=>noun Al_1=>noun Al_1=>adj bi_1=>prep taxofiyf_1=>noun liyA_1=>noun_prop wa_1=>noun qalob_1=>noun ka_1=>noun xal~_1=>verb >a_1=>verb
+<i*A_1=>conj <il`h_1=>noun li_1=>noun_prop Ean_1=>prep yA_1=>part_voc Eabodiy~_1=>adj qam~_1=>verb wa_1=>verb jadiyd_1=>adj li_1=>noun wa_1=>verb Al_1=>noun wa_1=>verb faraH_1=>noun_prop {inotaZar_1=>verb wa_1=>pron_interrog xawof_1=>noun >axAf_1=>verb >amAn_1=>noun <il`h_1=>noun
+Hayawiy~_1=>adj Al_1=>noun_prop EalaY_1=>prep Tuwl_1=>noun xal~_1=>noun mA$iy_1=>noun
+ya_1=>verb miEA_1=>noun xayor_1=>noun wa_1=>noun wa_1=>noun ya_1=>verb {ixotibAr_1=>noun >ajomal_1=>noun na_1=>verb {isotawodaE_1=>verb $ay~_1=>noun Einoda_1=>noun wa_1=>pron xayor_1=>noun HafiyZ_1=>noun
+Al_1=>noun maraD_1=>noun rubaY_1=>noun >aHas~_1=>verb bi_1=>noun dAxiliy~_1=>adj bayoniy~_1=>adj <il`h_1=>noun EAmir_1=>noun_prop bayoniy~_1=>adj Al_1=>noun xarAb_1=>noun
+>an~a_1=>conj_sub tu_1=>verb >anota_1=>pron muxay~ar_1=>noun mujobar_1=>noun >an_1=>conj_sub ta_1=>verb fa_1=>verb mujobar_1=>noun muxay~ar_1=>noun
+sal~am_1=>verb EalaY_1=>prep Eay~_1=>noun >uxot_1=>noun >u_1=>verb <il`h_1=>noun wa_1=>noun wa_1=>noun qalob_1=>noun Al_1=>noun
+Al_1=>noun <in_1=>conj_sub na_1=>verb daEaw_1=>noun Al_1=>adj >aHolAm_1=>noun Al_1=>noun >amAniy_1=>noun Al_1=>noun quluwb_1=>noun rAH_1=>noun bi_1=>noun wa_1=>noun *ihon_1=>noun
+Al_1=>noun TaEom_1=>noun mar~_1=>noun
+yu_1=>verb ya_1=>verb mutaEATif_1=>noun buwfuwn_1=>noun_prop sAtir_1=>noun_prop Hiqod_1=>noun EalaY_1=>prep Al_1=>noun bi_1=>noun Hub~_1=>noun buwfuwn_1=>noun_prop
+Al_1=>noun ya_1=>verb qalob_1=>noun ya_1=>verb Al_1=>noun qawiy~_1=>adj
+Tariyq_1=>noun li_1=>noun Al_1=>noun Al_1=>noun saEAd_1=>noun >aEomal_1=>verb bi_1=>noun ta_1=>verb
+fiy_1=>prep >amal_1=>noun Al_1=>noun mawojuwd_1=>noun la_1=>verb_pseudo xayor_1=>noun
+kasom_1=>noun xif~_1=>noun jalAl_1=>noun_prop xAliS_1=>adj
+tu_1=>verb EalaY_1=>prep >amal_1=>noun lA_1=>part_neg ya_1=>verb tafA&ul_1=>noun lA_1=>part_neg yu_1=>verb <iSorAr_1=>noun lA_1=>part_neg ya_1=>verb saEAd_1=>noun lA_1=>part_neg tu_1=>verb quluwb_1=>noun ta_1=>verb
+HaZiy_1=>verb Al_1=>noun qaliyl_1=>adj miEA_1=>noun >a_1=>verb Al_1=>noun la*iy*_1=>adj {iHotifAl_1=>noun
+wa_1=>verb Al_1=>noun ta_1=>verb nasA}im_1=>noun tu_1=>verb ruwH_1=>noun basom_1=>noun Al_1=>noun la_1=>prep Al_1=>noun |mAl_1=>noun wa_1=>verb <il`h_1=>noun SAliH_1=>noun_prop Al_1=>noun Al_1=>noun
+$axoS_1=>noun mivol_1=>noun >a_1=>verb jamAl_1=>noun Hanoy_1=>noun ruwmAnosiy~_1=>noun >a_1=>verb >axolaY_1=>verb
+wa_1=>noun mabosuwT_1=>noun bi_1=>noun wa_1=>verb Al_1=>noun <il`h_1=>noun yu_1=>verb Al_1=>noun miEA_1=>noun wa_1=>noun midoraY_1=>noun wa_1=>noun_prop Al_1=>noun HuDuwr_1=>noun
+wa_1=>pron Tay~ib_1=>noun_prop yA_1=>part_voc faroH_1=>noun dum_1=>verb niEom_1=>noun Ealay_1=>prep yuwnis_1=>noun_prop wa_1=>noun
+faraH_1=>noun qalob_1=>noun tu_1=>verb faroH_1=>noun bAbA_1=>noun_prop ma>oma>_1=>verb
+miylAd_1=>noun_prop HulowaY_1=>noun Eu$~_1=>noun miylAd_1=>noun EasaY_1=>adv Euyuwn_1=>noun Al_1=>noun ta_1=>verb Al_1=>noun wa_1=>adv DaHok_1=>noun wa_1=>noun wa_1=>pron niEom_1=>noun ta_1=>verb li_1=>prep >u_1=>verb Eumor_1=>noun
+$A'_1=>verb <il`h_1=>noun >ay~Am_1=>noun saEAd_1=>noun faraH_1=>noun_prop
+ya_1=>verb Al_1=>noun >u_1=>verb wajiyh_1=>adj >aholiy~_1=>noun_prop ya_1=>verb tu_1=>verb Al_1=>noun quluwb_1=>noun
+Hulow_1=>noun >an~a_1=>conj_sub ta_1=>verb bAl_1=>noun yu_1=>verb wujuwd_1=>noun miEA_1=>noun wa_1=>verb Al_1=>noun fiy_1=>prep wa_1=>noun yu_1=>verb min_1=>prep $ay~_1=>noun tu_1=>verb
+Al_1=>noun Al_1=>adj muta>ak~id_1=>noun mi$~_1=>noun Al_1=>noun diy_1=>noun_prop qar~_1=>verb >akomal_1=>verb bAb_1=>noun Al_1=>noun Al_1=>noun
+Al_1=>noun >an~a_1=>conj_sub taqad~am_1=>verb maHab~_1=>noun Haqiyqiy~_1=>adj
+Al_1=>noun ya_1=>verb 15_1=>digit Haloq_1=>noun wa_1=>verb Haloq_1=>noun Al_1=>noun Al_1=>noun wa_1=>noun maT~_1=>noun
+<in~a_1=>verb_pseudo ya_1=>verb jay~id_1=>adj ya_1=>verb bi_1=>adj $ayo}_1=>noun muDoTarib_1=>noun ya_1=>verb duwn_1=>noun
+>anA_1=>pron >an~_1=>conj_sub mabosuwT_1=>noun Al_1=>noun >a_1=>verb ta_1=>verb kad~_1=>noun ta>an~iy_1=>noun
+SAn_1=>verb Al_1=>noun yu_1=>verb
+qalob_1=>noun Al_1=>noun wa_1=>noun_prop ta_1=>verb
+Al_1=>noun Dawo'_1=>noun yu_1=>verb Al_1=>adj li_1=>verb li_1=>noun bi_1=>noun $axoS_1=>noun muhotam~_1=>adj mutaEAwin_1=>adj bi_1=>noun diyniys_1=>noun_prop wa_1=>verb
+Al_1=>noun <inosAn_1=>noun miyan_1=>noun saEAd_1=>noun_prop
+rab~_1=>noun >a_1=>verb >um~_1=>noun saEiyd_1=>adj Al_1=>adj qariyr_1=>noun Al_1=>noun ta$ak~aY_1=>verb Huzon_1=>noun maraD_1=>noun wa_1=>verb li_1=>prep fa_1=>pron li_1=>prep Al_1=>noun bi_1=>noun
+Al_1=>noun li_1=>adj {imotiHAn_1=>noun Al_1=>noun Al_1=>adj <in_1=>conj_sub $A'_1=>verb <il`h_1=>noun ya_1=>verb wa_1=>noun munoEi$_1=>adj wa_1=>noun wa_1=>noun_prop gAmir_1=>noun
+wAviq_1=>adj bi_1=>noun >alomAniy~_1=>adj >aHosan_1=>noun yu_1=>verb
+Al_1=>noun SAHib_1=>noun jadaE_1=>noun ziy~_1=>noun bahij_1=>verb Al_1=>adj <ilaY_1=>prep fiy_1=>prep HayA_1=>noun suloTAn_1=>noun_prop <ilaY_1=>prep miEA_1=>noun >ay~_1=>noun_quant muSiyb_1=>noun Al_1=>adj ya_1=>verb miEA_1=>noun riyH_1=>noun Al_1=>noun >akoram_1=>noun_prop Husoniy_1=>noun_prop >aHomad_1=>noun_prop fahom_1=>noun
+wa_1=>verb Al_1=>noun bador_1=>noun wa_1=>adj ta_1=>verb maDAyiq_1=>noun {iHotafal_1=>verb bi_1=>noun
+ta_1=>verb <il`h_1=>noun min_1=>prep wa_1=>prep SAliH_1=>noun_prop Al_1=>noun Eiyd_1=>noun saEiyd_1=>noun_prop Eiyd_1=>noun Al_1=>noun 1438_1=>digit $uwAl_1=>noun Eiyd_1=>noun Al_1=>noun_prop
+Al_1=>noun Al_1=>adj faxor_1=>noun li_1=>noun Eaz~_1=>verb li_1=>noun kanoz_1=>noun li_1=>noun xayor_1=>noun qadow_1=>noun li_1=>noun fa_1=>adj muHota$im_1=>adj >ay~atuhA_1=>part_voc Al_1=>adj likay_1=>conj tu_1=>verb Hawol_1=>noun >uxot_1=>noun HijAb_1=>noun sutur_1=>noun wa_1=>noun
+wa_1=>pron bi_1=>noun wa_1=>noun wa_1=>noun ta_1=>verb <il`h_1=>noun min_1=>prep wa_1=>prep SAliH_1=>noun_prop Al_1=>noun Eiyd_1=>noun mubArak_1=>noun_prop wa_1=>noun wa_1=>noun wa_1=>adv EasA_1=>adv Eaw~Ad_1=>noun
+layol_1=>noun Al_1=>noun bi_1=>noun Tifol_1=>noun Sagiyr_1=>noun ya_1=>verb bi_1=>noun <ilaY_1=>prep Al_1=>noun Al_1=>adj ya_1=>verb taHota_1=>noun Al_1=>noun yu_1=>verb yu_1=>verb ya_1=>verb ya_1=>verb sa_1=>verb Har~_1=>noun Al_1=>noun
+Al_1=>noun Al_1=>noun ya_1=>verb <ilaY_1=>prep Al_1=>noun $ayo'_1=>noun taHoqiyq_1=>noun bi_1=>noun Al_1=>noun Al_1=>noun hay~al_1=>verb 2_1=>digit
+qAl_1=>verb li_1=>noun Al_1=>noun ya_1=>verb qAl_1=>verb tu_1=>verb li_1=>prep wa_1=>verb $A'_1=>verb <il`h_1=>noun <ilaY_1=>prep Al_1=>noun ya_1=>verb
+bidAy_1=>noun Al_1=>noun >an~a_1=>conj_sub ta_1=>verb Al_1=>noun Hat~aY_1=>prep dAxil_1=>noun Al_1=>noun wa_1=>noun marAsiym_1=>noun maDoHak_1=>noun li_1=>noun Eariyq_1=>adj
+mabosuwT_1=>noun Al_1=>noun wa_1=>noun_prop bi_1=>noun gam~_1=>noun <il`h_1=>noun ya_1=>verb >aEomAr_1=>noun Huk~Am_1=>noun mi$~_1=>noun muxil~_1=>adj muHotAj_1=>noun li_1=>noun
+>adorak_1=>verb Hub~_1=>noun <il`h_1=>noun li_1=>prep wajoh_1=>noun >um~_1=>noun wa_1=>noun >abawiy~_1=>adj
+Al_1=>noun xawof_1=>noun <il~A_1=>part Al_1=>noun <il`h_1=>noun Tumo>aniyn_1=>noun
+qul_1=>verb li_1=>noun kalom_1=>noun tu_1=>verb ka_1=>prep Al_1=>noun faroH_1=>noun {ibotisAm_1=>noun saEAd_1=>noun wa_1=>noun ta_1=>verb tu_1=>verb faraH_1=>noun rubaY_1=>noun
+$awaY_1=>noun bi_1=>noun >ugoniy_1=>noun li_1=>noun bi_1=>noun li_1=>noun saEiyd_1=>adj
+wud~iy~_1=>adj >a_1=>verb wa_1=>verb wa_1=>noun_prop >anota_1=>pron wud~iy~_1=>adj >u_1=>verb sawAlif_1=>noun jadiyd_1=>adj ta*ak~ar_1=>verb haw~an_1=>verb buEod_1=>noun HayA_1=>noun saEiyd_1=>adj
+Al_1=>noun murotabiT_1=>adj Al_1=>noun <iymAn_1=>noun <il`h_1=>noun xaloq_1=>noun ya_1=>verb Al_1=>noun la_1=>prep fa_1=>part_neg ta_1=>verb saEAd_1=>noun bi_1=>noun >amon_1=>noun ya_1=>verb fa_1=>pron_exclam >ajomal_1=>noun Al_1=>noun qurob_1=>noun <il`h_1=>noun
+<il`h_1=>noun $agal_1=>verb jamiyl_1=>noun wa_1=>adj <il`h_1=>noun ya_1=>verb >ajor_1=>noun yA_1=>part_voc SAliH_1=>noun_prop wa_1=>verb miEA_1=>noun taEib_1=>verb >asoEad_1=>noun gayor_1=>noun
+Eiyd_1=>noun saEiyd_1=>noun_prop jamiyE_1=>noun san_1=>noun wa_1=>verb Tay~ib_1=>adj ya_1=>verb >a_1=>verb la_1=>prep Eiyd_1=>noun maliy'_1=>adj bi_1=>noun tu_1=>verb mAniE_1=>noun Al_1=>noun wa_1=>noun
+TAb_1=>noun yawom_1=>noun bi_1=>noun suruwr_1=>noun_prop
+DaHik_1=>verb Hubayobiy~_1=>adj tu_1=>verb faraH_1=>noun_prop Talob_1=>noun xal~_1=>noun Hat~aY_1=>prep
+lay~_1=>noun sAkit_1=>adj ta_1=>verb Al_1=>noun miEA_1=>noun
+Al_1=>noun fAt_1=>verb $ul~_1=>noun Al_1=>noun xalaf_1=>verb bi_1=>noun Al_1=>noun Eaj~ab_1=>verb fa_1=>noun waqot_1=>noun fAt_1=>verb >a_1=>verb {ikota$af_1=>verb musalosal_1=>noun
+baq~_1=>noun $ay~_1=>noun li_1=>noun >a_1=>verb >aw~al_1=>adj wa_1=>pron bi_1=>noun bi_1=>noun ta_1=>verb li_1=>prep Al_1=>noun {iHotasab_1=>verb >aHab~_1=>noun <il`h_1=>noun Al_1=>noun
+HAj~_1=>verb kad~_1=>noun tuHof_1=>noun riyH_1=>noun Al_1=>noun xuf~_1=>noun dam_1=>noun HAj~_1=>noun la*iy*_1=>adj bi_1=>noun wa_1=>pron mubotahij_1=>noun qalob_1=>noun bi_1=>noun <isofAf_1=>noun wa_1=>noun Al_1=>noun >akoram_1=>noun_prop fahom_1=>noun
+>aforaH_1=>verb wa_1=>adj Al_1=>noun EAd_1=>noun bi_1=>noun wa_1=>verb Al_1=>noun saEAd_1=>noun wa_1=>prep biyh_1=>noun_prop
+<iEolAn_1=>noun 5_1=>digit 5_1=>digit waSal_1=>verb Al_1=>noun bi_1=>noun muriyH_1=>adj nafosiy~_1=>adj bahoj_1=>noun
+mAjid_1=>noun_prop Al_1=>noun >afAd_1=>verb bi_1=>noun Al_1=>noun_prop wa_1=>noun_prop suluwk_1=>noun >an~_1=>noun ta_1=>verb EalaY_1=>prep >asAs_1=>noun {iHotirAm_1=>noun EalaY_1=>prep Al_1=>noun mAhuwa_1=>pron_rel muhar~ij_1=>noun
+maToruwH_1=>noun_prop saHar_1=>noun_prop Al_1=>noun >akovar_1=>adj makAn_1=>noun tu_1=>verb fiy_1=>prep maToruwH_1=>noun_prop
+$abAb_1=>noun Hulow_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun xafiyf_1=>adj >u_1=>verb musalosal_1=>noun Al_1=>adj
+bi_1=>noun Al_1=>noun >an~a_1=>conj_sub
+fa_1=>verb_pseudo Sab~_1=>noun bAb_1=>noun Hubayob_1=>noun musotaEoTif_1=>adj wa_1=>noun Al_1=>noun ya_1=>verb lAhiy_1=>adj wa_1=>noun Al_1=>adj ya_1=>verb Suwar_1=>noun |y_1=>noun_prop tu_1=>verb ba$~A$_1=>noun Hat~aY_1=>prep kAn_1=>verb <il`h_1=>noun ya_1=>verb
+ya_1=>verb >ay~Am_1=>noun jamiyl_1=>noun >axobAr_1=>noun muforiH_1=>adj muqotaniE_1=>adj qalob_1=>noun murotAH_1=>adj rAH_1=>noun bAl_1=>noun tawofiyq_1=>noun Einoda_1=>noun
+Al_1=>noun mabosuwT_1=>noun >a_1=>verb min_1=>prep rab~_1=>noun ya_1=>verb raboE_1=>noun
+jamiyl_1=>noun_prop ya_1=>verb wa_1=>pron taHad~av_1=>verb $axoS_1=>noun ya_1=>verb la_1=>prep Al_1=>noun tu_1=>verb tu_1=>verb wa_1=>verb ta_1=>verb wa_1=>verb tu_1=>verb ta_1=>verb wa_1=>noun viq_1=>noun bi_1=>conj_sub tu_1=>verb Al_1=>noun
+wa_1=>noun wa_1=>noun Al_1=>adj bi_1=>noun suruwr_1=>noun_prop >uxot_1=>noun Al_1=>noun
+>usobuwE_1=>noun kAmil_1=>adj bi_1=>noun Al_1=>noun Al_1=>noun qATiE_1=>adj bi_1=>noun qATiE_1=>adj Al_1=>adj >an~a_1=>conj_sub jit_1=>noun_prop wa_1=>pron bAb_1=>noun Al_1=>noun wa_1=>part_voc faroH_1=>noun tam~_1=>verb qaTaE_1=>verb naS~_1=>noun sAE_1=>noun gaz~_1=>noun_prop li_1=>noun
+SabAH_1=>noun wa_1=>noun suruwr_1=>noun_prop
+Al_1=>noun faroH_1=>noun nuH_1=>verb liynA_1=>noun_prop bi_1=>noun Eiyd_1=>noun na_1=>verb miEA_1=>noun bahoj_1=>noun wa_1=>noun Al_1=>noun Ealay_1=>prep
+$uEuwr_1=>noun EaZiym_1=>adj TalaE_1=>verb Al_1=>noun fa_1=>noun_prop wa_1=>verb Al_1=>noun Al_1=>noun fa_1=>verb Al_1=>noun wa_1=>noun kun_1=>verb >u_1=>verb >u_1=>verb bi_1=>noun $uEuwr_1=>noun wa_1=>noun
+Tib~_1=>noun >aqosam_1=>verb bAl_1=>noun bi_1=>noun >ugoniy_1=>noun rAjiE_1=>adj jisom_1=>noun HalAwap_1=>noun_prop Haloq_1=>noun Haloq_1=>noun bi_1=>noun
+>unoZur_1=>verb li_1=>noun bi_1=>noun Al_1=>noun ta_1=>verb Al_1=>noun bi_1=>noun Al_1=>noun baHov_1=>noun
+$ukor_1=>noun wa_1=>noun mufAji}_1=>adj faxom_1=>noun wa_1=>noun wa_1=>verb faroH_1=>noun Dayof_1=>noun 2_1=>digit {iHotifAliy~_1=>adj
+musalosal_1=>noun tu_1=>verb Al_1=>noun mubohij_1=>noun wAlih_1=>adj muHam~ad_1=>noun_prop mi$~_1=>noun wa_1=>verb Haq~_1=>noun jaw~az_1=>verb >amiyn_1=>noun xaliyl_1=>noun_prop Tay~ib_1=>noun_prop
+bahij_1=>verb Al_1=>adj mivAl_1=>noun li_1=>adj kalAm_1=>noun dAhiy_1=>noun wa_1=>conj sumiE_1=>verb kalAm_1=>noun dAhiy_1=>noun riyH_1=>noun Al_1=>noun
+kulaY_1=>noun faxor_1=>noun bi_1=>noun bAyiron_1=>noun_prop laEib_1=>verb wa_1=>verb Hat~aY_1=>prep Al_1=>noun Al_1=>adj Al_1=>noun Al_1=>noun Al_1=>adj
+midoraY_1=>noun dawAm_1=>noun ramaDAn_1=>noun_prop xafiyf_1=>adj wa_1=>adj wa_1=>noun jamiyl_1=>noun_prop wa_1=>noun
+>aforAH_1=>noun Al_1=>noun >ajomal_1=>noun Al_1=>noun $af_1=>verb >arowaE_1=>noun >adA'_1=>noun rA}iE_1=>adj li_1=>noun >aw~al_1=>adj Al_1=>noun muHam~ad_1=>noun_prop yAsiyn_1=>noun_prop
+jamiyl_1=>noun Al_1=>noun xaliy~_1=>adj qalob_1=>noun jaw~_1=>noun ya_1=>verb
+>ajomal_1=>noun Al_1=>noun ta_1=>verb HiynamA_1=>conj ta_1=>verb >amal_1=>noun faroH_1=>noun Habiyb_1=>adj ya_1=>verb walad_1=>noun ya_1=>verb {ibon_1=>noun tazaw~aj_1=>verb ya_1=>verb qariyb_1=>adj ya_1=>verb
+muxad~ar_1=>adj Al_1=>noun Al_1=>adj $A}iE_1=>adj tuwnis_1=>noun_prop ya_1=>verb EalaY_1=>prep Al_1=>noun yu_1=>verb >a_1=>verb balaH_1=>noun ra}iys_1=>noun mivol_1=>noun
+rubaY_1=>noun >unoZur_1=>verb <ilaY_1=>prep qalob_1=>noun fa_1=>verb_pseudo wajad_1=>verb Huzon_1=>noun Diyq_1=>noun fa_1=>noun faraH_1=>noun {iTomi}onAn_1=>noun wajad_1=>verb fa_1=>verb fa_1=>pron $ay~_1=>noun vamiyn_1=>noun fa_1=>verb li_1=>prep ya_1=>verb
+$Ahiyn_1=>noun_prop bi_1=>adj masoraH_1=>noun Al_1=>noun Al_1=>noun fiy_1=>prep Al_1=>noun <il`h_1=>noun
+$ukor_1=>noun Husayon_1=>noun_prop EabodAlganiy~_1=>noun_prop EAlamiy~_1=>adj >a_1=>verb Al_1=>noun SaH~_1=>verb {iEotizAl_1=>noun ya_1=>verb *ikoraY_1=>noun Tay~ib_1=>adj la_1=>prep Al_1=>adj >arij_1=>verb la_1=>prep HayA_1=>noun saEiyd_1=>adj baEiyd_1=>adj Al_1=>noun Eumor_1=>noun nuzuwl_1=>noun
+>aHab~_1=>verb jaw~_1=>noun Al_1=>noun huduw'_1=>noun wa_1=>noun wa_1=>noun fATir_1=>noun ya_1=>verb sanA_1=>noun wa_1=>noun >u_1=>verb filom_1=>noun
+Al_1=>noun wa_1=>noun mAhuwa_1=>pron_rel <il~A_1=>part ziyAd_1=>noun >alam_1=>noun wa_1=>noun wa_1=>verb >ay~Am_1=>noun raw~aD_1=>verb Al_1=>noun wa_1=>noun TiwAl_1=>adj wa_1=>noun >aSoEab_1=>noun damoE_1=>noun yatiym_1=>noun >amAniy_1=>noun Al_1=>noun
+Al_1=>noun tarih_1=>verb Al_1=>noun muHotAj_1=>noun faraH_1=>noun wa_1=>verb xayor_1=>noun Al_1=>noun_prop xal~_1=>verb EalaY_1=>prep $awaY_1=>noun
+faroHAn_1=>noun_prop EAyiz_1=>noun >aDoHak_1=>verb
+rafaE_1=>verb ra>os_1=>noun li_1=>noun {isota$oEar_1=>verb >an~a_1=>conj_sub <il`h_1=>noun ya_1=>verb Al_1=>noun {ibotasam_1=>verb riDaY_1=>noun xaf~aD_1=>verb ra>os_1=>noun Hub~_1=>noun
+bi_1=>noun wa_1=>verb Al_1=>noun EalaY_1=>prep Al_1=>noun >akovar_1=>adj wa_1=>noun $ukor_1=>noun li_1=>noun Al_1=>adj
+mi$~_1=>noun lAzim_1=>adj ta_1=>verb Eu$~_1=>noun ta_1=>verb mi$~_1=>noun $aroT_1=>noun Eayon_1=>noun ta_1=>verb Eu$~_1=>noun dA_1=>noun_prop nAs_1=>noun wujuwd_1=>noun HayA_1=>noun Had~_1=>noun ya_1=>verb yu_1=>verb SadAq_1=>noun Hulow_1=>noun bi_1=>noun
+>aforaH_1=>verb wa_1=>noun >anota_1=>pron gAliy_1=>noun Ealay_1=>prep >a_1=>verb taHaz~un_1=>noun bakor_1=>noun ta_1=>verb liynA_1=>noun_prop >ay~_1=>noun_quant humuwm_1=>noun >aSAl_1=>noun >aforaH_1=>verb wa_1=>noun
+Al_1=>noun ramaDAn_1=>noun_prop >aqosam_1=>verb bAl_1=>noun faroHAn_1=>noun_prop li_1=>noun Al_1=>noun
+xaTiy}_1=>noun SawAb_1=>adj >an~_1=>conj_sub >aHab~_1=>verb >akovar_1=>adj nafos_1=>noun $awoq_1=>noun Hub~_1=>noun
+misAk_1=>noun saEAd_1=>noun maSodar_1=>noun rubaY_1=>noun yu_1=>verb
+wa_1=>noun_prop kun~_1=>noun fajo>apF_1=>adv Al_1=>noun fa_1=>noun_prop EunoSur_1=>noun Al_1=>noun wa_1=>noun_prop kun~_1=>noun
+{iHotifAl_1=>noun Eiyd_1=>noun Al_1=>noun_prop Hulow_1=>noun Eiyd_1=>noun Hin_1=>verb >aHal~_1=>verb
+faxuwr_1=>noun fa_1=>noun qam~_1=>verb Al_1=>noun wa_1=>noun wa_1=>noun wa_1=>adj mubodiE_1=>noun wa_1=>noun >awad_1=>noun kul~_1=>noun
+Al_1=>noun ta_1=>verb $axoS_1=>noun ya_1=>verb Had~_1=>noun Al_1=>noun wa_1=>verb SiH~_1=>noun suqom_1=>noun maEa_1=>prep EAf_1=>noun mAl_1=>noun ya_1=>verb jayob_1=>noun HalAl_1=>noun Eiyd_1=>noun salAm_1=>noun wa_1=>noun
+
+bahoj_1=>noun >amal_1=>noun 89_1=>digit >amal_1=>noun >a_1=>verb miEA_1=>noun >u_1=>verb bi_1=>noun nafosiy~_1=>adj nafos_1=>noun >awoqaf_1=>verb >amal_1=>noun qAEid_1=>noun tu_1=>verb Al_1=>noun jih_1=>noun vAniy_1=>adj ta_1=>verb li_1=>prep |fAq_1=>noun
+Al_1=>noun Al_1=>noun Al_1=>noun Al_1=>adj >ay~Am_1=>noun kul~_1=>noun >aEoyAd_1=>noun
+bi_1=>noun li_1=>noun hadiy~_1=>noun ta_1=>verb faxor_1=>noun manoSuwr_1=>noun_prop Al_1=>noun_prop Al_1=>noun qayoSar_1=>noun Al_1=>noun riyAn_1=>noun_prop 30_1=>digit muHib~_1=>noun
+Eiyd_1=>noun >ahal~_1=>verb Hat~aY_1=>prep li_1=>noun wa_1=>verb $ukuwlAT_1=>noun Eiyd_1=>noun tu_1=>verb
+>uxot_1=>noun bi_1=>noun suruwr_1=>noun_prop
+sa_1=>verb Al_1=>noun muSiyb_1=>noun Al_1=>noun Al_1=>noun miSor_1=>noun_prop Al_1=>noun $Al_1=>noun TAq_1=>noun ya_1=>verb miyan_1=>noun
+Eiyd_1=>noun saEiyd_1=>noun_prop bi_1=>noun >ax_1=>noun Hubayobiy~_1=>adj fAris_1=>noun_prop sin_1=>noun Eadiyd_1=>adj yA_1=>part_voc nu_1=>verb Al_1=>noun yA_1=>part_voc Tay~ib_1=>noun_prop Al_1=>noun
+xal~iyk_1=>noun faroHAn_1=>noun_prop Hat~aY_1=>prep waqaE_1=>verb fiy_1=>prep mu$okil_1=>noun ta_1=>verb wa_1=>adj HayA_1=>noun faraH_1=>noun_prop wa_1=>noun_prop wa_1=>noun Al_1=>noun mAhiy~_1=>adj <il~A_1=>part {ixotibAr_1=>noun bi_1=>noun
+rub_1=>verb yu_1=>verb wa_1=>verb sir~_1=>noun wa_1=>part_voc say~id_1=>noun_prop qawol_1=>noun Eu$~_1=>noun wa_1=>verb qaliyl_1=>adj bi_1=>noun Hulow_1=>noun kad~_1=>noun
+wa_1=>pron bi_1=>noun wa_1=>verb <il`h_1=>noun min_1=>prep wa_1=>prep SAliH_1=>noun_prop Al_1=>noun >aforAH_1=>noun Al_1=>noun
+li_1=>noun ta_1=>verb Al_1=>noun fiy_1=>prep gumuwD_1=>noun wa_1=>noun majAl_1=>noun li_1=>noun_quant >aHad_1=>noun ya_1=>verb Al_1=>noun Einoda_1=>noun jAnib_1=>noun laTiyf_1=>noun_prop bi_1=>noun
+wa_1=>pron_exclam <il`h_1=>noun muEa*~ab_1=>adj wa_1=>pron ya_1=>verb >amAn_1=>noun
+rubaY_1=>noun >adoxal_1=>verb $ahor_1=>noun ramaDAn_1=>noun_prop Ealay_1=>prep wa_1=>pron rADiy_1=>adj Ean_1=>prep >a_1=>verb $ahor_1=>noun fiy_1=>prep *unuwb_1=>noun <ilaY_1=>prep Hasan_1=>noun wa_1=>noun <ilaY_1=>prep >aforAH_1=>noun wa_1=>noun lA_1=>part_neg min_1=>prep <ilaY_1=>prep wAqiE_1=>noun
+faroH_1=>noun saEAd_1=>noun basom_1=>noun EAfiy_1=>noun ya_1=>verb rab~_1=>noun Ean_1=>prep wa_1=>prep ta_1=>verb
+qim~_1=>noun Al_1=>noun Al_1=>adj ta_1=>verb xAn_1=>noun_prop yu_1=>verb tu_1=>verb bi_1=>noun >abad_1=>noun
+wa_1=>pron bi_1=>noun wa_1=>noun yu_1=>verb saEAd_1=>noun buEod_1=>noun $aqiy~_1=>adj wa_1=>noun Euyuwn_1=>noun ta_1=>verb dumuwE_1=>noun faraH_1=>noun_prop li_1=>noun bi_1=>noun {isotivonA'_1=>noun
+>an~_1=>noun majomuwE_1=>noun saEAd_1=>noun qalob_1=>noun <inosAn_1=>noun bi_1=>noun <iloqA'_1=>noun Al_1=>adj nAr_1=>noun
+>u_1=>verb rifoq_1=>noun tu_1=>verb faraH_1=>noun_prop yA_1=>part_voc EasaY_1=>adv rab~_1=>noun bi_1=>noun yu_1=>verb rubaY_1=>noun ya_1=>verb min_1=>prep ya_1=>verb
+<il`h_1=>noun yu_1=>verb fiy_1=>prep ya_1=>verb $Akir_1=>noun_prop luTof_1=>noun wa_1=>noun
+diy_1=>noun_prop HAj~_1=>noun kad~_1=>noun >akobar_1=>adj <iEolAn_1=>noun sir~_1=>noun saEAd_1=>noun wa_1=>noun gariyb_1=>adj bi_1=>noun sab~_1=>noun ya_1=>verb Al_1=>noun
+bi_1=>noun murotAH_1=>adj saEiyd_1=>noun_prop li_1=>noun $ahor_1=>noun ka_1=>noun ta_1=>verb mawosim_1=>noun Al_1=>noun_prop Al_1=>noun
+faraH_1=>noun_prop qalob_1=>noun {isotamad~_1=>verb DaHok_1=>noun >um~_1=>noun
+manAm_1=>noun na_1=>verb wa_1=>pron nawom_1=>noun quSuwr_1=>noun Al_1=>noun DAwiy_1=>noun nu_1=>verb fiy_1=>prep ta_1=>verb wuq~_1=>noun wuq~_1=>noun
+rub_1=>verb TAq_1=>noun li_1=>verb rab~_1=>noun EArif_1=>noun_prop qalob_1=>noun <il`h_1=>noun yu_1=>verb wa_1=>verb bi_1=>noun Al_1=>adj
+Hal~_1=>verb riyH_1=>noun Tay~ib_1=>adj muraT~ib_1=>noun kaviyr_1=>noun kuway~is_1=>noun $uwf_1=>verb
+{iHotifAl_1=>noun Eiyd_1=>noun Al_1=>noun_prop yA_1=>part_voc salAm_1=>noun Einoda_1=>noun Al_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun faday_1=>verb Al_1=>noun wa_1=>noun
+ham~_1=>noun >a_1=>verb Al_1=>noun Al_1=>noun >an~a_1=>conj_sub yu_1=>verb mi$~_1=>noun bi_1=>noun
+>aHab~_1=>verb kun_1=>verb ta_1=>verb fa_1=>verb >anA_1=>pron taHad~av_1=>verb fAqiE_1=>noun Hub~_1=>noun >aHAdiyv_1=>noun_prop taqab~al_1=>verb >abolag_1=>verb EanAn_1=>noun Al_1=>noun Hub~_1=>noun qurob_1=>noun Al_1=>noun gurob_1=>noun
+maTar_1=>noun_prop maTar_1=>noun_prop bi_1=>noun mi$~_1=>noun maEoquwl_1=>adj mar~_1=>noun >u_1=>verb Al_1=>noun fiy_1=>prep ramaDAn_1=>noun_prop daEaw_1=>noun rab~_1=>noun yu_1=>verb miEA_1=>noun ya_1=>verb bi_1=>noun
+ta_1=>verb tagoriyb_1=>noun waziyr_1=>noun fa$al_1=>noun Al_1=>noun bi_1=>noun >aqal~_1=>noun valAv_1=>adj $uhuwr_1=>noun la_1=>noun Al_1=>noun yu_1=>verb yu_1=>verb >axolAq_1=>noun mujotamaE_1=>noun Al_1=>noun
+Al_1=>noun >amor_1=>noun gariyb_1=>adj <in_1=>conj_sub waDaE_1=>verb li_1=>noun_prop >aHas~_1=>verb bi_1=>noun wa_1=>conj_sub waDaE_1=>verb li_1=>noun $iEor_1=>noun bi_1=>noun wa_1=>conj_sub waDaE_1=>verb li_1=>pron_rel li_1=>verb >aSobaH_1=>verb Sidoq_1=>noun
+kalom_1=>noun li_1=>noun >amon_1=>noun Al_1=>noun jizA_1=>noun <il`h_1=>noun Al_1=>noun faxor_1=>noun_prop Al_1=>noun >a_1=>verb <il`h_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>conj_sub ya_1=>verb
+saEAd_1=>noun Al_1=>noun Al_1=>noun Al_1=>noun Al_1=>noun >a_1=>verb <il`h_1=>noun >an~a_1=>conj_sub yu_1=>verb qalob_1=>noun wa_1=>noun bi_1=>pron_rel ta_1=>verb
+Al_1=>noun jamiyl_1=>noun_prop bi_1=>noun $awiy~_1=>adj >u_1=>verb >a_1=>verb Al_1=>noun rab~_1=>noun miEA_1=>noun yA_1=>part_voc >aHosan_1=>noun buronus_1=>noun wa_1=>conj rab~_1=>noun ya_1=>verb mariyD_1=>noun mAs_1=>noun >aHomad_1=>noun_prop Hulomiy~_1=>adj
+>anA_1=>pron EalaY_1=>prep viq_1=>noun bi_1=>conj_sub karam_1=>noun_prop <il`h_1=>noun sa_1=>verb faraH_1=>noun fa_1=>noun mAhuwa_1=>pron_rel <il~A_1=>part saHAb_1=>noun >avoqal_1=>noun diEA}iy~_1=>adj Al_1=>noun sa_1=>verb gayom_1=>noun >aHolAm_1=>noun
+maroHab_1=>adv Einod_1=>noun $axoS_1=>noun $axoS_1=>noun yu_1=>verb qalob_1=>noun wa_1=>verb Al_1=>noun li_1=>noun miEA_1=>noun Al_1=>noun ta_1=>verb wa_1=>noun ya_1=>verb Eumuwm_1=>noun Al_1=>noun
+>a_1=>verb HAj~_1=>noun {ibotasam_1=>verb >aboqaY_1=>verb mA$iy_1=>noun wa_1=>verb wa_1=>noun wa_1=>pron HAj~_1=>noun munotahiy_1=>noun Al_1=>noun
+{ibotihAj_1=>noun {ijotimAE_1=>noun wa_1=>noun ya_1=>verb Al_1=>noun saEAd_1=>noun
+>aso>am_1=>verb faqiyh_1=>noun_prop Al_1=>noun layos_1=>verb Hulom_1=>noun wa_1=>pron tafA&ul_1=>noun wa_1=>noun bAl_1=>noun wa_1=>noun bi_1=>noun {isotiEojAl_1=>noun
+samiE_1=>verb salAm_1=>noun Al_1=>noun_prop malik_1=>noun Al_1=>noun wa_1=>noun
+Al_1=>noun >an~a_1=>conj_sub juzo'_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun fiy_1=>prep Al_1=>noun
+$ukor_1=>noun HalAwap_1=>noun_prop Al_1=>noun Al_1=>noun Al_1=>adj bi_1=>noun Al_1=>noun Al_1=>noun li_1=>noun_quant mariyD_1=>noun
+ruwH_1=>noun Al_1=>noun xAliS_1=>adj
+basom_1=>noun vagor_1=>noun {ibotasam_1=>verb fa_1=>noun qaSiyr_1=>adj
+<il`h_1=>noun saEAd_1=>noun Al_1=>noun mi$~_1=>noun li_1=>noun faroH_1=>noun
+>a_1=>verb fan~An_1=>noun Al_1=>adj Al_1=>noun bud~_1=>noun daw~ab_1=>verb |}il_1=>noun ka_1=>adj kAZim_1=>noun_prop Al_1=>adj li_1=>verb yu_1=>verb li_1=>noun_prop qab~An_1=>noun Al_1=>noun_prop >ajonabiy~_1=>adj
+Tib~_1=>noun bi_1=>noun $uway~_1=>noun ta_1=>verb jar~ab_1=>verb fAtiH_1=>noun $ahiy~_1=>noun HAj_1=>noun Einoda_1=>noun {iqotirAH_1=>noun
+Al_1=>noun Al_1=>noun >an~a_1=>conj_sub <il`h_1=>noun ya_1=>verb Al_1=>noun
+Eiyd_1=>noun saEiyd_1=>noun_prop Ealay_1=>prep wa_1=>noun wa_1=>verb Tay~ib_1=>adj
+fukAh_1=>noun
+Al_1=>noun $axoS_1=>noun tu_1=>verb wa_1=>verb mufiyd_1=>adj taxofiyf_1=>noun Al_1=>noun wa_1=>noun wa_1=>verb viq_1=>noun kabiyr_1=>adj nafos_1=>noun |xar_1=>adj riHol_1=>noun dawoliy~_1=>adj la_1=>prep
+>aH~_1=>verb na_1=>verb Al_1=>noun zawAj_1=>noun >a_1=>verb wa_1=>verb >agolaY_1=>noun >uxot_1=>noun SaH~_1=>verb laHoZ_1=>noun firAq_1=>noun li_1=>pron_rel tu_1=>verb >uxot_1=>noun Al_1=>noun zifAf_1=>noun >a_1=>verb >ajomal_1=>noun zifAf_1=>noun
+$axoS_1=>noun laTiyf_1=>noun_prop mar~_1=>noun bi_1=>noun wa_1=>pron bi_1=>noun wa_1=>noun ta_1=>verb wa_1=>noun Al_1=>noun yu_1=>verb Huzon_1=>noun Eas~_1=>verb Eaw~Ad_1=>noun
+mi$~_1=>noun faraH_1=>noun bunoduq_1=>noun Hafol_1=>noun bunoduq_1=>noun faraH_1=>noun
+ta_1=>verb Al_1=>noun ya_1=>verb wa_1=>noun Taruwb_1=>adj kibor_1=>noun ya_1=>verb Haniyn_1=>noun Al_1=>noun na_1=>verb siwaY_1=>noun ragom_1=>noun {ixotilAf_1=>noun Al_1=>noun $A'_1=>verb $A'_1=>verb yA_1=>part_voc xal~_1=>noun wa_1=>noun_prop >abiy_1=>noun_prop
+15_1=>digit muqaS~ir_1=>noun gaSob_1=>noun Ean_1=>prep wa_1=>noun >akiyd_1=>noun zaEolAn_1=>adj min_1=>prep fa_1=>noun bi_1=>noun >an~_1=>noun Tay~ib_1=>adj wa_1=>noun wa_1=>verb wa_1=>noun min_1=>prep bAl_1=>noun rab~_1=>noun ya_1=>verb maEaz~_1=>noun
+>u_1=>verb ya_1=>verb Al_1=>noun Al_1=>adj Al_1=>adj >akovar_1=>adj maloEuwb_1=>noun Ealay_1=>prep bi_1=>noun dAyim_1=>noun_prop >aHas~_1=>verb mi$owAr_1=>noun
+wa_1=>pron mA$_1=>noun miSor_1=>noun_prop EArif_1=>noun_prop faroHAn_1=>adj biyk_1=>noun_prop
+maroHab_1=>adv >an~_1=>noun jamiyl_1=>noun wa_1=>adv $axoS_1=>noun ya_1=>verb kawoniy~_1=>adj saEiyd_1=>adj dA}im_1=>adj li>an_1=>conj_sub Eayon_1=>noun mu*ohil_1=>adj ta_1=>verb
+ya_1=>verb >ajomaE_1=>noun jan~_1=>noun Al_1=>noun bilA_1=>prep Huzon_1=>noun firAq_1=>noun
+muHAdav_1=>noun qadiym_1=>adj ta_1=>verb bi_1=>noun >akovar_1=>adj >awoqAt_1=>noun barod_1=>noun wa_1=>noun li_1=>noun ya_1=>verb la_1=>prep qalob_1=>noun tu_1=>verb <ilaY_1=>prep ruwH_1=>noun Al_1=>noun waqot_1=>noun EaSiyb_1=>adj Al_1=>noun wa_1=>noun
+<inosAn_1=>noun taEar~aD_1=>verb li_1=>noun manosim_1=>noun Daruwriy~_1=>adj tu_1=>verb Al_1=>noun Al_1=>noun Al_1=>noun Al_1=>noun yu_1=>verb bi_1=>noun_quant
+{iHotifAl_1=>noun Eiyd_1=>noun Al_1=>noun_prop zay~an_1=>verb Al_1=>noun tu_1=>verb mal~_1=>noun Al_1=>noun xilow_1=>noun Ean_1=>prep Al_1=>noun wa_1=>noun mAl_1=>noun Ealay_1=>prep
+>abiy_1=>noun_prop Haziyn_1=>noun wa_1=>verb saEiyd_1=>noun_prop >aH~_1=>verb Al_1=>noun Hat~aY_1=>prep Al_1=>noun nabiy~_1=>adj dirAmA_1=>noun wa_1=>noun
+na_1=>verb Hajom_1=>noun Al_1=>noun ya_1=>verb Hat~aY_1=>prep ya_1=>verb ya_1=>verb fiy_1=>prep li_1=>verb EalaY_1=>prep qasam_1=>noun
+wa_1=>noun <in_1=>conj_sub qalob_1=>noun basAtiyn_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun ya_1=>verb min_1=>prep <ilaY_1=>prep >an~a_1=>conj_sub taraw~iy_1=>noun bi_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun fa_1=>verb Ean_1=>prep Al_1=>noun
+>asoEad_1=>noun gayor_1=>noun 3_1=>digit ta_1=>verb qawol_1=>noun min_1=>prep jA'_1=>verb bi_1=>noun fa_1=>prep >amovAl_1=>noun jA'_1=>verb bi_1=>noun fa_1=>part_neg ya_1=>verb <il~A_1=>part mivol_1=>noun wa_1=>pron zay~ad_1=>verb Hasan_1=>noun
+Al_1=>noun >an_1=>conj_sub ta_1=>verb bi_1=>conj_sub vam~apa_1=>adv Dawo'_1=>noun |xar_1=>adj Al_1=>noun Al_1=>adj baSiyS_1=>noun >amal_1=>noun nihAy_1=>noun Zan~_1=>noun Hasan_1=>noun bAl_1=>noun ya_1=>verb ta$A&um_1=>noun ba$~ar_1=>verb
+>ahol_1=>noun $uEuwr_1=>noun Al_1=>noun makAn_1=>noun wa_1=>noun Al_1=>noun wa_1=>noun >ahol_1=>noun $ahor_1=>noun Al_1=>noun wa_1=>noun >ahol_1=>noun ramaDAn_1=>noun_prop
+baTal_1=>verb san_1=>noun >uEiyd_1=>verb li_1=>noun EAm~_1=>adj wa_1=>verb >a_1=>verb bi_1=>noun Al_1=>adj wa_1=>verb ta_1=>verb bi_1=>noun bi_1=>noun maTar_1=>noun_prop mi$~_1=>noun mulAHiq_1=>noun munAsab_1=>noun
+qAl_1=>verb li_1=>prep Sadiyq_1=>noun >anota_1=>pron jamiyl_1=>noun ta_1=>verb wa_1=>adv $axoS_1=>noun ya_1=>verb >an_1=>conj_sub ta_1=>verb kawoniy~_1=>adj saEiyd_1=>adj Eayon_1=>noun tu_1=>verb >ajomal_1=>noun ta_1=>verb saEiyd_1=>adj bi_1=>noun naSiyH_1=>noun
+daw~am_1=>verb Al_1=>noun Eumar_1=>noun_prop Sad~aE_1=>verb ra>os_1=>noun Al_1=>noun yawom_1=>noun 69_1=>digit
+>a_1=>verb musalosal_1=>noun <i*AEiy~_1=>adj bi_1=>noun xif~_1=>noun dam_1=>noun Eamorw_1=>noun_prop ka_1=>noun <iyhAb_1=>noun_prop fahom_1=>noun mi$~_1=>noun maEoquwl_1=>adj rajaE_1=>verb >u_1=>verb >a_1=>verb musalosal_1=>noun <i*AE_1=>noun
+>abo$ar_1=>verb Al_1=>noun EalaY_1=>prep Al_1=>noun daraj_1=>noun
+faroH_1=>noun ruwmA_1=>noun_prop binot_1=>noun Al_1=>noun >alof_1=>noun maboruwk_1=>noun yA_1=>part_voc ruwmA_1=>noun_prop wa_1=>noun ya_1=>verb xayor_1=>noun bi_1=>noun <il`h_1=>noun wa_1=>verb >ay~Am_1=>noun wa_1=>verb faraH_1=>noun wa_1=>noun ya_1=>verb
+wa_1=>noun bi_1=>noun wa_1=>noun Al_1=>noun rubaY_1=>noun yu_1=>verb dawom_1=>noun
+ya_1=>verb wujuwd_1=>noun rasom_1=>noun >ajomal_1=>noun basom_1=>noun EalaY_1=>prep mul~Ak_1=>noun ziy~_1=>noun diy_1=>noun_prop rab~_1=>noun ya_1=>verb sab~_1=>noun saEAd_1=>noun Al_1=>noun
+dA_1=>noun_prop Al_1=>noun muEAd_1=>adj DaHok_1=>noun Al_1=>noun
+li_1=>noun <il`h_1=>noun ya_1=>verb quluwb_1=>noun bi_1=>noun wa_1=>noun Al_1=>noun wa_1=>verb >arowAH_1=>noun naqiy~_1=>adj Al_1=>noun wa_1=>noun
+>a_1=>verb li_1=>noun Ean_1=>prep >a_1=>verb malak_1=>verb niEom_1=>noun wa_1=>noun sin_1=>noun
+Al_1=>noun >an_1=>conj_sub ta_1=>verb >amowAl_1=>noun TA}il_1=>adj EalaY_1=>prep ziyn_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>noun ya_1=>verb yu_1=>verb <il`h_1=>noun qaroD_1=>noun Hasan_1=>noun fa_1=>verb >aDoEAf_1=>noun kaviyr_1=>noun
+>azohaY_1=>noun Suwar_1=>noun SaHAbiy~_1=>noun lub~_1=>noun {igotibAT_1=>noun wa_1=>noun gAmir_1=>noun
+saEAd_1=>noun daEow_1=>noun Hulow_1=>noun $axoS_1=>noun zamAn_1=>noun <il`h_1=>noun ya_1=>verb ya_1=>verb Al_1=>noun Al_1=>adj Al_1=>adj
+>ay~uhA_1=>part_voc Al_1=>noun Al_1=>adj laqad_1=>part_verb >aEoTay_1=>verb jamiyE_1=>noun bahoj_1=>noun HayA_1=>noun fa_1=>noun najaH_1=>verb Eaw~aD_1=>verb kaviyr_1=>noun taHoqiyq_1=>noun
+laEob_1=>noun Al_1=>noun mutoE_1=>noun
+$af_1=>verb ya_1=>verb wa_1=>noun_prop mabosuwT_1=>noun Sad~aq_1=>verb qAl_1=>verb bi_1=>noun ya_1=>verb
+$uEuwr_1=>noun Hulow_1=>noun >an~a_1=>conj_sub ta_1=>verb juwAl_1=>noun Hulow_1=>noun wa_1=>noun Sadiyq_1=>noun Al_1=>noun Eumoriy~_1=>adj >anA_1=>pron SAr_1=>verb
+la_1=>prep <il`h_1=>noun nasiym_1=>noun kawon_1=>noun riDaY_1=>noun faraH_1=>noun Al_1=>noun
+>aHas~_1=>verb bi_1=>noun Haq~_1=>verb Hulom_1=>noun Al_1=>noun taEal~am_1=>verb bi_1=>noun qiyAd_1=>noun Al_1=>noun ta_1=>verb saEAd_1=>noun mAras_1=>verb Al_1=>noun saEAd_1=>noun
+<ifoTAr_1=>noun $arik_1=>noun wa_1=>pron_interrog Al_1=>adj bi_1=>noun qun~_1=>noun li_1=>noun Al_1=>adj wa_1=>noun li_1=>noun sAham_1=>verb faroH_1=>noun Al_1=>noun wa_1=>noun Al_1=>adj
+sAE_1=>noun {isotijAb_1=>noun yA_1=>part_voc >aEaz~_1=>verb waf~aq_1=>verb diyniy~_1=>adj wa_1=>adj wa_1=>adj yA_1=>part_voc >amad_1=>noun li_1=>prep Al_1=>noun wa_1=>noun zawoj_1=>noun wa_1=>adj SAliH_1=>adj bAr~_1=>noun wafor_1=>noun Al_1=>noun
+mi$~_1=>noun faroHAn_1=>adj zaEolAn_1=>adj fiy_1=>prep Al_1=>noun bi_1=>noun
+baq~_1=>noun 13_1=>digit <ijAz_1=>noun Al_1=>noun
+waj~ah_1=>verb DaHik_1=>verb ta_1=>verb miEA_1=>noun Al_1=>noun wa_1=>noun
+Hulow_1=>noun Al_1=>noun dA_1=>noun_prop
+nafos_1=>noun mufAja>_1=>noun tu_1=>verb tAriyx_1=>noun
+miylAd_1=>noun_prop Al_1=>noun 9_1=>digit qAl_1=>verb bi_1=>noun faraj_1=>noun_prop <il`h_1=>noun karob_1=>noun bi_1=>noun wa_1=>verb wa_1=>verb wa_1=>noun wa_1=>noun <il`h_1=>noun taEAlaY_1=>verb li_1=>noun_prop mAhuwa_1=>pron_rel <il~A_1=>part Hub~_1=>noun wa_1=>noun
+wa_1=>verb saEAd_1=>noun wa_1=>noun wa_1=>noun Al_1=>noun
+>anota_1=>pron Eiyd_1=>noun >ajomal_1=>noun >ay~Am_1=>noun Al_1=>noun >anota_1=>pron faroH_1=>noun qalob_1=>noun HaZiy_1=>verb Al_1=>noun wa_1=>pron li_1=>noun faraH_1=>noun Eiyd_1=>noun >ajomal_1=>noun bi_1=>noun
+kanaz_1=>verb najom_1=>noun ta_1=>verb >an~_1=>noun bi_1=>noun la_1=>prep Al_1=>noun Al_1=>noun >an~_1=>noun ka_1=>noun na_1=>verb na_1=>verb
+Tuwl_1=>noun Eumoriy~_1=>adj bi_1=>noun li_1=>noun bud~_1=>noun {iT~alaE_1=>verb maEa_1=>prep bi_1=>noun tarak_1=>verb Ealay_1=>prep Al_1=>noun Ean_1=>prep faroH_1=>noun ramaDAn_1=>noun_prop muHam~ad_1=>noun_prop qayos_1=>noun_prop
+<ilaY_1=>prep juroE_1=>noun tafA&ul_1=>noun li_1=>noun mi$~_1=>noun EArif_1=>noun gayor_1=>noun kun_1=>verb Ei$oq_1=>noun Al_1=>noun
+HamAsiy~_1=>adj dA_1=>noun_prop Al_1=>noun
+Al_1=>noun kabiyr_1=>adj
+Siyg_1=>noun tafokiyr_1=>noun muriyH_1=>adj >anA_1=>pron qawiy~_1=>adj birobaY_1=>noun >anA_1=>pron >a_1=>verb bi_1=>noun li>an_1=>conj_sub rab~_1=>noun ya_1=>verb >anA_1=>pron muToma}in~_1=>adj li>an~a_1=>conj_sub yu_1=>verb <il`h_1=>noun xayor_1=>noun liy_1=>noun_prop Al_1=>noun la_1=>prep Al_1=>noun
+faroH_1=>noun bi_1=>noun mut_1=>verb Al_1=>noun nazal_1=>verb taEob_1=>noun taEob_1=>noun wa_1=>adj may~it_1=>noun bi_1=>noun wa_1=>verb
+rub~amA_1=>adv Al_1=>noun ki*ob_1=>noun muEal~im_1=>noun yu_1=>verb li>an~a_1=>conj_sub muxAlif_1=>adj li_1=>noun yu_1=>verb rub~amA_1=>adv ya_1=>verb Al_1=>noun li_1=>noun Al_1=>adj >aw_1=>conj Al_1=>noun <idAriy~_1=>adj muEal~im_1=>noun li_1=>noun ya_1=>verb
+najAH_1=>noun <ilaY_1=>prep najAH_1=>noun faxor_1=>noun_prop la_1=>prep jamiyE_1=>noun li_1=>noun Al_1=>noun ma$oguwl_1=>adj binot_1=>noun wa_1=>noun fADiy_1=>adj lab~an_1=>verb balad_1=>noun wa_1=>noun sAr~_1=>adj binot_1=>noun >aHomad_1=>noun_prop
+<il`h_1=>noun yu_1=>verb wa_1=>noun >aEoyAd_1=>noun faraH_1=>noun_prop wa_1=>pron bi_1=>noun
+Al_1=>noun >a_1=>verb la_1=>prep xafiyf_1=>adj jamiyl_1=>noun mufoEam_1=>adj bi_1=>adj wa_1=>noun
+miSor_1=>noun_prop kul~_1=>noun EalaY_1=>prep Al_1=>noun mi$~_1=>noun EArif_1=>noun_prop >a_1=>verb ya_1=>verb bi_1=>noun
+>aHoyAn_1=>noun Al_1=>noun vaman_1=>noun Eumar_1=>noun_prop kAmil_1=>adj Al_1=>noun li_1=>noun fa_1=>verb jamAl_1=>noun >aw_1=>conj takal~am_1=>verb xayor_1=>noun $ar~_1=>noun
+{ibotasam_1=>verb la_1=>conj_sub jar~aE_1=>verb fa_1=>verb_pseudo gayor_1=>noun <in_1=>conj_sub ra|_1=>verb TaroH_1=>noun Al_1=>noun jAnib_1=>noun taran~am_1=>verb
+>anA_1=>pron musotaEid~_1=>adj >an_1=>conj_sub >aDoHaY_1=>verb bi_1=>noun $ayo'_1=>noun >amolak_1=>verb >an_1=>conj_sub >a_1=>verb $uEuwr_1=>noun Al_1=>noun wa_1=>noun tu_1=>verb li_1=>prep Al_1=>noun >anA_1=>pron {inodafaE_1=>verb li_1=>noun >u_1=>verb
+tu_1=>verb bAl_1=>noun |t_1=>noun Al_1=>noun zAHif_1=>adj <ilay_1=>prep hajor_1=>noun <il`h_1=>noun hijor_1=>noun Al_1=>noun ragom_1=>noun zaHof_1=>noun <ilay_1=>prep
+Huruwf_1=>noun wa_1=>noun Eiyd_1=>noun Al_1=>noun Eiyd_1=>noun lubos_1=>noun Al_1=>adj >amon_1=>noun li_1=>pron_rel lubos_1=>noun Al_1=>noun Eurif_1=>verb Al_1=>noun Eiyd_1=>noun mubArak_1=>noun_prop <ijAz_1=>noun saEiyd_1=>adj
+Sawot_1=>noun Al_1=>noun bi_1=>noun li_1=>prep >amAn_1=>noun >akovar_1=>adj xawof_1=>noun >aHab~_1=>noun
+dA}im_1=>adj $uEuwr_1=>noun Al_1=>noun ya_1=>verb saEAd_1=>noun HAl_1=>noun muzon_1=>noun Al_1=>noun Al_1=>noun riDA_1=>noun_prop $uEuwr_1=>noun bawoH_1=>noun
+san_1=>noun >an~_1=>noun Tay~ib_1=>adj yA_1=>part_voc had~Af_1=>noun Eiyd_1=>noun saEiyd_1=>noun_prop san_1=>noun yA_1=>part_voc rab~_1=>noun ya_1=>verb >aEoyAd_1=>noun Al_1=>noun fiy_1=>prep Al_1=>noun
+san_1=>noun Einod_1=>noun Tay~ib_1=>adj sawA'_1=>noun >aEoraf_1=>noun wa_1=>noun saEiyd_1=>noun_prop Ealay_1=>prep wa_1=>prep $A'_1=>verb <il`h_1=>noun faroH_1=>noun layol_1=>noun Al_1=>noun
+Al_1=>noun {imotiHAn_1=>noun xalAS_1=>noun daEow_1=>noun Hal~_1=>verb lay~_1=>noun ramaDAn_1=>noun_prop Hulom_1=>noun Al_1=>noun
+riDA_1=>noun_prop Al_1=>noun wa_1=>noun ya_1=>verb xuSuwS_1=>noun ramaDAn_1=>noun_prop
+qurob_1=>noun Al_1=>noun wa_1=>noun >aSoHAb_1=>noun yu_1=>verb naEiym_1=>noun_prop Al_1=>noun wa_1=>noun miEA_1=>noun wa_1=>noun wa_1=>noun faroH_1=>noun
+Al_1=>noun ta_1=>verb qalob_1=>noun kabiyr_1=>adj ya_1=>verb Al_1=>noun qalob_1=>noun HiDon_1=>noun Hanuwn_1=>noun wAsiE_1=>adj HiDon_1=>noun ladayo_1=>noun lawoH_1=>noun bAsim_1=>noun wajoh_1=>noun >um~_1=>noun Al_1=>adj
+Al_1=>noun ka_1=>noun na_1=>verb EalaY_1=>prep >afoDal_1=>adj Al_1=>noun na_1=>verb {ibotasam_1=>verb {ibotisAm_1=>noun Al_1=>noun
+|*An_1=>noun Al_1=>noun_prop EalaY_1=>prep >aSowAt_1=>noun Al_1=>noun rA}iH_1=>noun Al_1=>noun qahow_1=>noun >um~_1=>noun DaHok_1=>noun >abawiy~_1=>adj baqiy_1=>verb Huzon_1=>noun bi_1=>noun
+wa_1=>prep kalAm_1=>noun ziy~_1=>noun Al_1=>noun ya_1=>verb wa_1=>verb fiy_1=>prep kalAm_1=>noun nu_1=>verb
+>an~_1=>noun jin~_1=>noun Had~_1=>noun *At_1=>noun >an~_1=>noun *At_1=>noun $a}o_1=>noun kabiyr_1=>adj >an~_1=>noun DaHok_1=>noun waqot_1=>noun Huzon_1=>noun >an~_1=>noun waqot_1=>noun Al_1=>noun xayor_1=>noun
+maboruwk_1=>noun nAl_1=>verb wa_1=>noun yu_1=>verb Ealay_1=>prep Al_1=>noun wa_1=>noun
+Eu$~_1=>noun tawaq~uE_1=>noun Hub~_1=>noun DaHok_1=>noun DaHik_1=>verb waqaE_1=>verb >aSol_1=>noun Al_1=>noun
+Al_1=>noun layos_1=>verb Hulom_1=>noun wa_1=>verb wa_1=>pron tafA&ul_1=>noun wa_1=>noun bAl_1=>noun wa_1=>noun bi_1=>noun {isotiEojAl_1=>noun wAviq_1=>adj bi_1=>conj_sub Al_1=>noun <ilaY_1=>prep <il`h_1=>noun ta_1=>verb fArig_1=>adj >abad_1=>noun
+bAqiy_1=>noun Al_1=>noun_prop yu_1=>verb bakor_1=>noun wa_1=>verb faroH_1=>noun
+murotaDaY_1=>noun_prop manoSuwr_1=>noun_prop ma|t_1=>noun
+qudum_1=>noun Tariyq_1=>noun li_1=>noun wa_1=>noun |xar_1=>noun ya_1=>verb bi_1=>noun
+Al_1=>noun <il`h_1=>noun ta_1=>verb >aHad_1=>noun ta_1=>verb wa_1=>noun basAT_1=>noun EalA_1=>verb $a>on_1=>noun tu_1=>verb xay~ir_1=>adj kavur_1=>verb Al_1=>noun wa_1=>verb Al_1=>noun ta_1=>verb Al_1=>noun
+HAj~_1=>noun mubohij_1=>noun <iEolAn_1=>noun
+faroH_1=>noun bi_1=>noun Al_1=>noun <il`h_1=>noun ba$ar_1=>verb bi_1=>noun faroH_1=>noun qalob_1=>noun wa_1=>verb dahor_1=>noun >alam_1=>noun Al_1=>noun laHoZ_1=>noun wa_1=>verb <ihomAl_1=>noun wa_1=>noun >alam_1=>noun ya_1=>verb madaY_1=>noun Al_1=>noun
+HA}il_1=>noun Hukom_1=>noun tafA&ul_1=>noun saEAd_1=>noun rAH_1=>noun kaw~an_1=>verb dA}im_1=>adj mutafA}il_1=>adj rab~_1=>noun Hasan_1=>noun_prop Eaboduh_1=>noun_prop
+$awoq_1=>noun EaZiym_1=>adj layAliy_1=>noun ramaDAn_1=>noun_prop ruwHAniy~_1=>noun ramaDAn_1=>noun_prop fa>ol_1=>noun Hasan_1=>noun_prop Al_1=>noun
+lA$ayo'_1=>noun >ajomal_1=>noun gusol_1=>noun wajoh_1=>noun Al_1=>noun bi_1=>noun wa_1=>noun Al_1=>adj bi_1=>noun {ibotasam_1=>verb bi_1=>noun faraH_1=>noun wa_1=>verb_pseudo viq_1=>noun wa_1=>noun bi_1=>conj_sub <il`h_1=>noun yu_1=>verb Zan~_1=>noun
+yu_1=>verb qalob_1=>noun wa_1=>verb >ay~Am_1=>noun bahoj_1=>noun wa_1=>noun ya_1=>verb
+bi_1=>noun Al_1=>noun Al_1=>noun kalom_1=>noun Sagiyr_1=>noun xuruwj_1=>noun EAd_1=>noun quEud_1=>noun Hulow_1=>noun mak~an_1=>verb ta_1=>verb bi_1=>noun >a_1=>verb miEA_1=>noun wa_1=>verb yu_1=>verb bAl_1=>noun Tuwl_1=>noun
+faroH_1=>noun bi_1=>noun tu_1=>verb riDA_1=>noun rab~_1=>noun
+kun_1=>verb HAj_1=>noun wa_1=>verb bakor_1=>noun wa_1=>adj bi_1=>noun rab~_1=>noun >an~_1=>conj_sub kasil_1=>verb wa_1=>noun >a_1=>verb kad~_1=>noun Tuwl_1=>noun
+ya_1=>verb bi_1=>noun ya_1=>verb bi_1=>noun kutub_1=>noun <il`h_1=>noun la_1=>prep {iTomi}onAn_1=>noun
+Eay~ad_1=>verb mubArak_1=>noun_prop wa_1=>pron bi_1=>noun jamiyE_1=>noun wa_1=>adv >aEoyAd_1=>noun kul~_1=>noun faraH_1=>noun_prop wa_1=>noun
+wa_1=>noun >ajomal_1=>noun bi_1=>noun wAlid_1=>noun wa_1=>pron bi_1=>noun wa_1=>noun wa_1=>noun >aforAd_1=>noun EA}il_1=>noun Al_1=>adj wa_1=>noun bi_1=>noun
+marokaz_1=>noun dubay~_1=>noun_prop marokaz_1=>noun dubay~_1=>noun_prop faroE_1=>noun >abuwZabiy_1=>noun_prop la_1=>prep Eiyd_1=>noun fuTor_1=>noun saEiyd_1=>noun_prop wa_1=>noun_prop Eiyd_1=>noun Al_1=>noun taboriyk_1=>noun dubay~_1=>noun_prop >abuwZabiy_1=>noun_prop rijAl_1=>noun muEAyad_1=>noun fiTor_1=>noun_prop saEiyd_1=>noun_prop
+Habiyb_1=>adj Al_1=>noun SAHib_1=>noun Al_1=>noun najom_1=>noun waqot_1=>noun Al_1=>noun Hanoy_1=>noun Al_1=>noun Al_1=>noun tu_1=>verb waHiyd_1=>adj qalob_1=>noun Al_1=>noun waHod_1=>noun Al_1=>noun {inotahaY_1=>verb
+wa_1=>noun bi_1=>noun wa_1=>noun wa_1=>verb jamiyl_1=>noun Ealay_1=>prep kul~_1=>noun wa_1=>verb <il`h_1=>noun >aqorab_1=>noun ramaDAn_1=>noun_prop kariym_1=>noun_prop
+daEow_1=>noun li_1=>noun Al_1=>noun muHam~ad_1=>noun_prop salomAn_1=>noun_prop mutafA}il_1=>adj ya_1=>verb Al_1=>noun musotaqobal_1=>noun ma$oriq_1=>noun bi_1=>noun <il`h_1=>noun <il`h_1=>noun maEa_1=>prep xaTow_1=>noun wa_1=>noun
+riyH_1=>noun maTar_1=>noun_prop lafoH_1=>noun lawon_1=>noun Al_1=>noun wa_1=>noun >a$oyA'_1=>noun ginaY_1=>noun ya_1=>verb Hay~_1=>noun
+$aw~ar_1=>verb bayot_1=>noun 18_1=>digit Al_1=>noun quw~_1=>noun rAH_1=>noun bAl_1=>noun {isotijAb_1=>noun li_1=>noun na_1=>verb
+Al_1=>noun Al_1=>adj >an~a_1=>conj_sub bi_1=>noun diy_1=>noun_prop qafaz_1=>noun wAsiE_1=>adj wa_1=>noun dA_1=>noun_prop
+Al_1=>noun li_1=>pron_rel ya_1=>verb maval_1=>noun >an~a_1=>conj_sub ta_1=>verb bi_1=>noun >an~a_1=>conj_sub ta_1=>verb EalaY_1=>prep Tiboq_1=>noun li>an~a_1=>conj_sub HAmil_1=>noun Al_1=>noun HAmil_1=>noun Al_1=>noun wa_1=>noun rafiyq_1=>noun Al_1=>noun masA&_1=>noun Tay~ib_1=>adj wa_1=>noun
+DAq_1=>verb faj~_1=>noun biyk_1=>noun_prop rab~_1=>noun mi$~_1=>noun faroH_1=>noun Al_1=>noun tu_1=>verb Diyq_1=>noun
+Al_1=>noun kun_1=>verb >a_1=>verb sa_1=>verb yawomiy~_1=>adj qaTaE_1=>verb >usobuwE_1=>noun rajaE_1=>verb li_1=>noun ya_1=>verb tamar~an_1=>verb 20_1=>digit daqiyq_1=>noun liyAq_1=>noun
+Eiyd_1=>noun miylAd_1=>noun_prop saEiyd_1=>noun_prop li_1=>noun Habiyb_1=>adj bi_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun ta_1=>verb la_1=>prep >amAniy_1=>noun Al_1=>noun Al_1=>noun
+Eu$~_1=>noun mi$~_1=>noun Al_1=>noun Al_1=>noun fa_1=>adj na_1=>verb hal~A_1=>part_interrog
+Hulom_1=>noun qum_1=>verb Al_1=>noun nA$if_1=>adj wa_1=>noun >axaw_1=>noun Al_1=>noun ganij_1=>noun taEobAn_1=>noun Hulom_1=>noun
+jamoE_1=>noun mA_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun taEal~am_1=>verb min_1=>prep >a$oyA'_1=>noun kaviyr_1=>noun Tay~ib_1=>adj Al_1=>noun wa_1=>noun Al_1=>adj Al_1=>noun Al_1=>noun
+Al_1=>noun lAzim_1=>adj Einoda_1=>noun qunobul_1=>noun li_1=>noun
+bin_1=>verb xAl_1=>noun Eaziyz_1=>adj EuloyA_1=>adj bi_1=>noun zifAf_1=>noun <il`h_1=>noun yu_1=>verb li_1=>noun ya_1=>verb Al_1=>noun Al_1=>noun
+Eu$~_1=>noun SabAH_1=>noun EalaY_1=>prep >an~a_1=>conj_sub $axoS_1=>noun saEiyd_1=>noun_prop >aforaH_1=>verb tu_1=>verb bi_1=>noun Al_1=>noun >a_1=>verb Al_1=>noun basom_1=>noun >amal_1=>noun tu_1=>verb $ayo'_1=>noun yu_1=>verb
+mabosuwT_1=>noun wa_1=>noun $af_1=>verb nafos_1=>noun Al_1=>noun
+sAr~_1=>adj ZAfir_1=>noun Al_1=>noun saEiyd_1=>adj HalAwap_1=>noun_prop Al_1=>noun tafAEal_1=>verb
+saEiyd_1=>noun_prop rub_1=>verb yu_1=>verb bi_1=>noun wa_1=>verb qalob_1=>noun bi_1=>noun wa_1=>noun ya_1=>verb
+>aj~_1=>verb maTar_1=>noun_prop bi_1=>noun Al_1=>noun faroH_1=>noun bi_1=>noun Al_1=>noun ya_1=>verb
+Eawod_1=>noun >axoTar_1=>noun muEal~im_1=>noun Al_1=>noun wa_1=>prep Al_1=>noun
+>a_1=>verb >a_1=>verb bi_1=>noun Al_1=>noun >an~a_1=>conj_sub bi_1=>noun TAq_1=>noun Al_1=>adj Al_1=>noun bi_1=>noun wa_1=>noun Al_1=>noun wa_1=>noun
+bahoj_1=>noun 24_1=>digit 39_1=>digit dukotuwr_1=>noun fAtin_1=>noun <il`hiy~_1=>adj yu_1=>verb EalaY_1=>prep Al_1=>noun ta_1=>verb tu_1=>verb Al_1=>noun <il`h_1=>noun
+>ajomal_1=>noun faroH_1=>noun muEojab_1=>adj
+EAyiz_1=>noun >u_1=>verb bi_1=>noun kuwmiydiy~_1=>adj yA_1=>part_voc Eab~As_1=>noun_prop fiy_1=>prep His~_1=>noun Al_1=>noun >an~a_1=>conj_sub ta_1=>verb kalAm_1=>noun EAdiy~_1=>adj wa_1=>prep qud~Am_1=>noun ya_1=>verb DaHik_1=>verb wa_1=>pron >aloh_1=>verb HikAy_1=>noun ban_1=>noun 3_1=>digit Al_1=>noun Al_1=>adj
+hadiyr_1=>noun wa_1=>noun Tiyb_1=>noun wa_1=>noun Al_1=>noun ta_1=>verb wa_1=>verb wib~_1=>noun_prop Eiyd_1=>noun nu_1=>verb salAm_1=>noun
+yu_1=>verb Habiyb_1=>adj wa_1=>verb waqot_1=>noun juwE_1=>noun
+waqot_1=>noun Al_1=>noun >a_1=>verb Hat~aY_1=>prep laHoZ_1=>noun li>an~a_1=>conj_sub bi_1=>noun >um~_1=>noun ya_1=>verb Al_1=>noun bAb_1=>noun >aSobaH_1=>verb wa_1=>verb Al_1=>noun
+>a_1=>verb Al_1=>noun
+>anA_1=>pron mabosuwT_1=>noun mi$~_1=>noun EArif_1=>noun_prop lay~_1=>noun Al_1=>adj >an~_1=>conj_sub mabosuwT_1=>noun wa_1=>noun mi$~_1=>noun lAzim_1=>adj >u_1=>verb ya_1=>verb
+>amal_1=>verb HayA_1=>noun Al_1=>noun diy_1=>noun_prop EaZiym_1=>adj bi_1=>noun wa_1=>noun kalim_1=>noun mi$~_1=>noun lAqaY_1=>verb jumal_1=>noun maqoTaE_1=>noun kalAm_1=>noun Al_1=>noun kul~_1=>noun lAzim_1=>adj ta_1=>verb miEA_1=>noun
+ta_1=>verb <il`h_1=>noun min_1=>prep wa_1=>prep wa_1=>noun bahoj_1=>noun tu_1=>verb >abad_1=>noun
+$ayo'_1=>noun >ajomal_1=>noun gusol_1=>noun Al_1=>noun bi_1=>noun wa_1=>noun Al_1=>adj bi_1=>noun {ibotasam_1=>verb bi_1=>noun faraH_1=>noun wa_1=>verb_pseudo viq_1=>noun wa_1=>noun bi_1=>conj_sub <il`h_1=>noun yu_1=>verb Zan~_1=>noun Al_1=>noun
+$aw~af_1=>verb Al_1=>noun wa_1=>noun diy_1=>noun_prop >ad~aY_1=>verb <ilaY_1=>prep {inobisAT_1=>noun $aEobiy~_1=>adj
+rAH_1=>noun Al_1=>noun jawohar_1=>noun kaviyr_1=>noun Al_1=>noun fiy_1=>prep >ay~Am_1=>noun ya_1=>verb
+lay~_1=>noun lay~_1=>noun sa_1=>verb
+mu$ak~al_1=>adj >a_1=>verb saEiyd_1=>adj |nAm_1=>noun
+$af_1=>noun >usobuwE_1=>noun wa_1=>noun Al_1=>noun bi_1=>noun ya_1=>verb
+daqiyq_1=>noun bi_1=>noun DaHik_1=>verb hamaw_1=>verb
+bi_1=>noun <il`h_1=>noun wa_1=>noun ta_1=>verb >amiyr_1=>noun_prop Al_1=>noun_prop ra>os_1=>noun tAj_1=>noun_prop faxor_1=>noun_prop wa_1=>noun wa_1=>noun wa_1=>noun TAbiE_1=>noun Earabiy~_1=>adj
+wa_1=>noun EAyiz_1=>noun $Ay_1=>noun wa_1=>noun Hub~_1=>noun wa_1=>noun_prop bi_1=>noun
+ya_1=>verb qim~_1=>noun >aEotAb_1=>noun DaHok_1=>noun Hat~aY_1=>prep xuTA_1=>noun lA_1=>part_neg DaHik_1=>verb li_1=>prep
+wa_1=>verb nu_1=>verb wa_1=>noun_prop >azohAr_1=>noun 23_1=>digit
+yA_1=>part_voc majomuwE_1=>noun >awosAx_1=>noun yA_1=>part_voc yA_1=>part_voc wa_1=>noun Al_1=>noun hamaw_1=>verb wa_1=>noun >a_1=>verb yA_1=>part_voc rAjil_1=>noun yA_1=>part_voc Tay~ib_1=>noun_prop riyH_1=>noun Al_1=>noun bahij_1=>verb
+{ifotaH_1=>verb xazA}in_1=>noun *ikoray_1=>noun $uwf_1=>noun_prop Al_1=>noun qalob_1=>noun ya_1=>verb Hub~_1=>noun wa_1=>noun
+Al_1=>noun >an~a_1=>conj_sub ta_1=>verb Had~_1=>noun bi_1=>noun kifAy_1=>noun Euyuwn_1=>noun Al_1=>noun wa_1=>noun ya_1=>verb >an~a_1=>conj_sub <inosAn_1=>noun lay~_1=>noun qiym_1=>noun
+bahoj_1=>noun >amal_1=>noun 46_1=>digit >u_1=>verb Al_1=>noun ya_1=>verb zaraE_1=>verb kam~iy~_1=>noun daho$_1=>noun saEAd_1=>noun bi_1=>adj fak~ar_1=>verb bi_1=>noun Al_1=>noun >an~a_1=>conj_sub
+>a$ohur_1=>noun EibAr_1=>noun Al_1=>noun wa_1=>noun >amAn_1=>noun DamAn_1=>noun
+qara>_1=>verb jub~_1=>noun waqot_1=>noun qariyb_1=>adj Al_1=>noun miyan_1=>noun Al_1=>noun wa_1=>noun
+ta_1=>verb miyan_1=>noun najom_1=>noun_prop wa_1=>noun_prop qamariy~_1=>adj >an~_1=>noun yA_1=>part_voc Hubayob_1=>noun >amal_1=>noun
+kam~iy~_1=>noun dA_1=>noun_prop mi$~_1=>noun fAhim_1=>noun
+maboruwk_1=>noun Al_1=>noun Al_1=>adj >amiyr_1=>noun $Ab~_1=>noun wa_1=>noun_prop li_1=>noun mivol_1=>noun wAviq_1=>adj >an~a_1=>conj_sub tu_1=>verb nuqol_1=>noun kabiyr_1=>adj kul~_1=>noun viq_1=>noun fiy_1=>prep
+bi_1=>noun wa_1=>noun wa_1=>noun wa_1=>prep Al_1=>noun wa_1=>prep Al_1=>noun
+wa_1=>noun Al_1=>noun >a$oyA'_1=>noun mAl_1=>noun *anob_1=>noun nafos_1=>noun ta_1=>verb bi_1=>noun wajoh_1=>noun Haq~_1=>noun
+>an~_1=>noun maraH_1=>noun faraH_1=>noun_prop bahij_1=>noun wa_1=>noun wa_1=>noun >asobAb_1=>noun Al_1=>noun
+<il`h_1=>noun yu_1=>verb >um~_1=>noun_prop Ham~uwd_1=>noun_prop DaHik_1=>verb qalob_1=>noun SabAH_1=>noun saEAd_1=>noun
+Al_1=>noun ta_1=>verb <ilaY_1=>prep muEojiz_1=>noun ta_1=>verb qalob_1=>noun mutasAmiH_1=>adj waj~ah_1=>verb qanAE_1=>noun bi_1=>noun viq_1=>noun tAm~_1=>noun bAl_1=>noun
+Eay~ad_1=>verb mubArak_1=>noun_prop wa_1=>noun fa>ol_1=>noun wa_1=>verb ra>os_1=>noun mAl_1=>noun yA_1=>part_voc SAHib_1=>noun Al_1=>noun lay~in_1=>adj >u_1=>verb
+Tal~_1=>verb Al_1=>noun ya_1=>verb wa_1=>verb bi_1=>noun Tifol_1=>noun Sagiyr_1=>noun Al_1=>noun siwaY_1=>noun DaHik_1=>verb wa_1=>noun bi_1=>noun siwaY_1=>noun Al_1=>noun Al_1=>adj $aw~ar_1=>verb bayot_1=>noun 18_1=>digit
+Tay~ar_1=>verb Al_1=>noun kun_1=>verb faroHAn_1=>noun_prop fa_1=>noun
+<in~a_1=>verb_pseudo Al_1=>noun nakoh_1=>noun Sun~AE_1=>noun Hat~aY_1=>prep Zan~_1=>verb sab~_1=>noun {ibotihAj_1=>noun >aEoTay_1=>verb fatiyl_1=>noun saEAd_1=>noun maHab~_1=>noun tu_1=>verb tu_1=>verb
+Halam_1=>verb >aDoHak_1=>noun Al_1=>noun wa_1=>verb bi_1=>noun Al_1=>noun saEiyd_1=>noun_prop
+>a_1=>verb wa_1=>noun biyk_1=>noun_prop wa_1=>noun li_1=>verb wa_1=>noun DaHok_1=>noun ta_1=>verb Huzon_1=>noun ta_1=>verb dumuwE_1=>noun
+bahoj_1=>noun >amal_1=>noun 9_1=>digit daraj_1=>noun Al_1=>noun Al_1=>adj >u_1=>verb >a_1=>verb ya_1=>verb >u_1=>verb wa_1=>noun bi_1=>noun busotAn_1=>noun li>an~a_1=>conj_sub
+Al_1=>noun bi_1=>noun hAdiy_1=>noun_prop qud~Am_1=>noun Al_1=>noun bi_1=>noun ra}iys_1=>noun Al_1=>noun SaHAb_1=>noun bahij_1=>verb marosaY_1=>noun
+qam~_1=>verb Al_1=>noun >aHas~_1=>verb bi_1=>noun midoraY_1=>noun fa_1=>noun
+HalAwap_1=>noun_prop riDA_1=>noun_prop wa_1=>noun
+bi_1=>noun Al_1=>noun wASal_1=>verb musalosal_1=>noun $ad~_1=>verb
+>u_1=>verb HisAb_1=>noun >u_1=>verb ta_1=>verb jid~_1=>noun tu_1=>verb kaviyr_1=>noun <il`h_1=>noun yu_1=>verb saEAd_1=>noun Al_1=>adj
+bahoj_1=>noun >amal_1=>noun 125_1=>digit taSaf~aH_1=>verb rusuwm_1=>noun Al_1=>adj $af_1=>verb Al_1=>noun Al_1=>noun wADiH_1=>adj bay~in_1=>noun Al_1=>adj >anA_1=>pron saEiyd_1=>adj nafos_1=>noun bi_1=>noun Al_1=>noun ya_1=>verb
+maboruwk_1=>noun 80_1=>digit tawo>am_1=>noun saEAd_1=>noun Al_1=>noun >a_1=>verb kul~_1=>noun bi_1=>noun wa_1=>noun wa_1=>adj HAl_1=>noun $Ahid_1=>noun la_1=>prep Ealay_1=>prep ta_1=>verb wa_1=>verb maEa_1=>prep bi_1=>noun <il`h_1=>noun
+tin~iyn_1=>noun Hulow_1=>noun Zariyf_1=>noun_prop tin~iyn_1=>noun >axoDar_1=>noun tin~iyn_1=>noun maraH_1=>noun laTiyf_1=>noun_prop ta_1=>verb
+faraH_1=>noun qalob_1=>noun tu_1=>verb riDA_1=>noun rab~_1=>noun Hub~_1=>noun Al_1=>noun >aboqaY_1=>verb Ealay_1=>prep
+wa_1=>verb fiy_1=>prep Al_1=>noun wa_1=>noun wa_1=>prep Al_1=>noun {i$otaq_1=>verb >a_1=>verb Sawot_1=>noun >aw~al_1=>adj daxal_1=>verb Al_1=>noun sumiE_1=>verb Suw~_1=>noun
+Al_1=>noun >an~a_1=>conj_sub >an~a_1=>conj_sub tu_1=>verb qalob_1=>noun Had~_1=>noun ta>an~iy_1=>noun Ealay_1=>prep
+<iEolAn_1=>noun 5050_1=>digit mubohij_1=>noun lay~_1=>noun lamiys_1=>adj
+faroH_1=>noun muxotaliT_1=>adj bi_1=>noun
+mu&ax~ar_1=>noun >u_1=>verb laEob_1=>noun nafos_1=>noun >amos_1=>noun qirAn_1=>noun >aw_1=>conj kitAb_1=>noun >a_1=>verb bi_1=>adj >a_1=>verb >aw~al_1=>adj SafoH_1=>noun tu_1=>verb baHov_1=>noun bi_1=>noun muwaj~ah_1=>adj li_1=>prep bi_1=>noun Al_1=>noun bahoj_1=>noun
+Eiyd_1=>noun saEiyd_1=>noun_prop na_1=>verb kalAm_1=>noun kaf~Ar_1=>noun
+faroH_1=>noun ramaDAn_1=>noun_prop qawol_1=>noun >aw~al_1=>adj ramaDAn_1=>noun_prop miEA_1=>noun
+{i$otaq~_1=>verb la_1=>noun madoras_1=>noun wa_1=>noun Al_1=>noun taxar~aj_1=>verb 208_1=>digit ya_1=>verb 9_1=>digit kun_1=>verb ham~_1=>noun Al_1=>noun kibor_1=>noun kabar_1=>verb humuwm_1=>noun miEA_1=>noun dirAmA_1=>noun
+bayoniy~_1=>adj >um~_1=>noun yA_1=>part_voc {ibon_1=>noun yA_1=>part_voc xawal_1=>noun mar~_1=>noun >u_1=>verb mitonAk_1=>noun faroHAn_1=>noun_prop >um~_1=>noun wa_1=>noun
+faroH_1=>noun mabosim_1=>noun {ibotasam_1=>verb wa_1=>verb qalob_1=>noun miEA_1=>noun
+SabAH_1=>noun faroHAn_1=>noun_prop wa_1=>noun
+Al_1=>noun Sadiyq_1=>noun tu_1=>verb >azohAr_1=>noun qalob_1=>noun mabosuwT_1=>noun
+dA_1=>noun_prop kaw~ad_1=>verb $aHon_1=>noun 60_1=>digit Al_1=>noun 9261696927170628_1=>digit faroH_1=>noun quw~_1=>noun
+tafA&ul_1=>noun bi_1=>noun tawal~iy_1=>noun fahod_1=>noun_prop xAlid_1=>noun_prop Al_1=>noun_prop yu_1=>verb bi_1=>prep tagoriyd_1=>noun tu_1=>verb Al_1=>noun <il`h_1=>noun ya_1=>verb Al_1=>noun sir~_1=>noun tawofiyq_1=>noun Safaq_1=>noun Al_1=>adj
+>aforaH_1=>verb Al_1=>noun Al_1=>noun Al_1=>adj qaroD_1=>noun waDoE_1=>noun >aromal_1=>noun >aw_1=>conj muTolaq_1=>adj wa_1=>verb >usor_1=>noun ta_1=>verb Tuwl_1=>noun Eumor_1=>noun ta_1=>verb fawA}id_1=>noun ribawiy~_1=>adj li_1=>noun
+ta_1=>verb xayor_1=>noun yA_1=>part_voc faxor_1=>noun $A'_1=>verb <il`h_1=>noun >ay~Am_1=>noun saEAd_1=>noun wa_1=>verb wa_1=>verb wa_1=>noun_prop
+kavur_1=>verb Hub~_1=>noun ya_1=>verb masoHuwr_1=>adj Hub~_1=>noun saHar_1=>noun mabogaY_1=>noun EilAj_1=>noun xal~_1=>noun yusoriy_1=>noun_prop fiy_1=>prep magoruwr_1=>adj dAm_1=>verb saHar_1=>noun gAy_1=>noun wa_1=>noun qalab_1=>verb ya_1=>verb
+yA_1=>part_voc makAn_1=>noun Hulow_1=>noun Al_1=>noun {imora>_1=>noun ta_1=>verb Al_1=>noun
+Al_1=>noun >aHofaZ_1=>verb li_1=>prep DaHok_1=>noun >abawiy~_1=>adj Hanoy_1=>noun >um~_1=>noun quluwb_1=>noun <ixowAn_1=>noun saEAd_1=>noun >aholiy~_1=>noun_prop ya_1=>verb Al_1=>noun
+Hulow_1=>noun qud_1=>verb wa_1=>noun wa_1=>noun Al_1=>noun
+$ayo'_1=>noun >ajomal_1=>noun <i$orAq_1=>noun hAdi}_1=>adj ya_1=>verb la_1=>prep ya_1=>verb Al_1=>noun fa_1=>verb Al_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun Al_1=>noun Al_1=>noun
+Al_1=>noun >an~a_1=>conj_sub taEar~af_1=>verb miyan_1=>noun lay~_1=>noun Al_1=>noun >an~a_1=>conj_sub
+li_1=>verb riyH_1=>noun yuwsif_1=>noun_prop Al_1=>noun wa_1=>noun Al_1=>noun bAl_1=>noun tu_1=>verb layol_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun <ilaY_1=>prep >amal_1=>noun wa_1=>noun fa_1=>part_neg ta_1=>verb {isotabo$ar_1=>verb wuvuq_1=>noun bi_1=>noun <il`h_1=>noun Al_1=>noun
+fiy_1=>prep mabosim_1=>noun Al_1=>noun *awoq_1=>noun DuHok_1=>noun Sawot_1=>noun Al_1=>noun yu_1=>verb
+<il`h_1=>noun yu_1=>verb fiy_1=>prep tasal~um_1=>noun wa_1=>noun lay~_1=>noun ya_1=>verb ta_1=>verb bi_1=>noun wa_1=>noun >afoDal_1=>adj dukotuwr_1=>noun
+rubaY_1=>noun >adoxal_1=>verb $ahor_1=>noun ramaDAn_1=>noun_prop Ealay_1=>prep wa_1=>pron rADiy_1=>adj Ean_1=>prep wa_1=>verb $ahor_1=>noun *unuwb_1=>noun <ilaY_1=>prep Hasan_1=>noun wa_1=>noun <ilaY_1=>prep >aforAH_1=>noun wa_1=>noun <ilaY_1=>prep wAqiE_1=>noun ya_1=>verb Al_1=>noun
+bi_1=>noun Al_1=>noun Hulow_1=>noun >awaY_1=>verb Al_1=>noun wa_1=>verb Al_1=>noun
+>ala*~_1=>verb $uEuwr_1=>noun bi_1=>noun $axoS_1=>noun taEAbiyr_1=>noun wajoh_1=>noun maliy}_1=>noun bi_1=>noun wa_1=>noun wa_1=>verb <iyHA'_1=>noun wa_1=>noun li_1=>noun li_1=>noun wa_1=>pron_rel ta_1=>verb
+Suwar_1=>noun Al_1=>noun bi_1=>noun qudAmaY_1=>noun mabosuwT_1=>noun biyh_1=>noun_prop Eu$~_1=>noun qAEid_1=>noun bi_1=>noun Suwr_1=>noun_prop ba$~ar_1=>verb faroHAn_1=>adj ya_1=>verb
+wa_1=>conj_sub Al_1=>noun <il`h_1=>noun dA}im_1=>adj bi_1=>noun Al_1=>noun saEAd_1=>noun >aEojab_1=>verb
+miylAd_1=>noun_prop jamiyl_1=>noun EalaY_1=>prep miylAd_1=>noun Al_1=>noun HikAy_1=>noun ta_1=>verb miylAd_1=>noun_prop Sadiyq_1=>noun >u_1=>verb ya_1=>verb sa_1=>verb Eumor_1=>noun jadiyd_1=>adj
+buH~_1=>noun Suw~_1=>noun tu_1=>verb riDA_1=>noun
+Al_1=>noun mutaDAyiq_1=>adj bi_1=>noun li_1=>noun wa_1=>noun Al_1=>noun
+709_1=>digit Hub~_1=>noun Al_1=>noun muxotalif_1=>adj tamAm_1=>noun wa_1=>noun_prop wa_1=>noun
+Hulow_1=>noun $uEuwr_1=>noun Al_1=>noun ya_1=>verb saEAd_1=>noun wa_1=>noun muzon_1=>noun Al_1=>noun Al_1=>noun $uEuwr_1=>noun rAH_1=>noun
+>aDoHak_1=>noun >aDoHak_1=>noun >aDoHak_1=>noun $ay~_1=>noun ya_1=>verb Al_1=>noun mujar~ab_1=>noun
+>aham~_1=>noun HAj_1=>noun Al_1=>noun maEoluwm_1=>noun Al_1=>noun Tariyq_1=>noun Al_1=>noun <ilaY_1=>prep Al_1=>noun san_1=>noun Tay~ib_1=>adj yA_1=>part_voc
+>abiy_1=>noun_prop muxolid_1=>noun Al_1=>noun la_1=>verb_pseudo masoruwr_1=>adj bi_1=>noun Al_1=>noun_prop
+ramaDAn_1=>noun_prop rAbiE_1=>adj ya_1=>verb Hub~_1=>noun Al_1=>noun li_1=>noun nut_1=>verb Al_1=>noun wa_1=>noun kun_1=>verb >aEolaY_1=>adj daraj_1=>noun bi_1=>noun Al_1=>noun
+>a$oyA'_1=>noun ta_1=>verb Al_1=>noun riDA_1=>noun_prop <il`h_1=>noun wa_1=>noun_prop Al_1=>noun {ibotisAm_1=>noun Al_1=>noun >unAs_1=>noun >aHab~_1=>verb <il`h_1=>noun salAmap_1=>noun_prop Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>adj
+>aSoHAb_1=>noun Eiyd_1=>noun basom_1=>noun faraH_1=>noun_prop wa_1=>noun Eumar_1=>noun_prop wa_1=>verb miEA_1=>noun
+Al_1=>noun Al_1=>noun wa_1=>noun Al_1=>adj la_1=>prep wa_1=>pron_rel tu_1=>verb wa_1=>pron bi_1=>noun xayor_1=>noun fiTor_1=>noun_prop saEiyd_1=>noun_prop
+<ilaY_1=>prep >anota_1=>pron xaTow_1=>noun li_1=>noun li_1=>noun tu_1=>verb >a_1=>verb li_1=>noun barod_1=>noun
+miylAd_1=>noun wa_1=>part_voc Eas~_1=>verb liyn_1=>noun Al_1=>noun ta_1=>verb
+>a_1=>verb {ibotisAm_1=>noun rab~_1=>noun ya_1=>verb xayor_1=>noun wa_1=>noun
+kun_1=>verb mutaxay~al_1=>adj EalaY_1=>prep >aroD_1=>noun Al_1=>noun Al_1=>noun yA_1=>part_voc jamAl_1=>noun bi_1=>noun xalAS_1=>noun laqiy_1=>verb TuwlaY_1=>noun Eumoriy~_1=>adj >a_1=>verb mAliy_1=>noun_prop Al_1=>noun saEAd_1=>noun mutoE_1=>noun
+mar~_1=>noun makiyAj_1=>noun bi_1=>noun xAl_1=>noun >um~_1=>noun bi_1=>noun Al_1=>noun <il`h_1=>noun EalaY_1=>prep lamas_1=>noun >um~_1=>noun lamas_1=>noun Hub~_1=>noun HanAn_1=>noun_prop
+na_1=>verb EalaY_1=>prep HAf_1=>noun Al_1=>noun Al_1=>adj lA_1=>part_neg ta_1=>verb rA}iH_1=>noun wa_1=>conj lA_1=>part_neg tafASiyl_1=>noun saHar_1=>noun
+bAqiy_1=>noun 3_1=>digit Al_1=>noun >a_1=>verb xitAm_1=>noun masok_1=>noun wa_1=>adj bi_1=>noun >ay~Am_1=>noun qanA_1=>noun Al_1=>adj wa_1=>verb Tay~ib_1=>noun_prop Siyt_1=>noun Al_1=>noun ya_1=>verb Al_1=>noun
+ta_1=>verb Al_1=>noun Al_1=>noun bi_1=>noun suruwr_1=>noun_prop Ealay_1=>prep mak~an_1=>verb mahomuwm_1=>adj wa_1=>noun waHod_1=>adv daEow_1=>noun DaHok_1=>noun tu_1=>verb yawom_1=>noun bi_1=>noun jarab_1=>noun ta_1=>verb $ayo'_1=>noun
+bi_1=>noun <il`h_1=>noun >ajomal_1=>noun tafA&ul_1=>noun bi_1=>noun
+Al_1=>noun_prop *awob_1=>noun >a_1=>verb bi_1=>noun_prop wa_1=>conj tAh_1=>verb bi_1=>prep Al_1=>noun Al_1=>noun_prop bi_1=>noun_prop ya_1=>verb Al_1=>noun Tariyq_1=>noun <il~A_1=>part Al_1=>noun_prop maboruwk_1=>noun Al_1=>noun ya_1=>verb
+ya_1=>verb Hub~_1=>noun qalob_1=>noun nabaD_1=>noun ya_1=>verb laHon_1=>noun salAm_1=>noun li_1=>adj HiDon_1=>noun kifAy_1=>noun
+Al_1=>noun >an_1=>conj_sub yu_1=>verb {isom_1=>noun duEA'_1=>noun >aHad_1=>noun_prop >anota_1=>pron ta_1=>verb ya_1=>verb sax~ar_1=>verb la_1=>prep EibAd_1=>noun ya_1=>verb la_1=>prep
+Al_1=>noun qanAE_1=>noun dAxiliy~_1=>adj wud~_1=>noun ta_1=>verb ta_1=>verb wa_1=>verb saEiyd_1=>noun_prop wa_1=>noun SaHiyH_1=>adj
+>ajomal_1=>noun minoTaq_1=>noun <isolAmiy~_1=>adj Hayawiy~_1=>adj Al_1=>noun ya_1=>verb lay~_1=>noun ta>an~iy_1=>noun
+<ihodA'_1=>noun Al_1=>noun Al_1=>adj li_1=>noun wa_1=>noun Haniyn_1=>noun bi_1=>noun wuSuwl_1=>noun 50_1=>digit maboruwk_1=>noun $Ahid_1=>noun likay_1=>conj bi_1=>noun Tay~ar_1=>verb
+niqAT_1=>noun muhim~_1=>adj bi_1=>noun li_1=>noun_quant $axoS_1=>noun TalaE_1=>verb qalob_1=>noun $ariyk_1=>noun HayA_1=>noun {isotamotaE_1=>verb bi_1=>noun >ahol_1=>noun >a_1=>verb Al_1=>noun li_1=>noun >anas_1=>noun_prop
+ta_1=>verb bAl_1=>noun Al_1=>noun masoruwr_1=>adj $amos_1=>noun tu_1=>verb Al_1=>noun DaHak_1=>noun ZilAl_1=>noun
+mi$~_1=>noun HAj~_1=>noun EAm~_1=>adj ziy~_1=>noun Al_1=>adj fiy_1=>prep wa_1=>prep Earobajiy~_1=>adj wa_1=>prep dam_1=>noun tu_1=>verb
+ya_1=>verb <il`h_1=>noun yad_1=>noun rafaE_1=>verb ta_1=>verb <il`h_1=>noun min_1=>prep wa_1=>prep SAliH_1=>noun_prop Al_1=>noun Habiyb_1=>adj basom_1=>noun
+Al_1=>noun $axoS_1=>noun tu_1=>verb wa_1=>verb mufiyd_1=>adj taxofiyf_1=>noun Al_1=>noun wa_1=>noun wa_1=>verb viq_1=>noun kabiyr_1=>adj nafos_1=>noun taxal~uS_1=>noun Al_1=>noun
+kun_1=>verb EalaY_1=>prep {isotiEodAd_1=>noun tAm~_1=>noun li_1=>verb bi_1=>noun >a_1=>verb wa_1=>verb EalAq_1=>noun >ajol_1=>noun samAH_1=>noun xATir_1=>noun wa_1=>noun_prop mizAjiy~_1=>adj zil_1=>verb
+faroH_1=>noun wa_1=>noun wa_1=>noun bi_1=>adj taEib_1=>verb Al_1=>noun wa_1=>noun wa_1=>noun bi_1=>noun bi_1=>noun Al_1=>adj wa_1=>noun
+duk~An_1=>noun Al_1=>noun 16_1=>digit 1286_1=>digit wa_1=>prep maEa_1=>prep majod_1=>noun wa_1=>part_voc faxor_1=>noun ya_1=>verb Eafow_1=>noun wa_1=>noun wa_1=>noun
+ragib_1=>verb qawiy~_1=>adj >a_1=>verb >axobAr_1=>noun $axoS_1=>noun li_1=>noun Tawiyl_1=>adj fuDuwl_1=>noun >aqal~_1=>noun
+wud~iy~_1=>adj ta_1=>verb wid~iy~_1=>adj wa_1=>verb wud~iy~_1=>adj wud~iy~_1=>adj min_1=>prep kaviyr_1=>noun wa_1=>verb
+kawoniy~_1=>adj tak~_1=>verb dA}im_1=>adj Eafowiy~_1=>adj mariH_1=>noun $aqiy~_1=>adj TA}i$_1=>noun maHab~_1=>noun li_1=>noun muta>an~iq_1=>noun *akiy~_1=>adj qawiy~_1=>adj $ayo'_1=>noun ya_1=>verb kawoniy~_1=>adj >aqowaY_1=>noun ya_1=>verb Al_1=>noun wa_1=>noun ta_1=>verb faraH_1=>noun
+wa_1=>noun bi_1=>noun wa_1=>noun wa_1=>noun saEiyd_1=>adj ya_1=>verb
+>ajod_1=>verb wa_1=>verb wa_1=>noun bAl_1=>noun >an~a_1=>conj_sub {iEotaqad_1=>verb $Ahid_1=>noun Al_1=>noun wa_1=>pron_rel DaHik_1=>verb qalob_1=>noun ta_1=>verb ruwH_1=>noun Al_1=>noun wa_1=>noun munoqaTiE_1=>adj Al_1=>noun
+qanAE_1=>noun HayA_1=>noun SanoE_1=>noun >afokAr_1=>noun saEAd_1=>noun Al_1=>noun >aw_1=>conj $aqAw_1=>noun >aw_1=>conj qalaq_1=>noun >aw_1=>conj sakiyn_1=>noun ta_1=>verb waHod_1=>adv
+Al_1=>noun Hadiyv_1=>noun >azohAr_1=>noun Al_1=>noun mar~_1=>verb EalaY_1=>prep ma$otal_1=>noun sa>al_1=>verb ru&oy_1=>noun zAd_1=>verb Haniyn_1=>noun la_1=>prep ruwH_1=>noun tagay~ar_1=>verb HAl_1=>noun Al_1=>noun ya_1=>verb
+>u_1=>verb yAsir_1=>noun_prop wa_1=>verb ya_1=>verb Al_1=>noun Harov_1=>noun li_1=>noun $ay~_1=>noun yu_1=>verb Al_1=>noun
+maboruwk_1=>noun >a_1=>verb la_1=>prep Al_1=>noun wa_1=>noun wa_1=>noun <il`h_1=>noun taEAlaY_1=>verb Al_1=>noun jA}iz_1=>noun li_1=>noun Al_1=>noun
+ta_1=>verb Al_1=>adj siroHAn_1=>noun_prop musalosal_1=>noun bAbA_1=>noun_prop faroHAn_1=>noun_prop
+takobiyr_1=>noun Al_1=>noun maSodar_1=>noun bahoj_1=>noun rAH_1=>noun li_1=>noun firAq_1=>noun Al_1=>noun
+Hulow_1=>noun ta_1=>verb qul_1=>verb li_1=>prep miEA_1=>noun Al_1=>noun DaHik_1=>verb wa_1=>noun
+ya_1=>verb <il`h_1=>noun li_1=>noun bi_1=>noun wAviq_1=>adj >a_1=>verb ya_1=>verb Tumo>aniyn_1=>noun
+miylAd_1=>noun_prop >axAf_1=>verb Had~_1=>noun ya_1=>verb qalob_1=>noun >u_1=>verb san_1=>noun wa_1=>pron SAHib_1=>noun <il`h_1=>noun yu_1=>verb
+>a_1=>verb >amAniy_1=>noun Al_1=>noun Tay~ib_1=>adj wa_1=>noun kad~_1=>noun maHobuwb_1=>noun >awaY_1=>verb wa_1=>noun wa_1=>noun wa_1=>pron Hub~iy~_1=>adj wa_1=>noun Hulow_1=>noun
+Eay~a$_1=>verb <ilaY_1=>prep ya_1=>verb Al_1=>noun maEa_1=>prep ya_1=>verb yu_1=>verb Ealay_1=>prep
+fas_1=>verb waSal_1=>verb >aHosan_1=>noun saEiyd_1=>adj >aHas~_1=>verb >akal_1=>verb luqayom_1=>noun waHod_1=>noun Al_1=>noun li_1=>noun Al_1=>noun Al_1=>noun
+Eiyd_1=>noun taHoriyr_1=>noun siynA'_1=>noun_prop bahoj_1=>noun Al_1=>noun wa_1=>noun
+Al_1=>noun nazal_1=>verb rawAtib_1=>noun taqoriyb_1=>noun <il~A_1=>part rawAtib_1=>noun Al_1=>noun banok_1=>noun Al_1=>noun EasaY_1=>adv warA_1=>noun Eiyd_1=>noun Daruwriy~_1=>adj fa_1=>verb
+ta_1=>verb ya_1=>verb qalob_1=>noun bi_1=>noun ta*ak~ar_1=>verb >aHab~_1=>verb wa_1=>verb ta_1=>verb jAhid_1=>noun li_1=>verb l`kin~a_1=>conj ta_1=>verb wa_1=>verb Huzon_1=>noun taHaz~un_1=>noun Eayon_1=>noun Hulom_1=>noun |xar_1=>adj sa_1=>verb Al_1=>noun <ilay_1=>prep
+Al_1=>noun Al_1=>adj <inotAj_1=>noun laTiyf_1=>noun_prop wa_1=>prep *akA'_1=>noun
+ya_1=>verb bi_1=>noun suquwT_1=>noun Al_1=>noun Haq~_1=>noun >amoniy~_1=>adj wa_1=>adj Ean_1=>prep wa_1=>prep >aHib~_1=>noun $ar~_1=>noun wa_1=>verb liy_1=>noun_prop maTar_1=>noun_prop
+wa_1=>noun midoraY_1=>noun Al_1=>noun EArim_1=>adj
+>a_1=>verb la_1=>prep tu_1=>verb EalaY_1=>prep xayor_1=>noun wa_1=>noun salAm_1=>noun EalaY_1=>prep Sad~aq_1=>verb Al_1=>noun wa_1=>verb Al_1=>noun Tahuwr_1=>noun saEiyd_1=>noun_prop Al_1=>noun
+baEiyd_1=>adj Ean_1=>prep HayA_1=>noun Ea*Ab_1=>noun baEiyd_1=>adj Ean_1=>prep Al_1=>noun >aHobAb_1=>noun miEA_1=>noun bi_1=>noun baEiyd_1=>adj Ean_1=>prep
+Had~_1=>noun kuway~is_1=>noun qAl_1=>verb Al_1=>noun mi$~_1=>noun kad~_1=>noun
+layol_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun >ay~_1=>noun_quant Tumo>aniyn_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun Al_1=>noun fa_1=>verb_pseudo ya_1=>verb rAH_1=>noun wa_1=>noun wa_1=>noun Sadar_1=>verb
+bahoj_1=>noun >amal_1=>noun 74_1=>digit Al_1=>noun EalaY_1=>prep $uEuwr_1=>noun Al_1=>noun Al_1=>noun bi_1=>noun fiy_1=>prep mugomaD_1=>adj Euyuwn_1=>noun HAl_1=>noun {isotiroxA'_1=>noun huduw'_1=>noun nafos_1=>noun
+bi_1=>pron_rel |xar_1=>noun mAd~_1=>adj wa_1=>verb kuway~is_1=>noun wa_1=>adj wa_1=>noun fa_1=>pron muHotAj_1=>noun Had~_1=>noun yu_1=>verb faroH_1=>noun yu_1=>verb
+bAn_1=>verb Al_1=>noun EalaY_1=>prep wajoh_1=>noun >u_1=>verb >an~_1=>conj_sub Al_1=>adj
+bahoj_1=>noun >amal_1=>noun 47_1=>digit Sadiyq_1=>noun >uxot_1=>noun Al_1=>noun tu_1=>verb Al_1=>noun <il`h_1=>noun
+>aHoyAn_1=>noun Al_1=>noun $axoS_1=>noun yu_1=>verb
+waqaf_1=>verb taqodiyr_1=>noun mar~_1=>verb Al_1=>noun wa_1=>pron kun_1=>verb mahomuwm_1=>adj
+rab~_1=>noun jid~_1=>noun fiy_1=>prep ruwH_1=>noun Al_1=>noun wa_1=>noun ta_1=>verb DuEafA'_1=>noun >amAm_1=>noun Zuruwf_1=>noun Al_1=>noun >a_1=>verb fiy_1=>prep Al_1=>noun Al_1=>adj wa_1=>noun la_1=>prep >ay~Am_1=>noun yA_1=>part_voc <il`h_1=>noun
+bi_1=>noun daxal_1=>verb Tib~_1=>noun >akoram_1=>noun_prop Husoniy_1=>noun_prop bahij_1=>verb riyH_1=>noun Al_1=>noun
+EAmil_1=>noun Al_1=>noun laTaf_1=>verb Tay~ib_1=>noun_prop fa_1=>noun Al_1=>adj xayor_1=>noun Al_1=>noun xayor_1=>noun Hat~aY_1=>prep li_1=>noun Al_1=>adj xayor_1=>noun Al_1=>noun saEAd_1=>noun qalob_1=>noun kul~_1=>noun
+Ealay_1=>prep wa_1=>prep faroHAn_1=>noun_prop wa_1=>pron Tay~ib_1=>adj
+SabAHiy~_1=>adj >atam~_1=>verb Al_1=>noun >an~a_1=>conj_sub Al_1=>noun <ilaY_1=>prep wAqiE_1=>noun bi_1=>noun Al_1=>noun wa_1=>noun bi_1=>noun
+kam~iy~_1=>noun qanAE_1=>noun >a_1=>verb li_1=>prep fator_1=>noun >asal_1=>noun li_1=>noun Eu$~_1=>noun 9_1=>digit <ijAz_1=>noun
+>a_1=>verb la_1=>prep >aHolAm_1=>noun saEiyd_1=>adj fa_1=>verb
+faroH_1=>noun najAH_1=>noun mujotamaE_1=>noun ya_1=>verb >an~a_1=>conj_sub <inojAb_1=>noun Al_1=>noun >amal_1=>noun wa_1=>noun xayob_1=>noun ragom_1=>noun >an~a_1=>conj_sub Hulom_1=>noun rajul_1=>noun >unovaY_1=>noun wa_1=>noun >unovaY_1=>noun rajul_1=>noun
+ya_1=>verb Al_1=>noun wa_1=>noun bi_1=>noun >aSodiqA}_1=>noun >aforAH_1=>noun |l_1=>noun_prop EabodAlEaziyz_1=>noun_prop
+had~_1=>verb ya_1=>verb >ax_1=>noun Al_1=>adj ya_1=>verb la_1=>prep Al_1=>noun Al_1=>noun bi_1=>adj Al_1=>noun Al_1=>noun $ahiy~_1=>noun Tay~ib_1=>adj
+tawak~al_1=>verb EalaY_1=>prep <il`h_1=>noun Al_1=>noun wa_1=>noun wa_1=>verb humuwm_1=>noun Al_1=>noun wa_1=>verb
+bi_1=>noun bi_1=>noun faxor_1=>noun mi$~_1=>noun mutAbiE_1=>noun HAj_1=>noun Al_1=>noun ramaDAn_1=>noun_prop rAH_1=>noun Al_1=>noun
+<iEojAb_1=>noun Hub~_1=>noun zawAj_1=>noun nihAy_1=>noun saEiyd_1=>adj
+ya_1=>verb ta_1=>verb sab~_1=>noun faroH_1=>noun >um~_1=>noun ya_1=>verb waf~aq_1=>verb 29_1=>digit 2_1=>digit 15_1=>digit
+yu_1=>verb Al_1=>noun Al_1=>noun <ilaY_1=>prep Al_1=>noun rAH_1=>noun
+mutaTaw~iE_1=>noun Al_1=>noun_prop Al_1=>noun Al_1=>noun ya_1=>verb sAE_1=>noun Al_1=>noun Hadiyq_1=>noun Al_1=>noun mutaTaw~iE_1=>noun Al_1=>noun_prop taTaw~uE_1=>noun saEAd_1=>noun <iHosAn_1=>noun_prop na_1=>verb saw~a>_1=>verb
+Al_1=>adj faxuwr_1=>noun bi_1=>noun li_1=>noun ka>os_1=>noun Al_1=>noun li_1=>noun Al_1=>noun bi_1=>noun_prop wa_1=>verb li_1=>noun marokaz_1=>noun mutaqad~im_1=>adj saloTan_1=>noun EumAn_1=>noun_prop >axobAr_1=>noun riyAD_1=>noun
+maTar_1=>noun_prop la_1=>prep Al_1=>noun >u_1=>verb bi_1=>noun Huzon_1=>noun
+Al_1=>noun >an~a_1=>conj_sub taEar~af_1=>verb rab~_1=>noun rADiy_1=>adj Ean_1=>prep gADib_1=>adj
+ma>on_1=>noun bayot_1=>noun maqobar_1=>noun mi$~_1=>noun >a_1=>verb bar~_1=>noun bahij_1=>verb riyH_1=>noun Al_1=>noun 2017_1=>digit
+fuwl_1=>noun taEib_1=>verb Euqob_1=>noun Al_1=>noun >aHolaY_1=>noun $uEuwr_1=>noun qaTar_1=>noun_prop riyAD_1=>noun
+sAE_1=>noun {isotijAb_1=>noun ya_1=>verb rADiy_1=>adj bi_1=>noun $ayo'_1=>noun Huzon_1=>noun wa_1=>noun Tumo>aniyn_1=>noun ta_1=>verb >aroD_1=>noun bi_1=>noun katab_1=>verb li_1=>prep
+daE~_1=>verb {ibotisAm_1=>noun >aw~al_1=>adj malAmiH_1=>noun fa_1=>pron la_1=>prep SiH~_1=>noun Al_1=>noun Sadaq_1=>noun Al_1=>noun saEAd_1=>noun wa_1=>pron_rel Hawol_1=>noun >avar_1=>noun jamiyl_1=>noun
+faroH_1=>noun duxuwl_1=>noun ramaDAn_1=>noun_prop tu_1=>verb Al_1=>noun Al_1=>noun >anozal_1=>verb Al_1=>noun Al_1=>noun EalaY_1=>prep quluwb_1=>noun
+bi_1=>noun <i$Ar_1=>noun Al_1=>noun Al_1=>noun wajob_1=>noun <ifoTAr_1=>noun SA}im_1=>adj wahay_1=>verb EibAr_1=>noun ta_1=>verb laban_1=>noun li_1=>noun {ibotasam_1=>verb ta_1=>verb
+wa_1=>verb {ifotakar_1=>verb HAj_1=>noun Hulow_1=>noun ta>an~iy_1=>noun kad~_1=>noun kam~iy~_1=>noun Al_1=>noun Al_1=>noun kabiyr_1=>adj wa_1=>verb Had~_1=>noun Einoda_1=>noun Al_1=>noun diy_1=>noun_prop Eu$~_1=>noun nafos_1=>noun EabiyT_1=>adj
+$ak~al_1=>verb {ibotisAm_1=>noun
+tu_1=>verb Al_1=>noun dAy_1=>noun_prop m_1=>abbrev ya_1=>verb suruwr_1=>noun_prop bi_1=>noun <il`h_1=>noun $ay~_1=>noun jamiyl_1=>noun_prop suruwr_1=>noun_prop
+Al_1=>noun yA_1=>part_voc yA_1=>part_voc qay~uwm_1=>noun_prop jumal_1=>noun yawom_1=>noun bi_1=>noun jamiyl_1=>noun_prop yu_1=>verb Sadoriy~_1=>adj yu_1=>verb qalob_1=>noun faroH_1=>noun >a_1=>verb HisAb_1=>noun
+tuwayoj_1=>noun Al_1=>noun layol_1=>noun faraH_1=>noun_prop wa_1=>noun_prop Al_1=>noun wa_1=>noun layol_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun sAr~_1=>adj saEod_1=>noun_prop
+ya_1=>verb bi_1=>conj_sub EuTuwr_1=>noun rA}iH_1=>noun *ikoray_1=>noun >aHolAm_1=>noun saEiyd_1=>adj
+ya_1=>verb $uEuwriy~_1=>adj la_1=>verb ta_1=>verb bi_1=>noun la_1=>verb Al_1=>noun
+wa_1=>pron Tay~ib_1=>noun_prop yA_1=>part_voc wa_1=>noun
+wa_1=>noun bruwj_1=>noun_prop >an~_1=>noun >u_1=>verb {ibotasam_1=>verb $uEuwriy~_1=>adj wajoh_1=>noun yu_1=>verb wa_1=>noun
+matojar_1=>noun qahow_1=>noun majiyd_1=>noun_prop <il`h_1=>noun <il`h_1=>noun ya_1=>verb wa_1=>verb la_1=>prep rizoq_1=>noun ta_1=>verb xayor_1=>noun midoraY_1=>noun >u_1=>verb tawas~uE_1=>noun bi_1=>noun >aHas~_1=>verb bi_1=>noun kabiyr_1=>adj
+Tay~ib_1=>noun_prop ruwH_1=>noun Al_1=>noun *akiy~_1=>adj zakiy~_1=>adj wa_1=>noun lay~_1=>noun
+miEA_1=>noun >aHas~_1=>verb Al_1=>noun layota_1=>verb_pseudo bidAy_1=>noun Eumoriy~_1=>adj Earaf_1=>verb
+miEA_1=>noun >a_1=>verb faroH_1=>noun bi_1=>noun Huduwd_1=>noun wa_1=>noun Hub~_1=>noun >akobar_1=>adj madaY_1=>noun san~ay_1=>verb
+jah~az_1=>verb Al_1=>noun >an_1=>conj_sub ta_1=>verb yad_1=>noun li_1=>noun fa_1=>noun {ibotisAm_1=>noun taqar~ub_1=>noun qalob_1=>noun saEAd_1=>noun
+>asoEad_1=>noun >um~_1=>noun bi_1=>noun tu_1=>verb bi_1=>noun tu_1=>verb Al_1=>noun mawojuwd_1=>noun bakor_1=>noun mawojuwd_1=>noun Al_1=>noun la_1=>prep bi_1=>noun wa_1=>noun wa_1=>prep Al_1=>noun ki*ob_1=>noun Al_1=>noun bi_1=>noun bidAy_1=>noun
+yA_1=>part_voc bAg_1=>noun Al_1=>noun >aqobal_1=>verb faraH_1=>noun kisow_1=>noun Al_1=>noun sab~_1=>noun li_1=>noun yatiym_1=>noun >aw_1=>conj muHotAj_1=>noun
+>a_1=>verb li_1=>prep Al_1=>noun li_1=>noun Al_1=>noun Al_1=>adj lu*~_1=>noun >a_1=>verb {iEotabar_1=>verb qul_1=>verb li_1=>prep <ihAn_1=>noun mivol_1=>noun
+>u_1=>verb Al_1=>noun bi_1=>adj kalim_1=>noun >u_1=>verb >usoluwb_1=>noun Al_1=>noun
+nAs_1=>noun kad~_1=>noun mujar~ad_1=>noun daqiyq_1=>noun bi_1=>noun bi_1=>noun wa_1=>noun faroHAn_1=>adj Hat~aY_1=>prep qul_1=>verb wa_1=>verb <il`h_1=>noun yu_1=>verb
+wa_1=>verb >an~a_1=>conj_sub yA_1=>part_voc Hub~_1=>noun la_1=>prep yA_1=>part_voc >ahol_1=>noun Al_1=>noun_prop
+>u_1=>verb ya_1=>verb tajArib_1=>noun li>an~a_1=>conj_sub yu_1=>verb Al_1=>adj EalaY_1=>prep mi$~_1=>noun ya_1=>verb wa_1=>verb la_1=>prep >aborAr_1=>noun
+Eiyd_1=>noun miylAd_1=>noun_prop saEiyd_1=>noun_prop li_1=>noun Al_1=>noun qamar_1=>noun TAriq_1=>noun_prop Al_1=>noun_prop mutAbiE_1=>noun li_1=>noun >aEomAl_1=>noun Al_1=>adj
+mi$~_1=>noun >anota_1=>pron bu&obu&_1=>noun Eayon_1=>noun
+ya_1=>verb kavur_1=>verb $uEuwr_1=>noun Al_1=>noun ya_1=>verb
+xal~aY_1=>verb HayA_1=>noun >agolab_1=>noun DaHik_1=>verb faraH_1=>noun_prop saEAd_1=>noun {ihotam~_1=>verb bi_1=>noun wa_1=>noun bi_1=>noun mizAj_1=>noun Eayo$_1=>noun li_1=>noun wa_1=>noun
+>an~a_1=>conj_sub ta_1=>verb Had~_1=>noun Eaziyz_1=>noun_prop >awaY_1=>verb mabosuwT_1=>noun kafiyl_1=>adj yu_1=>verb Al_1=>noun
+yA_1=>part_voc Hulow_1=>noun Al_1=>noun fiy_1=>prep Eiyd_1=>noun ta>ay~um_1=>noun
+yA_1=>part_voc Sidoq_1=>noun ya_1=>verb Al_1=>noun rubaY_1=>noun Hub~_1=>noun bil~iy_1=>noun sab~_1=>noun rubaY_1=>noun bal~An_1=>noun sAr~_1=>adj nASir_1=>noun_prop Hub~_1=>noun qaTar_1=>noun_prop Al_1=>noun Al_1=>noun_prop Al_1=>noun_prop Al_1=>noun Eam~An_1=>noun_prop saEAd_1=>noun lAyok_1=>noun_prop
+vaqAf_1=>noun majAriy_1=>noun wa_1=>noun SiH~iy~_1=>adj $uw_1=>noun_prop tu_1=>verb min_1=>prep ya_1=>verb >aroD_1=>noun jid~_1=>noun saw~_1=>verb ma$Akil_1=>noun
+23_1=>digit bi_1=>noun DaHok_1=>noun wa_1=>noun wa_1=>noun Easal_1=>noun wa_1=>noun xafiyf_1=>adj mabosuwT_1=>noun Earaf_1=>verb wa_1=>noun wa_1=>noun ya_1=>verb wa_1=>noun
+SabAH_1=>noun saEAd_1=>noun wa_1=>noun wa_1=>noun_prop wa_1=>noun <il`h_1=>noun
+maEohad_1=>noun Al_1=>noun $ukor_1=>noun taEib_1=>verb >amosak_1=>verb bi_1=>prep quw~_1=>noun jizA_1=>noun xayor_1=>noun EalaY_1=>prep taqad~um_1=>noun kutub_1=>noun bi_1=>noun >amal_1=>noun muHam~ad_1=>noun_prop
+Al_1=>noun EaSabiy~_1=>noun mizAjiy~_1=>adj Eaniyd_1=>adj $uw_1=>noun_prop faroHAn_1=>adj bi_1=>noun
+wa_1=>verb Al_1=>noun >ayo_1=>conj wa_1=>pron bi_1=>noun wa_1=>pron_interrog Al_1=>noun suw_1=>noun_prop Euyuwb_1=>noun saw~a>_1=>verb HiDon_1=>noun fiy_1=>prep waqot_1=>noun Al_1=>noun
+tamodiyd_1=>noun Al_1=>noun li_1=>verb bidAy_1=>noun Al_1=>noun Al_1=>noun 15_1=>digit 1_1=>digit Al_1=>noun Al_1=>noun
+yA_1=>part_voc franojiyh_1=>noun_prop miyan_1=>noun <id~_1=>noun >unAs_1=>noun ta_1=>verb bi_1=>noun juborAn_1=>noun_prop mi$~_1=>noun muHoriz_1=>adj wuq~_1=>noun Euros_1=>noun Al_1=>noun
+ramaDAn_1=>noun_prop kariym_1=>noun_prop ya_1=>verb $ahor_1=>noun Al_1=>noun bi_1=>noun ta_1=>verb ya_1=>verb min_1=>prep guforAn_1=>noun >anozal_1=>verb Ealay_1=>prep raHom_1=>noun min_1=>prep na_1=>verb na_1=>verb ya_1=>verb na_1=>verb min_1=>prep riDowAn_1=>noun_prop li_1=>noun
+dAm_1=>verb bidAy_1=>noun DaHok_1=>noun ya_1=>verb Hub~_1=>noun kuwE_1=>noun
+HAwal_1=>verb >an~a_1=>conj_sub li_1=>noun HawAlay_1=>prep DaHok_1=>noun faroH_1=>noun maloja>_1=>noun daEow_1=>noun wa_1=>noun Al_1=>noun la_1=>noun bi_1=>noun Al_1=>noun wa_1=>verb >a_1=>verb
+tu_1=>verb wa_1=>verb rab~_1=>noun yu_1=>verb yA_1=>part_voc Eumor_1=>noun
+bAqiy_1=>noun sAE_1=>noun wa_1=>verb
+muHAdav_1=>noun basiyT_1=>noun bi_1=>noun HiDon_1=>noun wa_1=>noun kalAm_1=>noun ya_1=>verb Al_1=>noun Al_1=>noun Al_1=>noun wa_1=>noun bi_1=>noun
+$ayo'_1=>noun >ajomal_1=>noun <i$orAq_1=>noun hAdi}_1=>adj ya_1=>verb la_1=>prep ya_1=>verb Al_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun Al_1=>noun Al_1=>noun
+dawAm_1=>noun
+wa_1=>noun ya_1=>verb Al_1=>noun bi_1=>noun >aSam~_1=>adj tamAm_1=>noun ta_1=>verb majAl_1=>noun Al_1=>adj li_1=>noun DaHak_1=>noun Al_1=>adj Hat~aY_1=>prep >anota_1=>pron ya_1=>verb fa_1=>noun
+wa_1=>pron bi_1=>noun wa_1=>noun sAbiq_1=>adj {isom_1=>noun saEiyd_1=>adj wa_1=>prep >aqosam_1=>verb bAl_1=>noun xusorAn_1=>noun
+>aw~aliy~_1=>adj >an_1=>conj_sub ya_1=>verb Eiyd_1=>noun jadiyd_1=>adj fa_1=>part_neg zAl_1=>verb >amal_1=>noun
+bahij_1=>verb Al_1=>adj mivAl_1=>noun Al_1=>noun kalAm_1=>noun dAhiy_1=>noun wa_1=>conj sumiE_1=>verb kalAm_1=>noun dAhiy_1=>noun riyH_1=>noun Al_1=>noun
+Al_1=>noun Al_1=>noun_prop Hulow_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun Al_1=>noun Sal~aY_1=>verb wa_1=>verb wa_1=>noun EalaY_1=>prep say~id_1=>noun_prop muHam~ad_1=>noun_prop
+Al_1=>noun jid~_1=>noun fiy_1=>prep ruwH_1=>noun Al_1=>noun wa_1=>noun ta_1=>verb DuEafA'_1=>noun >amAm_1=>noun Zuruwf_1=>noun Al_1=>noun EilowAn_1=>noun Al_1=>noun Al_1=>noun
+EAyiz_1=>noun >a_1=>verb li_1=>noun {ikota$af_1=>verb >aZoraf_1=>noun musalosal_1=>noun kuwmiydiy~_1=>adj ramaDAn_1=>noun_prop Al_1=>noun Al_1=>adj DaHik_1=>verb musotamir~_1=>adj
+wa_1=>pron bi_1=>noun wa_1=>noun saEiyd_1=>noun_prop wa_1=>noun_prop maliy}_1=>noun bi_1=>noun wa_1=>noun $A'_1=>verb <il`h_1=>noun
+>a_1=>verb Al_1=>noun yu_1=>verb diyam_1=>noun Al_1=>noun Eu$~_1=>noun >a_1=>verb saEiyd_1=>adj >u_1=>verb Al_1=>noun 3_1=>digit
+fiy_1=>prep nAs_1=>noun DaHik_1=>verb nafos_1=>noun >u_1=>verb jamAl_1=>noun masA_1=>verb saEAd_1=>noun
+Al_1=>noun la_1=>prep Al_1=>noun riDA_1=>noun_prop <il`h_1=>noun saEAd_1=>noun dA}im_1=>adj Al_1=>adj Al_1=>noun_prop Al_1=>noun_prop
+na_1=>verb taHiy~_1=>noun li_1=>noun Al_1=>noun_prop wa_1=>noun >u_1=>verb
+wajoh_1=>noun ya_1=>verb maEonaY_1=>noun Al_1=>noun yu_1=>verb <in_1=>conj_sub Al_1=>noun bi_1=>noun DaHok_1=>noun vagor_1=>noun
+bi_1=>noun Al_1=>noun {iHotafal_1=>verb bi_1=>noun Al_1=>noun >aTofAl_1=>noun Al_1=>noun faroE_1=>noun jirom_1=>noun wa_1=>noun rawoD_1=>noun malik_1=>noun Al_1=>noun rAbiT_1=>noun Al_1=>noun Al_1=>adj fiTor_1=>noun_prop saEiyd_1=>noun_prop
+bahoj_1=>noun >amal_1=>noun 18_1=>digit kam~iy~_1=>noun Al_1=>noun qAEid_1=>noun >aDoHak_1=>noun TabiyEiy~_1=>adj faTas_1=>verb li_1=>noun wajohiy~_1=>adj
+Al_1=>noun li_1=>noun <ilaY_1=>prep TalaE_1=>verb Eayon_1=>noun fiEol_1=>noun Al_1=>noun li_1=>noun Eu$~_1=>noun TalaE_1=>verb Hulow_1=>noun bi_1=>noun Al_1=>noun li_1=>noun Al_1=>noun_prop <ilaY_1=>prep xal_1=>verb mubohij_1=>noun wa_1=>noun mabosuwT_1=>noun >awaY_1=>verb
+rAH_1=>noun Al_1=>noun bi_1=>noun $axoS_1=>noun
+kam~iy~_1=>noun <iHosAs_1=>noun wa_1=>noun ziy~_1=>noun Al_1=>noun tu_1=>verb fal~_1=>noun
+$axoS_1=>noun kalim_1=>noun Hub~_1=>noun qaliyl_1=>adj wa_1=>noun Tay~ib_1=>adj kamAn_1=>noun qaliyl_1=>adj faroH_1=>noun ramaDAn_1=>noun_prop faroH_1=>noun Al_1=>noun tarak_1=>verb Ealay_1=>prep
+mawoEid_1=>noun zifAf_1=>noun ya_1=>verb siwaY_1=>noun Al_1=>adj rubaY_1=>noun nuwr_1=>noun_prop wa_1=>verb Al_1=>noun mulAzim_1=>noun HayA_1=>noun
+kad~_1=>noun Hal~_1=>verb EuloyA_1=>adj Al_1=>noun wa_1=>noun yA_1=>part_voc >asomA'_1=>noun
+>an~_1=>conj_sub saEiyd_1=>noun_prop bi_1=>pron_rel >asofar_1=>verb dirAs_1=>noun taTobiyq_1=>noun muhim~_1=>adj Al_1=>noun >asoham_1=>verb <inoqA*_1=>noun kabiyr_1=>adj Al_1=>noun Al_1=>noun jA}iz_1=>noun Al_1=>noun fayoSal_1=>noun_prop Al_1=>adj
+jamAl_1=>noun_prop >a_1=>verb >adoxal_1=>verb |biy_1=>noun wa_1=>verb bAl_1=>noun >abiyh_1=>noun_prop ya_1=>verb Al_1=>noun murotAH_1=>adj
+<il`h_1=>noun qalob_1=>noun faraH_1=>noun_prop wa_1=>part_neg ya_1=>verb Al_1=>noun li_1=>noun Al_1=>noun Tariyq_1=>noun <il`h_1=>noun tasAqaT_1=>verb dumuwE_1=>noun DaHok_1=>noun ya_1=>verb
+SabAH_1=>noun wa_1=>noun saEiyd_1=>noun_prop yA_1=>part_voc malik_1=>noun Al_1=>noun
+midoraY_1=>noun bi_1=>noun li>an~a_1=>conj_sub
+wajoh_1=>noun liyA_1=>noun_prop $af_1=>noun Al_1=>noun kafaY_1=>verb yA_1=>part_voc say~id_1=>noun_prop
+mi$~_1=>noun fukAh_1=>noun naqod_1=>noun siyAsiy~_1=>adj manozil_1=>noun >a_1=>verb Al_1=>noun
+Al_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun Al_1=>noun
+bi_1=>noun wa_1=>noun wa_1=>verb wa_1=>noun Al_1=>noun wa_1=>noun mataY_1=>adv_rel >anAm_1=>noun ya_1=>verb
+nasiy_1=>verb nafos_1=>noun mi$~_1=>noun lAqaY_1=>verb kalob_1=>noun >asokat_1=>verb Al_1=>noun 12_1=>digit wa_1=>noun yA_1=>part_voc biyb_1=>noun tawoqiyt_1=>noun miSor_1=>noun_prop EAdiy~_1=>adj
+Al_1=>noun_prop wa_1=>prep Al_1=>noun bAdiy_1=>noun {ibotasam_1=>verb wa_1=>noun mubotahij_1=>noun wa_1=>noun >aHosan_1=>noun Al_1=>adj >ajomal_1=>noun >afoDal_1=>adj wa_1=>noun li_1=>abbrev >aw~al_1=>adj wa_1=>noun
+maEonaY_1=>noun majiyd_1=>noun_prop yu_1=>verb suruwr_1=>noun_prop saEod_1=>noun_prop yu_1=>verb $aw~ar_1=>verb bayot_1=>noun 7_1=>digit
+$uEuwr_1=>noun Hulow_1=>noun kaviyr_1=>noun
+{ixotar_1=>verb Al_1=>noun $A'_1=>verb <il`h_1=>noun taxay~ab_1=>verb masAEiy_1=>noun Al_1=>noun SalAH_1=>noun_prop wa_1=>noun wa_1=>noun Al_1=>noun_prop EalaY_1=>prep Al_1=>noun wa_1=>noun fa_1=>noun mu$otarak_1=>adj EazA'_1=>noun li_1=>pron_rel taxal~af_1=>verb
+Al_1=>noun yu_1=>verb Al_1=>noun tawaS~al_1=>verb liyn_1=>noun qalob_1=>noun
+Al_1=>noun tu_1=>verb Al_1=>noun $ag~Al_1=>adj Tuwl_1=>noun Al_1=>noun >a_1=>verb >anod_1=>noun_prop tafojiyr_1=>noun
+bahoj_1=>noun >amal_1=>noun 8_1=>digit >ajomal_1=>noun HAj_1=>noun Al_1=>noun ma>oma>_1=>verb ta$aw~af_1=>verb muDAyaq_1=>noun $ay~_1=>noun ta_1=>verb >amal_1=>noun Ealim_1=>verb >a_1=>verb mawoqif_1=>noun kuway~is_1=>noun >a_1=>verb >aDoHak_1=>noun
+>a_1=>verb Al_1=>noun $awaY_1=>noun xuSuwS_1=>noun <in_1=>conj_sub kul~_1=>noun TalaE_1=>verb bi_1=>noun >u_1=>verb ka_1=>noun >a_1=>verb EalaY_1=>prep $ayo'_1=>noun jamiyl_1=>noun_prop >u_1=>verb laHoZ_1=>noun Hayawiy~_1=>adj mufoEam_1=>adj bi_1=>noun $awaY_1=>noun
+Al_1=>noun kul~_1=>noun Al_1=>noun $awaY_1=>noun $awaY_1=>noun ya_1=>verb buwfuwn_1=>noun_prop madoriyd_1=>noun_prop
+jawA_1=>noun TAq_1=>noun kabiyr_1=>adj wa_1=>noun kabiyr_1=>adj $uw_1=>noun_prop >aEomal_1=>verb >aforag_1=>verb Al_1=>noun
+Al_1=>noun bahoj_1=>noun faraH_1=>noun_prop masojid_1=>noun Al_1=>noun san_1=>noun wa_1=>noun kul~_1=>noun bi_1=>noun
+$Akir_1=>adj mAdum_1=>verb bi_1=>conj_sub Al_1=>noun >ay~Am_1=>noun dA}im_1=>adj Al_1=>noun ta_1=>verb dA}im_1=>adj suruwr_1=>noun_prop Al_1=>noun la_1=>noun rAD_1=>noun bi_1=>noun bi_1=>noun
+Euros_1=>noun EuloyA_1=>adj jabal_1=>noun zawAj_1=>noun Al_1=>noun $uw_1=>noun_prop badow_1=>noun_prop yu_1=>verb la_1=>verb
+Al_1=>noun Damiyr_1=>noun Al_1=>noun >asofal_1=>noun
+wa_1=>noun Hin_1=>verb $aEob_1=>noun EaZiym_1=>adj xif~_1=>noun Al_1=>noun mawojuwd_1=>noun bi_1=>noun >aforAd_1=>noun Al_1=>noun Hat~aY_1=>prep Al_1=>noun
+tu_1=>verb Al_1=>noun sa_1=>verb mutoE_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun wa_1=>noun <iloqA'_1=>noun hadaf_1=>noun >aw_1=>conj ta_1=>verb >aw_1=>conj sa_1=>verb ka_1=>noun laEib_1=>verb <ilaY_1=>prep
+>an~_1=>noun kanoz_1=>noun ya_1=>verb Al_1=>noun
+>a_1=>abbrev la_1=>noun <i_1=>abbrev n_1=>abbrev ta_1=>verb wa_1=>noun EazA'_1=>noun
+dAyim_1=>noun_prop miEA_1=>noun ma$oguwl_1=>adj gayoriy~_1=>adj fADiy_1=>adj nu_1=>verb nafos_1=>noun nuH_1=>verb bi_1=>noun la_1=>prep Hub~_1=>noun tasoliy_1=>noun xal~_1=>noun SariyH_1=>adj wa_1=>noun bi_1=>noun miEA_1=>noun wa_1=>noun wAHid_1=>noun ya_1=>verb bi_1=>noun
+Hikom_1=>noun bi_1=>noun Al_1=>adj Al_1=>noun ta_1=>verb ya_1=>verb >alof_1=>noun Hal~_1=>noun >am~A_1=>part_focus Al_1=>adj ya_1=>verb la_1=>prep naSaH_1=>verb Al_1=>noun HimAr_1=>noun
+tu_1=>verb saEAd_1=>noun dA}im_1=>adj Al_1=>noun wa_1=>verb bAqiy_1=>noun kul~_1=>noun fawASil_1=>noun li_1=>noun jadiyd_1=>adj fa_1=>verb la_1=>noun wa_1=>noun >a_1=>verb wa_1=>verb Al_1=>noun EalaY_1=>prep $ayo'_1=>noun li_1=>noun saEAd_1=>noun
+bi_1=>noun bador_1=>noun wa_1=>verb li_1=>adv ta>an~iy_1=>noun wid~_1=>noun qim~_1=>noun >a_1=>verb wa_1=>noun kad~_1=>noun baEoD_1=>adj Zariyf_1=>noun_prop
+17_1=>digit ramaDAn_1=>noun_prop yA_1=>part_voc <il`h_1=>noun daho$_1=>noun jamiyl_1=>noun faroH_1=>noun bilA_1=>prep {inotiZAr_1=>noun rAH_1=>noun bAl_1=>noun na_1=>verb na_1=>verb
+>u_1=>verb la_1=>prep >an~_1=>conj_sub samiE_1=>verb {isom_1=>noun {ibotasam_1=>verb wa_1=>verb wa_1=>noun
+bi_1=>noun qamar_1=>noun huduw'_1=>noun >arowaE_1=>noun Al_1=>noun <il`h_1=>noun >u_1=>verb rab~_1=>noun rubaY_1=>noun qalob_1=>noun siwA_1=>noun Al_1=>noun bi_1=>noun wa_1=>noun Al_1=>noun <ilaY_1=>prep wajoh_1=>noun
+Eiyd_1=>noun saEiyd_1=>noun_prop yA_1=>part_voc >ajomal_1=>noun >aEoyAd_1=>noun
+lAHaZ_1=>verb Al_1=>noun Al_1=>noun qul_1=>verb >akiyd_1=>noun ma$oguwl_1=>adj
+$Akas_1=>verb wa_1=>noun ruwH_1=>noun Al_1=>noun wa_1=>noun mAziH_1=>noun wa_1=>verb Ean_1=>prep wa_1=>noun wa_1=>verb fa_1=>noun yu_1=>verb bAsim_1=>noun ta_1=>verb Al_1=>noun wa_1=>verb Al_1=>noun Al_1=>noun
+Eiydiy~_1=>noun ragad_1=>noun muHam~ad_1=>noun_prop 3_1=>digit ragad_1=>noun >abiy_1=>noun_prop >a_1=>verb <il`h_1=>noun yu_1=>verb dunoyA_1=>noun wa_1=>noun <il`h_1=>noun yu_1=>verb fa_1=>adj >a_1=>verb >a_1=>verb bi_1=>noun layozir_1=>noun jisom_1=>noun kAmil_1=>adj
+saEiyd_1=>adj ya_1=>verb >ay~Am_1=>noun Hulow_1=>noun mivol_1=>noun
+{inokatab_1=>verb fa_1=>noun Al_1=>noun EitAb_1=>noun Haniyn_1=>noun $awoq_1=>noun li_1=>noun mA_1=>noun faraH_1=>noun_prop fa_1=>noun Al_1=>noun sin_1=>noun
+ya_1=>verb Ealay_1=>prep faraH_1=>noun_prop ba*al_1=>verb jahod_1=>noun nafos_1=>noun Sad~aq_1=>verb ya_1=>verb saEAd_1=>noun wa_1=>noun Eiyd_1=>noun wa_1=>pron_dem HayA_1=>noun
+$ukor_1=>noun la_1=>prep EalaY_1=>prep Al_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun saEiyd_1=>adj naSiyb_1=>noun Al_1=>noun muHam~ad_1=>noun_prop >usoluwb_1=>noun Al_1=>adj li_1=>noun li_1=>noun tajAwaz_1=>verb
+rAfiE_1=>noun >aEolam_1=>verb layol_1=>noun {inotiSAr_1=>noun warA_1=>noun yA_1=>part_voc miSoriy~_1=>adj Al_1=>noun wa_1=>adj muwlaE_1=>noun nAr_1=>noun ya_1=>verb Al_1=>noun rajoE_1=>noun manoSuwr_1=>noun
+buwfuwn_1=>noun_prop tu_1=>verb Al_1=>noun zumalA}_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun wa_1=>pron suEadA'_1=>adj la_1=>prep wa_1=>verb saEiyd_1=>adj maEa_1=>prep >aEoZam_1=>noun Al_1=>noun
+Al_1=>noun Al_1=>noun wa_1=>noun Al_1=>adj
+sa_1=>verb Earuws_1=>noun fusotAn_1=>noun Al_1=>noun wa_1=>verb zifAf_1=>noun >ajomal_1=>noun HikAy_1=>noun ya_1=>verb faroH_1=>noun wa_1=>verb qalob_1=>noun Al_1=>noun
+Einod_1=>noun waqot_1=>noun $Agil_1=>adj bAl_1=>noun bi_1=>noun yu_1=>verb >u_1=>verb >a_1=>verb bi_1=>noun >unos_1=>noun kalAmiy~_1=>adj maEa_1=>prep sAr_1=>verb tAfih_1=>noun bi_1=>noun_quant
+la_1=>prep Al_1=>noun Al_1=>noun mutaxar~ij_1=>noun wa_1=>adj $uEuwr_1=>noun jamiyl_1=>noun_prop yu_1=>verb Al_1=>noun faroH_1=>noun bi_1=>noun
+<il`h_1=>noun yu_1=>verb xayor_1=>noun wa_1=>adj wa_1=>noun rab~_1=>noun ya_1=>verb bi_1=>noun bi_1=>noun libon_1=>noun yu_1=>verb Suduwr_1=>noun
+$akol_1=>noun Eiyd_1=>noun 3_1=>digit >aEoyAd_1=>noun $A'_1=>verb <il`h_1=>noun faroH_1=>noun Eiyd_1=>noun <il`h_1=>noun Eiyd_1=>noun tawal~iy_1=>noun tamiym_1=>noun_prop Al_1=>noun Eiyd_1=>noun Al_1=>noun_prop bi_1=>noun >aHad_1=>noun
+{ibotasam_1=>verb
+nasam_1=>noun Al_1=>noun Al_1=>noun >a_1=>verb <il`h_1=>noun >an~a_1=>conj_sub ya_1=>verb faroH_1=>noun Huzon_1=>noun wa_1=>noun HAj_1=>noun wa_1=>conj_sub ya_1=>verb >amAniy_1=>noun >asoEad_1=>noun <il`h_1=>noun SubAH_1=>noun bi_1=>noun xayor_1=>noun
+kun_1=>verb >a_1=>verb magoruwr_1=>adj Earaf_1=>verb zayon_1=>noun_prop wa_1=>verb maEos_1=>noun TaloE_1=>noun Tuyuwb_1=>noun wa_1=>verb Al_1=>noun wAh_1=>noun >u_1=>verb Al_1=>noun kawoniy~_1=>adj saEiyd_1=>adj >u_1=>verb
+waSal_1=>verb Eiydiy~_1=>noun >a_1=>verb taqodiym_1=>noun Al_1=>noun li_1=>noun wa_1=>pron ya_1=>verb bi_1=>noun burA'_1=>noun wa_1=>noun saEAd_1=>noun ya_1=>verb Al_1=>noun
+Eu$~Aq_1=>noun kur_1=>noun Al_1=>noun EalaY_1=>prep mawoEid_1=>noun maloHam_1=>noun kurawiy~_1=>noun qaliyl_1=>adj madoriyd_1=>noun_prop wa_1=>noun Al_1=>adj bAyiron_1=>noun_prop mu$Ahad_1=>noun mutoE_1=>noun
+$uEuwr_1=>noun Al_1=>noun
+Al_1=>noun >aHofaZ_1=>verb suwriyA_1=>noun_prop >ahol_1=>noun >aEad~_1=>verb Al_1=>noun Al_1=>noun li_1=>noun yA_1=>part_voc kariym_1=>noun_prop
+>anA_1=>pron rADiy_1=>adj bi_1=>noun sahar_1=>noun yu_1=>verb yA_1=>part_voc qamar_1=>noun ya_1=>verb
+ya_1=>verb zaEil_1=>noun ya_1=>verb kul~_1=>noun Hub~_1=>noun wa_1=>noun
+Eurof_1=>noun zamAn_1=>noun Tay~ib_1=>adj wa_1=>noun wa_1=>noun wa_1=>noun rab~_1=>noun yu_1=>verb wa_1=>verb
+<ilaY_1=>prep >aHad_1=>noun DaHok_1=>noun zaraE_1=>verb qalob_1=>noun namA_1=>verb makAn_1=>noun >alof_1=>noun Hub~_1=>noun la_1=>prep
+|vAm_1=>noun Eadiyd_1=>adj wa_1=>verb jabAn_1=>noun >azohAr_1=>noun Al_1=>noun
+nafosiy~_1=>adj bawoSal_1=>noun li_1=>noun Huzon_1=>noun Hub~_1=>noun saEAd_1=>noun
+bi_1=>adj Al_1=>noun_prop baq~_1=>verb TuEom_1=>noun wa_1=>prep saHar_1=>noun jadiyd_1=>adj lay~_1=>noun xif~_1=>noun dam_1=>noun li_1=>adj bi_1=>noun wa_1=>noun |b_1=>verb >uxot_1=>noun Al_1=>adj Al_1=>noun hadiy~_1=>noun
+rub_1=>verb ya_1=>verb kalAm_1=>noun xafiyf_1=>adj la*iy*_1=>adj Zariyf_1=>noun_prop laTiyf_1=>noun_prop Al_1=>noun na_1=>verb
+Eay~ad_1=>verb mubArak_1=>noun_prop >aholiy~_1=>noun_prop $axoS_1=>noun laTiyf_1=>noun_prop mar~_1=>noun bi_1=>noun wa_1=>verb bi_1=>noun wa_1=>noun ta_1=>verb wa_1=>noun Al_1=>noun yu_1=>verb Huzon_1=>noun
+>anA_1=>pron mut~afaq_1=>adj Sagiyr_1=>noun wa_1=>noun miEA_1=>noun mugAmar_1=>noun Talab_1=>noun wAqiEiy~_1=>adj wa_1=>noun Al_1=>noun wa_1=>noun waqot_1=>noun
+<il`h_1=>noun bi_1=>noun yu_1=>verb lijan_1=>noun mAhuwa_1=>pron_rel bi_1=>noun yu_1=>verb la_1=>noun huduw'_1=>noun
+bahoj_1=>noun >amal_1=>noun 76_1=>digit xul~aS_1=>noun mu*Akar_1=>noun Al_1=>noun rab~_1=>noun yusor_1=>noun yu_1=>verb Al_1=>noun ya_1=>verb ya_1=>verb ziy~_1=>noun mukaE~ab_1=>noun Al_1=>noun Al_1=>adj
+ya_1=>verb xu*_1=>verb baEiyd_1=>adj kasor_1=>noun Al_1=>noun Al_1=>noun humuwm_1=>noun EAbir_1=>adj wa_1=>prep $ay~_1=>noun ya_1=>verb faroH_1=>noun
+<il`h_1=>noun ya_1=>verb >ay~Am_1=>noun wa_1=>part >ahol_1=>noun Al_1=>noun_prop faraH_1=>noun_prop wa_1=>noun_prop
+dam_1=>noun xafiyf_1=>adj makAn_1=>noun
+faroH_1=>noun najAH_1=>noun $A'_1=>verb <il`h_1=>noun maboruwk_1=>noun li_1=>noun yA_1=>part_voc ta_1=>verb taHoqiyq_1=>noun Al_1=>noun
+baEiyd_1=>adj $ayo'_1=>noun tu_1=>verb Al_1=>noun Al_1=>noun Al_1=>noun fa_1=>pron Al_1=>noun Al_1=>noun li_1=>pron_rel ya_1=>verb Al_1=>noun
+misAk_1=>noun saEAd_1=>noun maSodar_1=>noun rubaY_1=>noun yu_1=>verb
+Al_1=>noun ta_1=>verb Al_1=>noun wa_1=>noun Al_1=>noun la_1=>verb bi_1=>noun <il`h_1=>noun yu_1=>verb
+$ukor_1=>noun li_1=>noun >ax_1=>noun Al_1=>noun wa_1=>noun tafA&ul_1=>noun
+>anota_1=>pron Al_1=>noun fiy_1=>prep Al_1=>noun wa_1=>noun sAE_1=>noun Al_1=>noun
+>ay_1=>abbrev Al_1=>noun EalaY_1=>prep waHod_1=>noun ma|t_1=>noun >ay_1=>abbrev >akoram_1=>noun_prop Husoniy_1=>noun_prop Al_1=>noun xif~_1=>noun dam_1=>noun riyH_1=>noun Al_1=>noun
+mil~iy~_1=>adj taHo*iyr_1=>noun >a_1=>verb ya_1=>verb <iTolAq_1=>noun nAr_1=>noun maToraH_1=>noun bayoruwt_1=>noun_prop suwriyA_1=>noun_prop raSAS_1=>noun {ibotihAj_1=>noun bi_1=>noun jabal_1=>noun wa_1=>noun
+lay~_1=>noun Al_1=>noun >us~iy~_1=>noun lay~_1=>noun $ajan_1=>noun wa_1=>noun Hub~_1=>noun ya_1=>verb EuloyA_1=>adj Al_1=>noun faraH_1=>noun_prop >aforaH_1=>verb wa_1=>noun Al_1=>noun >amAniy_1=>noun >anota_1=>pron ta>an~iy_1=>noun
+|xaY_1=>verb faqiyd_1=>noun Eiyd_1=>noun nAqaS_1=>verb wa_1=>pron >aHoDAn_1=>noun qabor_1=>noun *Akir_1=>noun wajoh_1=>noun Al_1=>noun wa_1=>noun Sawot_1=>noun qalob_1=>noun >alam_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun raHom_1=>noun <il`h_1=>noun Eiyd_1=>noun nAqaS_1=>verb
+>u_1=>verb waSal_1=>verb wa_1=>noun >u_1=>verb riDA_1=>noun wa_1=>noun
+haf~_1=>verb ta_1=>verb <in~a_1=>verb_pseudo ta_1=>verb wa_1=>verb wa_1=>verb Al_1=>noun takal~am_1=>verb ya_1=>verb Al_1=>noun ya_1=>verb EalaY_1=>prep qalob_1=>noun ya_1=>verb Hawol_1=>noun Hub~_1=>noun wa_1=>noun
+li_1=>noun Had~_1=>noun $Af_1=>noun {ilotaway_1=>verb diy_1=>noun_prop rab~_1=>noun yu_1=>verb ya_1=>verb qalob_1=>noun Al_1=>noun ya_1=>verb bi_1=>noun ya_1=>verb qalob_1=>noun ya_1=>verb >aHolAm_1=>noun yu_1=>verb bi_1=>noun
+Hamol_1=>noun Al_1=>noun bi_1=>noun li_1=>noun_prop >ahol_1=>noun qaTar_1=>noun_prop layos_1=>verb bi_1=>noun wa_1=>conj {iHotAj_1=>verb la_1=>verb >amowAl_1=>noun EazA'_1=>noun li_1=>adj Al_1=>noun_prop xArij_1=>noun
+Al_1=>noun layos_1=>verb Hulom_1=>noun wa_1=>pron bi_1=>noun muHAl_1=>adj hiya_1=>pron tafA&ul_1=>noun Hasan_1=>noun wa_1=>noun bi_1=>noun {isotiEojAl_1=>noun Al_1=>noun
+mAhuwa_1=>pron_rel >amAn_1=>noun ya_1=>verb $uEuwr_1=>noun Hulow_1=>noun
+bArak_1=>noun_prop <il`h_1=>noun fiy_1=>prep >ax_1=>noun Eumor_1=>noun >aboraz_1=>adj $axoS_1=>noun mak~an_1=>verb ya_1=>verb >ay~_1=>noun_quant mawoDuwE_1=>noun bi_1=>noun qaliyl_1=>adj Al_1=>noun {isotamar~_1=>verb
+>aholiy~_1=>noun_prop >aSoHAb_1=>noun $axoS_1=>noun laTiyf_1=>noun_prop mar~_1=>noun bi_1=>noun wa_1=>verb bi_1=>noun wa_1=>noun ta_1=>verb wa_1=>noun Al_1=>noun yu_1=>verb Huzon_1=>noun Eiyd_1=>noun mubArak_1=>noun_prop
+>ay_1=>abbrev Al_1=>noun EalaY_1=>prep waHod_1=>noun ma|t_1=>noun >ay_1=>abbrev >akoram_1=>noun_prop Husoniy_1=>noun_prop Al_1=>noun xif~_1=>noun dam_1=>noun riyH_1=>noun Al_1=>noun
+tu_1=>verb Eu$~_1=>noun Eaj~ab_1=>verb Al_1=>noun ta*ak~ar_1=>verb Al_1=>noun Al_1=>adj $awaY_1=>noun Haziyn_1=>noun
+yA_1=>part_voc HayA_1=>noun Eu$~_1=>noun ta_1=>verb
+bi_1=>adj Al_1=>noun yu_1=>verb wa_1=>noun faraH_1=>noun qalob_1=>noun wa_1=>noun Had~_1=>noun
+Al_1=>noun SAHiy_1=>noun Al_1=>noun Einod_1=>noun ragob_1=>noun $adiyd_1=>adj >alobas_1=>verb fusotAn_1=>noun Hulow_1=>noun nafos_1=>noun wa_1=>noun >aHoDar_1=>verb Hafol_1=>noun laTiyf_1=>noun kad~_1=>noun makAn_1=>noun laTiyf_1=>noun_prop mivol_1=>noun ya_1=>verb
+ya_1=>verb qim~_1=>noun EitAb_1=>noun DaHok_1=>noun Hat~aY_1=>prep xuTA_1=>noun DaHik_1=>verb li_1=>prep
+maboruwk_1=>noun >axawiy~_1=>noun wa_1=>noun muSoTafaY_1=>noun_prop TAq_1=>noun ta_1=>verb xayor_1=>noun yu_1=>verb li_1=>verb bi_1=>noun wa_1=>pron zalam_1=>noun maboruwk_1=>adj xuTuwb_1=>noun wa_1=>verb Al_1=>noun Al_1=>adj bi_1=>noun
+<il`h_1=>noun yu_1=>verb Al_1=>noun bilAd_1=>noun Al_1=>noun Al_1=>noun Al_1=>noun ya_1=>verb li_1=>noun ya_1=>verb bi_1=>noun Al_1=>noun >aforAH_1=>noun nahoyAn_1=>noun_prop
+bawos_1=>noun EalaY_1=>prep Al_1=>noun >aham~_1=>noun $ayo'_1=>noun ta_1=>verb
+Al_1=>noun naS~_1=>noun Al_1=>noun wa_1=>adj ragom_1=>noun >a_1=>verb $uEuwr_1=>noun Al_1=>noun fAraq_1=>verb Al_1=>noun
+saEiyd_1=>noun_prop Al_1=>noun_prop Al_1=>noun muvaq~af_1=>noun wa_1=>adj ya_1=>verb yu_1=>verb Al_1=>noun Al_1=>adj ya_1=>verb ya_1=>verb Al_1=>noun wa_1=>verb Al_1=>noun HayA_1=>noun 60_1=>digit
+*akar_1=>verb <il`h_1=>noun Tariyq_1=>noun Al_1=>noun taEAlaY_1=>verb |min_1=>noun ta_1=>verb quluwb_1=>noun bi_1=>noun <il`h_1=>noun >an_1=>conj_sub bi_1=>noun <il`h_1=>noun ta_1=>verb Al_1=>noun SabAH_1=>noun {iTomi}onAn_1=>noun
+Hub~_1=>noun ya_1=>verb EuloyA_1=>adj <ibol_1=>noun Al_1=>noun faraH_1=>noun_prop
+{iHotifAl_1=>noun Eiyd_1=>noun Al_1=>noun_prop ta_1=>verb wa_1=>noun Sador_1=>noun tAbiE_1=>adj tanad~um_1=>noun SAliH_1=>noun_prop Al_1=>noun_prop >anos_1=>verb 2_1=>digit
+tafASiyl_1=>noun li_1=>prep faraH_1=>noun_prop
+suruwr_1=>noun_prop jumohuwr_1=>noun ya_1=>verb EalaY_1=>prep Al_1=>noun tamat~uE_1=>noun bAqiy_1=>noun na_1=>verb tu_1=>verb bi_1=>noun HayA_1=>noun 86_1=>digit
+jA}iz_1=>noun muwasowas_1=>adj ta_1=>verb Al_1=>noun faz~_1=>verb
+grAm_1=>noun >a_1=>verb laHoZ_1=>noun Hulomiy~_1=>adj bi_1=>noun Hulow_1=>noun
+nafos_1=>noun mufAja>_1=>noun tu_1=>verb tAriyx_1=>noun
+miSor_1=>noun_prop fa_1=>verb Eabod_1=>noun na_1=>verb {ibotisAm_1=>noun miyz_1=>noun xif~_1=>noun ta_1=>verb Hawol_1=>noun $axoSiy~_1=>noun qawiy~_1=>adj jarA'_1=>noun SarAH_1=>noun $ajAE_1=>noun Al_1=>adj fa_1=>verb Eabod_1=>noun wAHid_1=>adj mi$~_1=>noun
+yA_1=>part_voc nasam_1=>noun $awoq_1=>noun layol_1=>noun maHab~_1=>noun yA_1=>part_voc gan~_1=>verb bi_1=>noun Hab~_1=>noun Hab~_1=>noun yA_1=>part_voc Hulom_1=>noun jamiyl_1=>noun_prop kanoz_1=>noun najom_1=>noun ta_1=>verb
+Al_1=>noun >a_1=>verb $ahor_1=>noun ramaDAn_1=>noun_prop xAtam_1=>noun wa_1=>noun la_1=>noun wa_1=>pron nu_1=>verb bak_1=>noun_prop Al_1=>noun *anob_1=>noun ya_1=>verb rizoq_1=>noun ya_1=>verb SiyAm_1=>noun
+HAfaZ_1=>verb EalaY_1=>prep jusuwr_1=>noun Al_1=>noun Hawol_1=>noun fa_1=>part_neg ta_1=>verb yawom_1=>noun >ay~_1=>noun_quant Al_1=>noun sa_1=>verb li_1=>noun Al_1=>noun wa_1=>noun fa_1=>noun EalAq_1=>noun saEAd_1=>noun EalAq_1=>noun
+rAH_1=>noun Al_1=>noun Al_1=>noun ya_1=>verb
+Haziyn_1=>noun {inotaZar_1=>verb Had~_1=>noun ya_1=>verb
+{ibotisAm_1=>noun >um~_1=>noun saEAd_1=>noun tu_1=>verb bi_1=>noun lu*~_1=>noun rubaY_1=>noun ta_1=>verb wujuwd_1=>noun HayA_1=>noun wa_1=>noun saEAd_1=>noun_prop yA_1=>part_voc >um~_1=>noun
+maTar_1=>noun_prop Eiyd_1=>noun miylAd_1=>noun fAnuws_1=>noun ramaDAn_1=>noun_prop kamAn_1=>noun bi_1=>noun kad~_1=>noun
+wulid_1=>verb HikAy_1=>noun Al_1=>noun >ajomal_1=>noun miylAd_1=>noun wa_1=>verb >ajomal_1=>noun wa_1=>noun ta_1=>verb wa_1=>noun HayA_1=>noun Hay~_1=>adj 7_1=>digit
+<il`h_1=>noun yu_1=>verb yA_1=>part_voc SAHib_1=>noun Al_1=>noun_prop wa_1=>verb darob_1=>noun kul~_1=>noun saEAd_1=>noun wa_1=>noun {isom_1=>noun sAEid_1=>noun
+katab_1=>verb jamiyl_1=>noun_prop Ei$_1=>verb la_1=>verb qalob_1=>noun yu_1=>verb saEAd_1=>noun wa_1=>noun wa_1=>noun *ikoray_1=>noun say~i}_1=>noun wa_1=>verb *ikoray_1=>noun laHaZ_1=>noun Ei$_1=>verb bi_1=>noun nu_1=>verb
+kiyluw_1=>noun 74_1=>digit na_1=>verb bi_1=>noun na_1=>verb wa_1=>verb mujar~ad_1=>noun kalAm_1=>noun nafos_1=>noun >agolab_1=>noun Hafol_1=>noun yu_1=>verb wa_1=>verb $ayo'_1=>noun ya_1=>verb dunoyA_1=>noun wa_1=>adj
+>ay~_1=>noun_quant $ayo'_1=>noun qalob_1=>noun sAmiH_1=>noun_prop wa_1=>verb wa_1=>noun wa_1=>noun Al_1=>noun fa_1=>noun laHaZ_1=>noun ta_1=>verb >an_1=>conj_sub ta_1=>verb bi_1=>noun ta_1=>verb ramaDAn_1=>noun_prop layAliy_1=>noun ramaDAn_1=>noun_prop
+SabuwH_1=>adj miylAd_1=>noun wa_1=>noun bi_1=>noun Eiyd_1=>noun kabar_1=>verb bi_1=>noun wa_1=>noun sin_1=>noun <il`h_1=>noun ya_1=>verb san~ay_1=>verb faraH_1=>noun Al_1=>noun
+saEiyd_1=>noun_prop Al_1=>noun Euros_1=>noun Al_1=>noun wa_1=>noun EalaY_1=>prep hAtar_1=>verb EalaY_1=>prep Al_1=>noun wa_1=>verb bi_1=>noun faxor_1=>noun
+fiEol_1=>noun li_1=>noun kasor_1=>noun ruwtiyn_1=>noun Al_1=>noun qaliyl_1=>adj
+>anota_1=>pron musotayoqiZ_1=>adj Al_1=>noun la_1=>prep >anA_1=>pron >ayoD_1=>adv wajad_1=>verb ya_1=>verb li_1=>prep SabAH_1=>noun saEiyd_1=>adj
+ragom_1=>noun Al_1=>noun Al_1=>adj ma$oriq_1=>noun waHiyd_1=>adj bAriq_1=>noun >amal_1=>noun Al_1=>noun Al_1=>adj ya_1=>verb wa_1=>verb dab~Ab_1=>noun bAluwn_1=>noun Al_1=>noun Al_1=>noun Al_1=>adj
+$Akir_1=>adj dum_1=>verb Hay~_1=>adj wa_1=>verb bi_1=>conj_sub Al_1=>noun >ay~Am_1=>noun ta_1=>verb dA}im_1=>adj suruwr_1=>noun_prop Al_1=>noun $Akir_1=>adj li_1=>noun rAD_1=>noun bi_1=>noun bi_1=>noun
+{ibotisAm_1=>noun bArid_1=>noun *Al_1=>noun dawA'_1=>noun $ayo'_1=>noun saxiyf_1=>adj
+malAmiH_1=>noun Hulow_1=>noun wa_1=>noun Al_1=>noun kalAm_1=>noun
+ya_1=>verb Al_1=>noun Al_1=>adj wa_1=>noun <ilaY_1=>prep yu_1=>verb Tuwl_1=>noun Al_1=>noun wa_1=>noun EAyiz_1=>noun HAj~_1=>noun ta>an~iy_1=>noun wa_1=>noun Al_1=>adj kad~_1=>noun kifAy_1=>noun wa_1=>noun EuloyA_1=>adj
+Al_1=>noun Al_1=>noun Al_1=>noun Al_1=>noun Al_1=>adj ya_1=>verb Al_1=>noun fa_1=>pron_interrog >ajol_1=>noun saEAd_1=>noun Tifol_1=>noun tabar~uE_1=>noun li_1=>noun maEoriD_1=>noun basom_1=>noun Eiyd_1=>noun 10_1=>digit
+EuSofuwr_1=>noun jyt_1=>noun_prop wa_1=>verb bi_1=>noun wa_1=>pron ma>oman_1=>noun EalaY_1=>prep nafos_1=>noun janaH_1=>verb
+>asoEad_1=>noun gayor_1=>noun 1_1=>digit >asoEad_1=>verb Al_1=>noun tu_1=>verb >asoEad_1=>verb miEA_1=>noun wa_1=>noun
+{ifotaH_1=>verb <ilofiys_1=>noun_prop >u_1=>verb Al_1=>noun faroHAn_1=>adj wa_1=>noun >u_1=>verb $ukor_1=>noun wa_1=>noun >anA_1=>pron mi$~_1=>noun EAyiz_1=>noun >a_1=>verb kad~_1=>noun ya_1=>verb $ukor_1=>noun EalaY_1=>prep
+wADiH_1=>adj <in_1=>conj_sub yawom_1=>noun saEiyd_1=>noun_prop
+<il`h_1=>noun xaloq_1=>noun Suw~_1=>noun nabor_1=>noun nus_1=>verb humuwm_1=>noun daniy~_1=>adj wa_1=>noun huduw'_1=>noun
+$axoS_1=>noun laTiyf_1=>noun_prop mar~_1=>noun bi_1=>noun wa_1=>pron bi_1=>noun wa_1=>noun ta_1=>verb wa_1=>noun Al_1=>noun yu_1=>verb Huzon_1=>noun
+SalA_1=>noun Al_1=>noun {ibotisAm_1=>noun Al_1=>adj Tumo>aniyn_1=>noun Al_1=>noun Ei$oq_1=>noun Al_1=>noun li_1=>noun ya_1=>verb naEiym_1=>noun_prop Al_1=>noun Al_1=>noun ya_1=>verb tu_1=>verb Al_1=>noun
+$ukor_1=>noun li_1=>noun basiyT_1=>noun Eam~ar_1=>verb bi_1=>noun >alof_1=>noun faroH_1=>noun
+Had~_1=>noun Al_1=>noun bi_1=>noun EArif_1=>noun_prop >a_1=>verb mak~an_1=>verb ya_1=>verb miE_1=>verb Al_1=>noun >aqowaY_1=>noun xawof_1=>noun Al_1=>noun
+<iloyAs_1=>noun_prop nafoE_1=>noun Al_1=>adj >ajomal_1=>noun bi_1=>noun <il`h_1=>noun tafA&ul_1=>noun
+bi_1=>noun Hulow_1=>noun bi_1=>noun
+lay~_1=>noun kad~_1=>noun yA_1=>part_voc Hat~aY_1=>prep fiy_1=>prep majomuwE_1=>noun li_1=>adv ya_1=>verb Al_1=>adj tu_1=>verb Al_1=>noun diy_1=>noun_prop munAfis_1=>noun Al_1=>noun ya_1=>verb mi$~_1=>noun Al_1=>noun_prop
+maqAl_1=>noun xAS~_1=>adj bidAy_1=>noun <iyjAbiy~_1=>adj li_1=>noun Al_1=>noun bAqiy_1=>noun sAd_1=>verb jaw~_1=>noun Al_1=>noun Al_1=>noun Al_1=>adj mufAwaD_1=>noun xuruwj_1=>noun briyTAniyA_1=>noun_prop Al_1=>noun
+jadiyd_1=>adj yu_1=>verb >amal_1=>noun yu_1=>verb Al_1=>noun jadiyd_1=>adj ya_1=>verb vagor_1=>noun {ibotisAm_1=>noun tafA&ul_1=>noun tu_1=>verb >aEomAq_1=>noun faraH_1=>noun_prop
+323_1=>digit xawox_1=>noun >aToyab_1=>noun wAHid_1=>noun Al_1=>noun wa_1=>noun wa_1=>noun ya_1=>verb wa_1=>noun Had~_1=>noun rab~_1=>noun yu_1=>verb yA_1=>part_voc Hub~_1=>noun ya_1=>verb
+Hur~As_1=>noun Al_1=>noun EAd_1=>noun yu_1=>verb <ilaY_1=>prep sin~_1=>noun Al_1=>noun mivAl_1=>noun Al_1=>noun buwfuwn_1=>noun_prop Eumor_1=>noun 42_1=>digit san_1=>noun wa_1=>noun muta>al~iq_1=>noun
+ya_1=>verb >an~a_1=>conj_sub tamar~aD_1=>verb taEib_1=>verb ta_1=>verb ta_1=>verb Al_1=>noun ya_1=>verb >an~a_1=>conj_sub tamal~ak_1=>verb Al_1=>noun >aqodAr_1=>noun <il`h_1=>noun wa_1=>verb $Akir_1=>adj
+fak~ar_1=>verb Al_1=>noun >an~a_1=>conj_sub
+Al_1=>noun Tifol_1=>noun Sagiyr_1=>noun bi_1=>noun wa_1=>verb yu_1=>verb Al_1=>noun
+Zariyf_1=>noun_prop ya_1=>verb muwsokuw_1=>noun_prop Al_1=>noun_prop wa_1=>noun dibluwmAsiy~_1=>adj ruwsiy~_1=>noun yu_1=>verb ziyAr_1=>noun waliyd_1=>noun_prop Al_1=>noun
+Al_1=>noun layos_1=>verb bi_1=>noun dA}im_1=>adj lA_1=>part_neg Huzon_1=>noun dA}im_1=>adj {ibotasam_1=>verb bAl_1=>noun rub~amA_1=>adv Al_1=>noun naSiyb_1=>noun
+Al_1=>noun >axa*_1=>verb qaliyl_1=>adj ya_1=>verb {iHotiyAj_1=>noun >a_1=>verb bi_1=>noun EalaY_1=>prep muHotAj_1=>noun
+Hit~_1=>noun Al_1=>noun DaHok_1=>noun wasaT_1=>noun dumuwE_1=>noun ka>an~a_1=>verb_pseudo binot_1=>noun DiloEiy~_1=>adj wa_1=>noun Ei$oq_1=>noun mi$~_1=>noun munaw~aE_1=>adj
+ya_1=>verb Al_1=>noun fatA_1=>noun muha*~ib_1=>noun Tay~ib_1=>adj jamiyl_1=>noun wa_1=>noun nAs_1=>noun <in_1=>conj_sub ya_1=>verb Al_1=>noun Hat~aY_1=>prep yu_1=>verb bi_1=>conj_sub ya_1=>verb >aHomad_1=>noun_prop xAlid_1=>noun_prop tawofiyq_1=>noun
+muta>al~iq_1=>noun wa_1=>noun_prop mAkin_1=>adj wa_1=>noun_prop >aloqA_1=>verb wa_1=>noun tawoqiyE_1=>noun fiy_1=>prep
+>a_1=>verb <il`h_1=>noun >an~a_1=>conj_sub yu_1=>verb SabAH_1=>noun bi_1=>noun mubotahij_1=>noun wa_1=>noun munofarij_1=>adj wa_1=>noun gAmir_1=>noun wa_1=>noun EAmir_1=>adj wa_1=>noun SAliH_1=>adj wa_1=>noun wa_1=>noun diyn_1=>noun wa_1=>noun mariyD_1=>noun wa_1=>noun
+Al_1=>noun layos_1=>verb Hulom_1=>noun wa_1=>pron tafA&ul_1=>noun wa_1=>noun bAl_1=>noun wa_1=>noun bi_1=>noun {isotiEojAl_1=>noun waviq_1=>verb dA}im_1=>adj bi_1=>conj_sub Al_1=>noun <ilaY_1=>prep <il`h_1=>noun ta_1=>verb fArig_1=>adj >abad_1=>noun
+maTar_1=>noun_prop bi_1=>noun Al_1=>noun faraH_1=>noun bi_1=>noun Al_1=>noun Al_1=>noun >a_1=>verb ya_1=>verb
+Al_1=>noun badan_1=>verb na_1=>verb bi_1=>noun wa_1=>noun na_1=>verb bakor_1=>noun qaDAyA_1=>noun Al_1=>noun Al_1=>noun |xar_1=>adj hamow_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun
+mAdum_1=>verb >a_1=>verb Al_1=>noun wa_1=>noun fa_1=>pron mA_1=>verb qAdir_1=>adj EalaY_1=>prep muHArab_1=>noun suw'_1=>noun Al_1=>noun bi_1=>prep
+SuboH_1=>noun <il`h_1=>noun SuboH_1=>noun >uluwf_1=>noun SuboH_1=>noun Al_1=>noun SuboH_1=>noun Al_1=>noun SuboH_1=>noun wa_1=>noun Al_1=>noun SuboH_1=>noun <i$orAq_1=>noun EasaY_1=>adv li_1=>noun mifotAH_1=>noun >arojAl_1=>noun >arojAl_1=>noun
+wa_1=>noun laHoZ_1=>noun xal~ay_1=>verb {ibotasam_1=>verb <il`h_1=>noun qalob_1=>noun Haziyn_1=>noun wa_1=>noun ya_1=>verb >asoEad_1=>noun xalaq_1=>verb
+sukuwn_1=>noun Al_1=>noun saEAd_1=>noun
+<iEolAn_1=>noun Al_1=>noun baq~_1=>noun kam~iy~_1=>noun bahoj_1=>noun TabiyEiy~_1=>adj rab~_1=>noun ya_1=>verb
+wa_1=>pron wa_1=>noun Al_1=>noun dA_1=>noun_prop dam_1=>noun xafiyf_1=>adj wa_1=>noun
+rubaY_1=>noun >a_1=>verb la_1=>prep saEAd_1=>noun dA}im_1=>adj {ibotisAm_1=>noun ta_1=>verb qalob_1=>noun ya_1=>verb >asoEad_1=>noun <il`h_1=>noun SubAH_1=>noun
+qador_1=>noun Al_1=>noun dA}im_1=>adj wa_1=>noun quw~_1=>noun yu_1=>verb Al_1=>noun wa_1=>verb li_1=>noun ta_1=>verb bi_1=>noun <il`h_1=>noun Al_1=>noun_prop >an~a_1=>conj_sub tu_1=>verb >akovar_1=>adj 360_1=>digit daraj_1=>noun
+zaHof_1=>noun DaHik_1=>verb na_1=>verb 2017_1=>digit
+yA_1=>part_voc guruwr_1=>noun lay~_1=>noun li_1=>noun $af_1=>verb tu_1=>verb suruwr_1=>noun
+ramaDAn_1=>noun_prop mi$~_1=>noun bakor_1=>noun saEiyd_1=>adj
+ya_1=>verb nuwr_1=>noun_prop qalob_1=>noun wa_1=>verb Sador_1=>noun wa_1=>noun saEAd_1=>noun >abadiy~_1=>noun
+taHal~aY_1=>verb Al_1=>noun bi_1=>adj tu_1=>verb riDaY_1=>noun wa_1=>noun
+EalaY_1=>prep Al_1=>adj wa_1=>noun Al_1=>noun na_1=>verb Al_1=>noun bi_1=>noun <il`h_1=>noun wa_1=>noun Al_1=>adj ya_1=>verb Huk~Am_1=>noun wa_1=>pron bi_1=>noun Hub~_1=>noun nu_1=>verb Al_1=>noun
+laHoZ_1=>noun wa_1=>noun tadax~ul_1=>noun <irAd_1=>noun rab~_1=>noun ta_1=>verb HAj~_1=>noun Al_1=>noun
+faraH_1=>noun qalob_1=>noun tu_1=>verb faroH_1=>noun tu_1=>verb Al_1=>noun wa_1=>verb Al_1=>noun_prop
+>usobuwE_1=>noun mutaqad~im_1=>adj wa_1=>verb faroHAn_1=>noun_prop bi_1=>noun ya_1=>verb
+Al_1=>noun bi_1=>noun laTiyf_1=>noun wa_1=>noun qanuwE_1=>adj h`ka*A_1=>conj ta_1=>verb jamAl_1=>noun_prop Al_1=>noun SabAH_1=>noun saEAd_1=>noun >a_1=>verb Huruwf_1=>noun wa_1=>noun
+Al_1=>noun >a_1=>verb suruwr_1=>noun ya_1=>verb Huzon_1=>noun saEAd_1=>noun yu_1=>verb faroH_1=>noun ta_1=>verb >abad_1=>noun
+Al_1=>noun saEAd_1=>noun >akal_1=>verb wa_1=>verb
+>aH~_1=>verb yA_1=>part_voc SalAH_1=>noun_prop Eiyd_1=>noun miylAd_1=>noun_prop {imotiHAn_1=>noun san_1=>noun Tay~ib_1=>noun_prop <in_1=>conj_sub $A'_1=>verb <il`h_1=>noun rab~_1=>noun
+<il`h_1=>noun Ealay_1=>prep la_1=>adv xafiy_1=>verb >umuwr_1=>noun bi_1=>noun >aHozAn_1=>noun >aforAH_1=>noun suboHAn_1=>noun yu_1=>verb Al_1=>noun wa_1=>verb la_1=>prep wa_1=>prep Eiyd_1=>noun saEiyd_1=>noun_prop
+>u_1=>verb >a_1=>verb tAjir_1=>noun ya_1=>verb bi_1=>noun
+Hafol_1=>noun $Ahiyn_1=>noun_prop bi_1=>noun madiyn_1=>noun naSor_1=>noun_prop $Ahiyn_1=>noun_prop sab~_1=>noun saEAd_1=>noun jumohuwr_1=>noun
+mat~an_1=>verb li_1=>noun $axoS_1=>noun Al_1=>noun garos_1=>noun fa_1=>verb >avor_1=>noun jamiyl_1=>noun_prop daEA_1=>verb li_1=>prep daEow_1=>noun SAdiq_1=>noun qalob_1=>noun li_1=>prep kalim_1=>noun Hulow_1=>noun tu_1=>verb saEAd_1=>noun wa_1=>noun
+{inotaZar_1=>verb bi_1=>adj Al_1=>noun Suwar_1=>noun bukA'_1=>noun buwfuwn_1=>noun_prop Al_1=>noun wa_1=>noun bi_1=>noun Al_1=>noun wa_1=>noun
+EArif_1=>noun_prop nafos_1=>noun HAj_1=>noun lay~_1=>noun Al_1=>noun <iHosAs_1=>noun Al_1=>noun bi_1=>noun xayAliy~_1=>adj
+EamaY_1=>noun >a_1=>verb >ay~ad_1=>verb binot_1=>noun xad~_1=>noun kul~_1=>noun ya_1=>verb fiy_1=>prep Al_1=>noun mAyokil_1=>noun_prop
+ta_1=>verb EalaY_1=>prep Al_1=>noun yu_1=>verb wa_1=>noun_prop $ay~_1=>noun Al_1=>noun ta_1=>verb Al_1=>noun Al_1=>noun ta_1=>verb Al_1=>noun ta_1=>verb wa_1=>verb
+ya_1=>verb >an~a_1=>conj_sub saEiyd_1=>adj fa_1=>verb Al_1=>noun quluwb_1=>noun Al_1=>adj SabAH_1=>noun ma$oriq_1=>noun bi_1=>noun Al_1=>noun Al_1=>noun SabAH_1=>noun >amal_1=>noun |mAl_1=>noun wa_1=>noun ya_1=>verb Al_1=>noun dAEim_1=>adj li_1=>noun
+Al_1=>noun bi_1=>noun EAliy_1=>adj yA_1=>part_voc rAbiH_1=>noun Saqor_1=>noun_prop $awaY_1=>noun wa_1=>verb Hafol_1=>noun rAbiH_1=>noun Saqor_1=>noun_prop
+Al_1=>noun saEAd_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun
+bi_1=>noun wa_1=>noun li_1=>noun muHotAj_1=>noun <ilaY_1=>prep >ajoyAl_1=>noun wa_1=>noun Al_1=>noun Al_1=>adj wa_1=>noun musotawaY_1=>noun Al_1=>adj xuSuwS_1=>noun EAlam_1=>noun Al_1=>adj
+rAD_1=>noun >a_1=>verb miEA_1=>noun ya_1=>verb $uEuwr_1=>noun Al_1=>noun <ilaY_1=>prep >u_1=>verb miEA_1=>noun
+manaw_1=>verb la_1=>prep faraH_1=>noun_prop
+Al_1=>noun la_1=>prep Al_1=>noun ya_1=>verb EalaY_1=>prep faroH_1=>noun Al_1=>noun wa_1=>noun faroH_1=>noun najAH_1=>noun
+bi_1=>noun suruwr_1=>noun_prop >abo$ar_1=>verb yu_1=>verb
+Al_1=>noun kul~_1=>noun faraH_1=>noun_prop >aloh_1=>verb fiy_1=>prep Al_1=>noun maTar_1=>noun_prop
+Tay~ib_1=>noun_prop EAdiy~_1=>adj nAs_1=>noun bi_1=>noun faraH_1=>noun xal~_1=>noun yu_1=>verb ya_1=>verb
+rAd_1=>verb Al_1=>noun_prop Al_1=>adj ta_1=>verb Al_1=>noun
+Al_1=>noun wajiyh_1=>adj riDA_1=>noun_prop wa_1=>noun daE_1=>verb rubaY_1=>noun li_1=>verb qAm_1=>verb rubaY_1=>noun >amAniy_1=>noun wa_1=>noun HAj~_1=>noun ta_1=>verb Al_1=>noun ta_1=>verb >aforAH_1=>noun
+Hikom_1=>noun ta_1=>verb Al_1=>noun Al_1=>noun
+sAE_1=>noun wa_1=>verb miylAd_1=>noun miylAd_1=>noun faroH_1=>noun Eumor_1=>noun tAriyx_1=>noun wa_1=>verb miylAd_1=>noun_prop ray~_1=>noun Al_1=>noun_prop
+jawor_1=>noun $uw_1=>noun_prop bi_1=>noun
+$ukor_1=>noun EalaY_1=>prep Al_1=>noun Al_1=>noun had~_1=>noun
+wafor_1=>noun $uway~_1=>noun Al_1=>noun diy_1=>noun_prop Einoda_1=>noun TaloE_1=>noun kamAn_1=>noun 12_1=>digit faraH_1=>noun >akobar_1=>adj
+yA_1=>part_voc xAliq_1=>noun Al_1=>noun >asoEad_1=>noun qalob_1=>noun wa_1=>noun ya_1=>verb ya_1=>verb masA}_1=>noun
+DagoT_1=>noun $anoT_1=>noun Al_1=>noun Eu$~_1=>noun naS~_1=>noun Al_1=>noun >ajomal_1=>noun Al_1=>noun
+>aforaH_1=>verb wa_1=>adj Al_1=>noun dA_1=>noun_prop EAd_1=>noun bi_1=>noun tu_1=>verb Ealay_1=>prep Al_1=>noun saEAd_1=>noun wa_1=>prep biyh_1=>noun_prop
+baSiyr_1=>noun ta_1=>verb bi_1=>noun >ahol_1=>noun tawak~ul_1=>noun muluwxiy~_1=>noun Had~_1=>noun Al_1=>noun bilA_1=>prep jAmiE_1=>noun bilA_1=>prep
+DaHik_1=>verb miqolad_1=>noun >aSowAt_1=>noun Al_1=>noun Al_1=>adj
+{isotawodaE_1=>verb rab~_1=>noun >aEaz~_1=>noun nafos_1=>noun Al_1=>noun >aHofaZ_1=>verb wa_1=>verb Eumor_1=>noun Eumor_1=>noun mala&_1=>noun Al_1=>noun wa_1=>noun Al_1=>noun bi_1=>adj Eat~am_1=>verb
+<iEolAn_1=>noun musota$ofaY_1=>noun 5050_1=>digit Eaboqariy~_1=>adj bahoj_1=>noun
+daE~_1=>verb {ibotisAm_1=>noun >aw~al_1=>adj malAmiH_1=>noun fa_1=>pron la_1=>prep SiH~_1=>noun Al_1=>noun Sadaq_1=>noun Al_1=>noun saEAd_1=>noun wa_1=>pron_rel Hawol_1=>noun >avar_1=>noun jamiyl_1=>noun
+maroHab_1=>adv Al_1=>noun mutawaf~ir_1=>adj Al_1=>noun mak~an_1=>verb ta_1=>verb bi_1=>noun Al_1=>noun Tariyq_1=>noun mu$Arak_1=>noun bi_1=>noun Al_1=>adj
+jab~_1=>verb 2630_1=>digit faroHAn_1=>noun_prop fa_1=>verb
+wa_1=>noun <il`h_1=>noun tu_1=>verb tawaq~uf_1=>noun EalaY_1=>prep >ajor_1=>noun wa_1=>verb rAgib_1=>noun_prop wa_1=>verb wa_1=>verb >ahol_1=>noun kamAn_1=>noun
+wa_1=>noun wa_1=>verb la_1=>prep Sawot_1=>noun dunoyA_1=>noun <il`h_1=>noun yu_1=>verb Al_1=>noun EaTA_1=>noun furaS_1=>noun {iHotifAl_1=>noun bi_1=>noun
+taraq~ub_1=>noun Al_1=>noun wa_1=>noun
+ta_1=>verb wa_1=>verb {ibotihAj_1=>noun TabiyEiy~_1=>adj waz~aE_1=>verb Ealay_1=>prep
+Al_1=>noun >a_1=>verb >a$oxAS_1=>noun Had~_1=>noun faroH_1=>noun wa_1=>noun saEAd_1=>noun Al_1=>noun EAlam_1=>noun
+yA_1=>part_voc na_1=>verb bAl_1=>noun naHob_1=>noun na_1=>verb bAliy_1=>noun Ean_1=>prep sam~A_1=>verb
+<ilaY_1=>prep Al_1=>noun >a_1=>verb <ilaY_1=>prep Al_1=>noun Al_1=>noun tu_1=>verb tu_1=>verb Al_1=>noun wa_1=>verb $uEuwr_1=>noun bi_1=>noun ru&oy_1=>noun
+$ukor_1=>noun li_1=>noun >aEoDA'_1=>noun $araf_1=>noun Al_1=>noun_prop qad~am_1=>verb daEom_1=>noun kabiyr_1=>adj wa_1=>noun musotagorib_1=>noun Haqiyq_1=>noun rijAl_1=>noun EA$iq_1=>noun la_1=>noun_prop >aw~al_1=>adj wa_1=>adj Al_1=>noun yu_1=>verb Haq~_1=>noun Euros_1=>noun Al_1=>noun
+talax~aS_1=>verb Al_1=>noun fiy_1=>prep Al_1=>noun <ilaY_1=>prep nu_1=>verb fiy_1=>prep xan~Aq_1=>noun
+rafiyq_1=>noun >ay~Am_1=>noun mawoEid_1=>noun zifAf_1=>noun ya_1=>verb >a_1=>verb ridA'_1=>noun Al_1=>noun wa_1=>verb >ay~Am_1=>noun wa_1=>noun <il`h_1=>noun ya_1=>verb la_1=>prep EalaY_1=>prep xayor_1=>noun yA_1=>part_voc >ajomal_1=>noun Earuws_1=>noun
+ta_1=>verb bi_1=>conj_sub <il`h_1=>noun sa_1=>verb Al_1=>noun saEAd_1=>noun wa_1=>noun Al_1=>noun {ibotisAm_1=>noun >ad~ay_1=>verb EibAd_1=>noun EaZiym_1=>adj <il~A_1=>part Hasan_1=>noun_prop Al_1=>noun bAl_1=>noun Al_1=>noun
+tasoriyb_1=>noun safiyr_1=>noun Al_1=>noun_prop layos_1=>verb tasoriyb_1=>noun mawAqif_1=>noun muEolan_1=>adj mu$ar~if_1=>adj Al_1=>noun ta_1=>verb Al_1=>noun Al_1=>noun layos_1=>verb Al_1=>noun ya_1=>verb Eakos_1=>noun
+kub~Ay_1=>noun wa_1=>verb biyh_1=>noun_prop His~iy~_1=>adj >an~a_1=>conj_sub kabor_1=>noun
+EAyiz_1=>noun na_1=>verb ziy~_1=>noun zamAn_1=>noun Tib~_1=>noun waqot_1=>noun ta>an~iy_1=>noun Eu$~_1=>noun riyH_1=>noun Al_1=>noun bahij_1=>verb suloTAn_1=>noun_prop
+wud~iy~_1=>adj >afoTar_1=>verb wa_1=>verb Al_1=>noun >ahol_1=>noun Al_1=>noun jid~_1=>noun
+ma|b_1=>noun xaliy~_1=>adj buEod_1=>noun bi_1=>noun_prop HarAm_1=>noun Euqob_1=>noun Al_1=>noun ya_1=>verb Al_1=>noun
+Al_1=>adj {ibotasam_1=>verb wa_1=>verb taEAs_1=>noun Al_1=>noun
+ya_1=>verb yu_1=>verb Al_1=>noun wa_1=>noun tamaH~aY_1=>verb Huzon_1=>noun wa_1=>noun_prop li_1=>noun SAbir_1=>adj $ifA'_1=>noun li_1=>noun mariyD_1=>noun wa_1=>noun li_1=>noun duEA'_1=>noun >an~a_1=>conj_sub EalaY_1=>prep $ayo'_1=>noun qadiyr_1=>adj ya_1=>verb
+>aHas~_1=>verb Al_1=>noun baSiyr_1=>noun >asoEad_1=>noun <inosAn_1=>noun tafA&ul_1=>noun >umoniy~_1=>noun Hulom_1=>noun jazar_1=>noun xas~_1=>noun
+>agAniy_1=>noun maHomuwd_1=>noun_prop mubohij_1=>noun kad~_1=>noun
+>anA_1=>pron EAwiz_1=>noun >arowaH_1=>noun >afoTar_1=>verb |xar_1=>adj ramaDAn_1=>noun_prop bakor_1=>noun Al_1=>noun Al_1=>noun >aboqaY_1=>verb majonuwn_1=>noun ya_1=>verb EAdiy~_1=>adj wa_1=>adj TAriq_1=>noun_prop DaHok_1=>noun
+Al_1=>noun lay~_1=>noun xuTuwb_1=>noun
+samA'_1=>noun tilAl_1=>noun bi_1=>noun huduw'_1=>noun Samot_1=>noun waHod_1=>noun ta_1=>verb ya_1=>verb Al_1=>noun mutoE_1=>noun nihAy_1=>noun
+HaSal_1=>verb la_1=>prep >ugoniy_1=>noun jamiyl_1=>noun >an~_1=>noun $uEuwr_1=>noun mutabAdal_1=>adj wa_1=>noun
+25_1=>digit li_1=>noun bi_1=>noun bAyin_1=>noun_prop >an~a_1=>conj_sub Had~_1=>noun wa_1=>noun xafiyf_1=>adj rab~_1=>noun yu_1=>verb
+mi$~_1=>noun lay~_1=>noun wa_1=>noun bi_1=>noun wa_1=>noun
+rAjiE_1=>adj laqiy_1=>verb Al_1=>noun mawojuwd_1=>noun Al_1=>noun Al_1=>noun faD~aY_1=>verb HAs~_1=>noun Al_1=>noun mi$~_1=>noun sa_1=>verb xurom_1=>noun {ibotihAj_1=>noun bi_1=>noun
+Eiydiy~_1=>noun li_1=>noun 2_1=>digit <il`h_1=>noun <il~A_1=>part <il`h_1=>noun waHod_1=>adv $ariyk_1=>noun Al_1=>noun Al_1=>noun EalaY_1=>prep $ayo'_1=>noun qadiyr_1=>adj
+Al_1=>noun Al_1=>noun waDaE_1=>verb >ahodAf_1=>noun qariyb_1=>adj wa_1=>noun HAj~_1=>noun kad~_1=>noun {isom_1=>noun {inotiSAr_1=>noun Sagiyr_1=>noun
+Hulow_1=>noun bi_1=>noun Al_1=>noun diy_1=>noun_prop rab~_1=>noun yu_1=>verb wa_1=>verb wa_1=>verb
+nAm_1=>verb wa_1=>conj qAm_1=>verb Al_1=>adj ya_1=>verb >anofus_1=>noun jay~id_1=>adj

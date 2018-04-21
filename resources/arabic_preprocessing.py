@@ -71,10 +71,10 @@ class Arabic_preprocessing:
 
         
     def normalize_arabic(self, text):
-        text = re.sub("[إأآا]", "ا", text)
+        text = re.sub("[إأآاٱ]", "ا", text)
         text = re.sub("ى", "ي", text)
-        text = re.sub("ؤ", "ء", text)
-        text = re.sub("ئ", "ء", text)
+        #text = re.sub("ؤ", "ء", text)
+        #text = re.sub("ئ", "ء", text)
         text = re.sub("ة", "ه", text)  # replace ta2 marboota by ha2
         text = re.sub("گ", "ك", text)
         text = re.sub("\u0640", '', text)  # remove tatweel
@@ -127,20 +127,20 @@ class Arabic_preprocessing:
         # normalize, and remove diacritics from, stop words to increase posibility of matching with normalized data
         self.stop_words = [self.remove_diacritics(self.normalize_arabic(word)) for word in self.stop_words]
     
-    def preprocess_arabic_text(self, text):
+    def preprocess_arabic_text(self, text, stem=True, replace_emojis=True, normalize_arabic=True):
         self.clean_stop_words()
         text = text.replace('\\n', ' ').replace('\n', ' ')
         text = self.remove_mention(text)
         text = self.normalize_hashtag(text)
         text = self.remove_punctuations(text)
         text = self.remove_diacritics(text)
-        text = self.normalize_arabic(text)
+        if normalize_arabic: text = self.normalize_arabic(text)
         text = self.separate_emojis(text)
-        text = self.replace_emojis(text)
+        if replace_emojis: text = self.replace_emojis(text)
         text = self.remove_repeating_char(text)
         text = self.remove_english_characters(text)
         words = nltk.word_tokenize(text)
         words = [word for word in words if word not in self.stop_words]
-        words = [self.stemmer.stem(word) for word in words]
+        if stem: words = [self.stemmer.stem(word) for word in words]
         return ' '.join(words)  # return sentence (str), not list of words
 
